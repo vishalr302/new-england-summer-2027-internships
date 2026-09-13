@@ -54,7 +54,10 @@ def deduplicate(jobs):
         sourceIds = sorted(set(match['source_ids'] + job['source_ids']))
         inSimplify = match['in_simplify'] or job['in_simplify']
         confidence = 'high' if 'high' in (match['season_confidence'], job['season_confidence']) else 'medium'
+        posted = match.get('date_posted') or job.get('date_posted')
         if match['source'] == 'github' and job['source'] != 'github':
+            posted = job.get('date_posted') or posted
             match.update(job)
+        match['date_posted'] = posted
         match.update(sources=sources, source_ids=sourceIds, in_simplify=inSimplify, season_confidence=confidence)
     return result

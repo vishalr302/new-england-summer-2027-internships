@@ -37,7 +37,7 @@ def reconcile(previous, current, successful, now=None):
         job['last_seen'] = today
         job['missing_runs'] = 0
         job['active'] = True
-        job['date_posted'] = job.get('date_posted')
+        job['date_posted'] = job.get('date_posted') or next((old['date_posted'] for old in matches if old.get('date_posted')), None)
         job['source_ids'] = sorted(set(job['source_ids'] + [sid for old in matches for sid in old.get('source_ids', [])]))
         job['sources'] = sorted(set(job['sources'] + [name for old in matches for name in old.get('sources', [])]))
         if any(old.get('in_simplify') for old in matches) and 'github:SimplifyJobs' not in successful:
