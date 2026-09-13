@@ -1581,7 +1581,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -1598,7 +1598,7 @@
     "category": "Other",
     "tags": [],
     "source_id": "company:mit-lincoln-laboratory",
-    "simplify_comparison": "unavailable",
+    "simplify_comparison": "no_exact_match",
     "sources": [
       "MIT Lincoln Laboratory Careers"
     ],
@@ -1625,7 +1625,7 @@
     "category": "Other",
     "tags": [],
     "source_id": "company:mit-lincoln-laboratory",
-    "simplify_comparison": "unavailable",
+    "simplify_comparison": "no_exact_match",
     "sources": [
       "MIT Lincoln Laboratory Careers"
     ],
@@ -1654,7 +1654,7 @@
       "General Technology"
     ],
     "source_id": "company:mit-lincoln-laboratory",
-    "simplify_comparison": "unavailable",
+    "simplify_comparison": "no_exact_match",
     "sources": [
       "MIT Lincoln Laboratory Careers"
     ],

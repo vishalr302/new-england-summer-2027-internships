@@ -1,25 +1,5 @@
 [
   {
-    "source_id": "company:hasbro",
-    "name": "Hasbro",
-    "checked_at": "2026-09-13",
-    "status": "ok",
-    "checked": 147,
-    "regional": 36,
-    "internships": 0,
-    "matching": 0
-  },
-  {
-    "source_id": "company:mit-lincoln-laboratory",
-    "name": "MIT Lincoln Laboratory",
-    "checked_at": "2026-09-13",
-    "status": "ok",
-    "checked": 164,
-    "regional": 161,
-    "internships": 6,
-    "matching": 3
-  },
-  {
     "source_id": "github:SimplifyJobs",
     "name": "SimplifyJobs",
     "checked_at": "2026-09-13",
@@ -138,7 +118,7 @@
     "name": "Akamai",
     "checked_at": "2026-09-13",
     "status": "error",
-    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.akamai.com/robots.txt"
   },
   {
     "source_id": "company:boston-dynamics",
@@ -155,21 +135,21 @@
     "name": "MathWorks",
     "checked_at": "2026-09-13",
     "status": "error",
-    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.mathworks.com/robots.txt"
   },
   {
     "source_id": "company:moderna",
     "name": "Moderna",
     "checked_at": "2026-09-13",
     "status": "error",
-    "error": "ConnectionError: HTTPSConnectionPool(host='careers.modernatx.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x…>: Failed to resolve 'careers.modernatx.com' ([Errno 11001] getaddrinfo failed)\"))"
+    "error": "ConnectionError: HTTPSConnectionPool(host='careers.modernatx.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='careers.modernatx.com', port=443): Failed to resolve 'careers.modernatx.com' ([Errno -5] No address associated with hostname)\"))"
   },
   {
     "source_id": "company:vertex-pharmaceuticals",
     "name": "Vertex Pharmaceuticals",
     "checked_at": "2026-09-13",
     "status": "error",
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.vrtx.com/careers/"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.vrtx.com/robots.txt"
   },
   {
     "source_id": "company:fidelity-investments",
@@ -238,7 +218,7 @@
     "name": "Analog Devices",
     "checked_at": "2026-09-13",
     "status": "error",
-    "error": "JSONDecodeError: Extra data: line 2 column 292 (char 293)"
+    "error": "ReadTimeout: HTTPSConnectionPool(host='www.analog.com', port=443): Read timed out. (read timeout=30)"
   },
   {
     "source_id": "company:thermo-fisher-scientific",
@@ -256,6 +236,16 @@
     "checked_at": "2026-09-13",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
+  },
+  {
+    "source_id": "company:mit-lincoln-laboratory",
+    "name": "MIT Lincoln Laboratory",
+    "checked_at": "2026-09-13",
+    "status": "ok",
+    "checked": 164,
+    "regional": 161,
+    "internships": 6,
+    "matching": 3
   },
   {
     "source_id": "company:cvs-health",
@@ -276,7 +266,17 @@
     "name": "FM",
     "checked_at": "2026-09-13",
     "status": "error",
-    "error": "ConnectionError: HTTPSConnectionPool(host='www.careersatfm.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x…>: Failed to resolve 'www.careersatfm.com' ([Errno 11002] getaddrinfo failed)\"))"
+    "error": "ConnectionError: HTTPSConnectionPool(host='www.careersatfm.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='www.careersatfm.com', port=443): Failed to resolve 'www.careersatfm.com' ([Errno -3] Temporary failure in name resolution)\"))"
+  },
+  {
+    "source_id": "company:hasbro",
+    "name": "Hasbro",
+    "checked_at": "2026-09-13",
+    "status": "ok",
+    "checked": 147,
+    "regional": 36,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:textron",

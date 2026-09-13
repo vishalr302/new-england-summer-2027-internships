@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-13 (UTC)** · Scheduled every six hours
 
-**Active internships: 132** · **Added in last 24 hours: 132** · **Direct company finds: 25**
+**Active internships: 132** · **Added in last 24 hours: 132** · **Direct company finds: 28**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -161,7 +161,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 | Company | Role | Location | Source | Added |
 | --- | --- | --- | --- | --- |
-| MIT Lincoln Laboratory | 🆕 [Airborne Radar Systems and Techniques Intern (Summer 2027) - Group 105](https://careers.ll.mit.edu/job/Lexington-Airborne-Radar-Systems-and-Techniques-Intern-%28Summer-2027%29-Group-105-MA-02420/1410581200) | Lexington, MA, US | MIT Lincoln Laboratory Careers | 2026-09-13 |
+| MIT Lincoln Laboratory | 🆕 [Airborne Radar Systems and Techniques Intern (Summer 2027) - Group 105](https://careers.ll.mit.edu/job/Lexington-Airborne-Radar-Systems-and-Techniques-Intern-%28Summer-2027%29-Group-105-MA-02420/1410581200) | Lexington, MA, US | 🔎 Direct find | 2026-09-13 |
 | Wellington Management | 🆕 ◇ [Technology Undergraduate Intern](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778) | Boston, MA | SimplifyJobs | 2026-09-13 |
 | Ameriprise Financial | 🆕 ◇ [Asset Management Technology Intern - Data Enablement](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538) | Boston, MA | SimplifyJobs | 2026-09-13 |
 
@@ -169,8 +169,8 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 | Company | Role | Location | Source | Added |
 | --- | --- | --- | --- | --- |
-| MIT Lincoln Laboratory | 🆕 [Optical &amp; Quantum Communications Intern (Summer 2027) - Group 67](https://careers.ll.mit.edu/job/Lexington-Optical-&-Quantum-Communications-Intern-%28Summer-2027%29-Group-67-MA-02420/1421248300) | Lexington, MA, US | MIT Lincoln Laboratory Careers | 2026-09-13 |
-| MIT Lincoln Laboratory | 🆕 [Laser Communications Intern (Summer 2027) - Group 66](https://careers.ll.mit.edu/job/Lexington-Laser-Communications-Intern-%28Summer-2027%29-Group-66-MA-02420/1425055300) | Lexington, MA, US | MIT Lincoln Laboratory Careers | 2026-09-13 |
+| MIT Lincoln Laboratory | 🆕 [Optical &amp; Quantum Communications Intern (Summer 2027) - Group 67](https://careers.ll.mit.edu/job/Lexington-Optical-&-Quantum-Communications-Intern-%28Summer-2027%29-Group-67-MA-02420/1421248300) | Lexington, MA, US | 🔎 Direct find | 2026-09-13 |
+| MIT Lincoln Laboratory | 🆕 [Laser Communications Intern (Summer 2027) - Group 66](https://careers.ll.mit.edu/job/Lexington-Laser-Communications-Intern-%28Summer-2027%29-Group-66-MA-02420/1425055300) | Lexington, MA, US | 🔎 Direct find | 2026-09-13 |
 | RTX | 🆕 [Commercial Engines Business Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Business-Intern--Summer-2027-_01873413) | US-CT-EAST HARTFORD-OBG | 🔎 Direct find | 2026-09-13 |
 | Travelers | 🆕 ◇ [Operations Leadership Development Program (OLDP) Intern - Hartford, CT](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Operations-Leadership-Development-Program--OLDP--Intern---Hartford--CT_R-52325) | CT - Hartford | 🔎 Direct find | 2026-09-13 |
 | Travelers | 🆕 [Human Resources Leadership Development Program Internship - Summer 2027](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Human-Resources-Leadership-Development-Program-Internship---Summer-2027_R-52303) | CT - Hartford | 🔎 Direct find | 2026-09-13 |
@@ -198,8 +198,6 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| Hasbro | ok | 147 | 0 |
-| MIT Lincoln Laboratory | ok | 164 | 3 |
 | SimplifyJobs | ok | 1574 | 110 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 140 | 0 |
@@ -228,9 +226,11 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 | Analog Devices | error | — | — |
 | Thermo Fisher Scientific | ok | 1403 | 1 |
 | Draper | error | — | — |
+| MIT Lincoln Laboratory | ok | 164 | 3 |
 | CVS Health | error | — | — |
 | Citizens | error | — | — |
 | FM | error | — | — |
+| Hasbro | ok | 147 | 0 |
 | Textron | error | — | — |
 | Amica | error | — | — |
 | Pratt &amp; Whitney | disabled | — | — |
