@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-13 (UTC)** · Scheduled every six hours
 
-**Active internships: 132** · **Added in last 24 hours: 132** · **Direct company finds: 28**
+**Active internships: 131** · **Added in last 24 hours: 131** · **Direct company finds: 28**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **31 of 132 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **31 of 131 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -50,7 +50,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | PricewaterhouseCoopers (PwC) | 🆕 ◇ [Market Information and Data Analytics Intern - Multiple Teams](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Market-Information-and-Data-Analytics--MIDA----Data-Quality----Intern---Summer-2027_757081WD) | Boston, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | PricewaterhouseCoopers (PwC) | 🆕 ◇ [Diligence Analytics Intern - Deals](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Deals---Diligence-Analytics-Intern---Summer-2027_757227WD) | Boston, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | PricewaterhouseCoopers (PwC) | 🆕 ◇ [Deals Analytics Intern - DTDS](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Deals---DTDS---Analytics-Intern---Summer-2027_757228WD) | Boston, MA | SimplifyJobs | Unknown | 2026-09-13 |
-| MKS Instruments | 🆕 ◇ [Business Intelligence/Data Analytics Intern](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657) | Andover, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | DTCC | 🆕 ◇ [Data Solutions Intern - Internship Program](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214478) | Boston, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | Citizens Financial Group | 🆕 ◇ [Data Management Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277) | Boston, MA; Johnston, RI | SimplifyJobs | Unknown | 2026-09-13 |
 | Citizens Financial Group | 🆕 ◇ [Data Management Intern - Enterprise Data and Analytics 🎓](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281) | Boston, MA; Johnston, RI | SimplifyJobs | Unknown | 2026-09-13 |
@@ -204,7 +203,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 1574 | 110 |
+| SimplifyJobs | ok | 1562 | 110 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 140 | 0 |
 | Wayfair | error | — | — |
@@ -225,9 +224,9 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Liberty Mutual | error | — | — |
 | State Street | error | — | — |
 | Bose | error | — | — |
-| RTX | ok | 243 | 14 |
+| RTX | ok | 242 | 14 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1226 | 0 |
+| GE Vernova | ok | 1225 | 0 |
 | iRobot | error | — | — |
 | Analog Devices | ok | 486 | 0 |
 | Thermo Fisher Scientific | ok | 1403 | 1 |

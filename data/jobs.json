@@ -1143,12 +1143,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1174,12 +1174,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1205,12 +1205,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1236,12 +1236,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1267,12 +1267,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1298,12 +1298,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1453,12 +1453,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1484,12 +1484,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Manulife Financial",
@@ -1581,8 +1581,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true,
+    "missing_runs": 3,
+    "active": false,
     "date_posted": null
   },
   {
@@ -1708,7 +1708,7 @@
     "source": "greenhouse",
     "source_name": "Klaviyo Careers",
     "season": "summer-2027",
-    "age": "0d",
+    "age": "1d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
@@ -1888,12 +1888,12 @@
       "github:Vansh & Ouckah"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "HPR (Hyannis Port Research)",
@@ -1921,12 +1921,12 @@
       "github:Vansh & Ouckah"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Google",
@@ -2610,12 +2610,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Citizens Financial Group",
@@ -2737,12 +2737,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Citizens Financial Group",
@@ -2768,12 +2768,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Citadel",
@@ -3320,7 +3320,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "19d",
+    "age": "20d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3336,12 +3336,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Anduril",
@@ -3573,7 +3573,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "18d",
+    "age": "19d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Scientific Computing / Research",
@@ -3621,12 +3621,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "AMD",
@@ -3962,12 +3962,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "AMD",
@@ -4057,11 +4057,11 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   }
 ]

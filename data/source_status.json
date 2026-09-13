@@ -4,7 +4,7 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-13",
     "status": "ok",
-    "checked": 1574,
+    "checked": 1562,
     "regional": 111,
     "internships": 111,
     "matching": 110
@@ -187,7 +187,7 @@
     "name": "RTX",
     "checked_at": "2026-09-13",
     "status": "ok",
-    "checked": 243,
+    "checked": 242,
     "regional": 18,
     "internships": 16,
     "matching": 14
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-13",
     "status": "ok",
-    "checked": 1226,
+    "checked": 1225,
     "regional": 12,
     "internships": 0,
     "matching": 0
