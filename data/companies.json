@@ -108,9 +108,11 @@
   {
     "company": "Moderna",
     "id": "moderna",
-    "ats": "generic",
-    "careers_url": "https://careers.modernatx.com/",
-    "enabled": true
+    "ats": "workday",
+    "careers_url": "https://modernatx.wd1.myworkdayjobs.com/M_tx",
+    "enabled": true,
+    "tenant": "modernatx",
+    "site": "M_tx"
   },
   {
     "company": "Vertex Pharmaceuticals",
@@ -189,9 +191,11 @@
   {
     "company": "Analog Devices",
     "id": "analog-devices",
-    "ats": "generic",
-    "careers_url": "https://www.analog.com/en/careers.html",
-    "enabled": true
+    "ats": "workday",
+    "careers_url": "https://analogdevices.wd1.myworkdayjobs.com/External",
+    "enabled": true,
+    "tenant": "analogdevices",
+    "site": "External"
   },
   {
     "company": "Thermo Fisher Scientific",
@@ -334,9 +338,11 @@
   {
     "company": "WEX",
     "id": "wex",
-    "ats": "generic",
-    "careers_url": "https://careers.wexinc.com/",
-    "enabled": true
+    "ats": "workday",
+    "careers_url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc",
+    "enabled": true,
+    "tenant": "wexinc",
+    "site": "WEXInc"
   },
   {
     "company": "Tyler Technologies",

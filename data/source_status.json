@@ -141,8 +141,11 @@
     "source_id": "company:moderna",
     "name": "Moderna",
     "checked_at": "2026-09-13",
-    "status": "error",
-    "error": "ConnectionError: HTTPSConnectionPool(host='careers.modernatx.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='careers.modernatx.com', port=443): Failed to resolve 'careers.modernatx.com' ([Errno -5] No address associated with hostname)\"))"
+    "status": "ok",
+    "checked": 120,
+    "regional": 0,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:vertex-pharmaceuticals",
@@ -217,8 +220,11 @@
     "source_id": "company:analog-devices",
     "name": "Analog Devices",
     "checked_at": "2026-09-13",
-    "status": "error",
-    "error": "ReadTimeout: HTTPSConnectionPool(host='www.analog.com', port=443): Read timed out. (read timeout=30)"
+    "status": "ok",
+    "checked": 486,
+    "regional": 125,
+    "internships": 10,
+    "matching": 0
   },
   {
     "source_id": "company:thermo-fisher-scientific",
@@ -364,8 +370,11 @@
     "source_id": "company:wex",
     "name": "WEX",
     "checked_at": "2026-09-13",
-    "status": "error",
-    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
+    "status": "ok",
+    "checked": 47,
+    "regional": 2,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:tyler-technologies",

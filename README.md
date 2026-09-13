@@ -191,7 +191,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Source health
 
-21 sources completed · 23 coverage gaps · 2 shared-board aliases
+24 sources completed · 20 coverage gaps · 2 shared-board aliases
 
 <details>
 <summary>View all monitored sources</summary>
@@ -213,7 +213,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 | Akamai | error | — | — |
 | Boston Dynamics | ok | 77 | 0 |
 | MathWorks | error | — | — |
-| Moderna | error | — | — |
+| Moderna | ok | 120 | 0 |
 | Vertex Pharmaceuticals | error | — | — |
 | Fidelity Investments | error | — | — |
 | Liberty Mutual | error | — | — |
@@ -223,7 +223,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 | Raytheon | disabled | — | — |
 | GE Vernova | ok | 1226 | 0 |
 | iRobot | error | — | — |
-| Analog Devices | error | — | — |
+| Analog Devices | ok | 486 | 0 |
 | Thermo Fisher Scientific | ok | 1403 | 1 |
 | Draper | error | — | — |
 | MIT Lincoln Laboratory | ok | 164 | 3 |
@@ -241,7 +241,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 | The Hartford | ok | 114 | 2 |
 | BAE Systems | error | — | — |
 | IDEXX | ok | 70 | 0 |
-| WEX | error | — | — |
+| WEX | ok | 47 | 0 |
 | Tyler Technologies | error | — | — |
 | GlobalFoundries | ok | 331 | 12 |
 
