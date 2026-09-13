@@ -1,0 +1,357 @@
+[
+  {
+    "company": "HubSpot",
+    "id": "hubspot",
+    "ats": "greenhouse",
+    "identifier": "hubspotjobs",
+    "careers_url": "https://www.hubspot.com/careers/jobs",
+    "enabled": true
+  },
+  {
+    "company": "Wayfair",
+    "id": "wayfair",
+    "ats": "generic",
+    "identifier": "wayfair",
+    "careers_url": "https://www.wayfair.com/careers/jobs",
+    "enabled": true
+  },
+  {
+    "company": "DraftKings",
+    "id": "draftkings",
+    "ats": "workday",
+    "careers_url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal",
+    "enabled": true,
+    "tenant": "draftkings",
+    "site": "Campus_Career_Portal"
+  },
+  {
+    "company": "Klaviyo",
+    "id": "klaviyocampus",
+    "ats": "greenhouse",
+    "identifier": "klaviyocampus",
+    "careers_url": "https://job-boards.greenhouse.io/klaviyocampus",
+    "enabled": true
+  },
+  {
+    "company": "Toast",
+    "id": "toast",
+    "ats": "greenhouse",
+    "identifier": "toast",
+    "careers_url": "https://job-boards.greenhouse.io/toast",
+    "enabled": true
+  },
+  {
+    "company": "WHOOP",
+    "id": "whoop",
+    "ats": "ashby",
+    "identifier": "whoop",
+    "careers_url": "https://jobs.ashbyhq.com/whoop",
+    "enabled": true
+  },
+  {
+    "company": "Rapid7",
+    "id": "rapid7",
+    "ats": "workday",
+    "careers_url": "https://mymoose.wd1.myworkdayjobs.com/careers",
+    "enabled": true,
+    "tenant": "mymoose",
+    "site": "careers"
+  },
+  {
+    "company": "DEKA",
+    "id": "dekaresearchdevelopment",
+    "ats": "generic",
+    "identifier": "dekaresearchdevelopment",
+    "careers_url": "https://www.dekaresearch.com/careers/",
+    "enabled": true
+  },
+  {
+    "company": "Beta Technologies",
+    "id": "beta",
+    "ats": "lever",
+    "identifier": "beta",
+    "careers_url": "https://jobs.lever.co/beta",
+    "enabled": true
+  },
+  {
+    "company": "Biogen",
+    "id": "Biogen",
+    "ats": "workday",
+    "careers_url": "https://biibhr.wd3.myworkdayjobs.com/external",
+    "enabled": true,
+    "tenant": "biibhr",
+    "site": "external"
+  },
+  {
+    "company": "Akamai",
+    "id": "akamai",
+    "ats": "generic",
+    "careers_url": "https://www.akamai.com/careers",
+    "enabled": true
+  },
+  {
+    "company": "Boston Dynamics",
+    "id": "boston-dynamics",
+    "ats": "workday",
+    "careers_url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics",
+    "enabled": true,
+    "tenant": "bostondynamics",
+    "site": "Boston_Dynamics"
+  },
+  {
+    "company": "MathWorks",
+    "id": "mathworks",
+    "ats": "generic",
+    "careers_url": "https://www.mathworks.com/company/jobs.html",
+    "enabled": true
+  },
+  {
+    "company": "Moderna",
+    "id": "moderna",
+    "ats": "generic",
+    "careers_url": "https://careers.modernatx.com/",
+    "enabled": true
+  },
+  {
+    "company": "Vertex Pharmaceuticals",
+    "id": "vertex-pharmaceuticals",
+    "ats": "generic",
+    "careers_url": "https://www.vrtx.com/careers/",
+    "enabled": true
+  },
+  {
+    "company": "Fidelity Investments",
+    "id": "fidelity-investments",
+    "ats": "generic",
+    "careers_url": "https://jobs.fidelity.com/",
+    "enabled": true
+  },
+  {
+    "company": "Liberty Mutual",
+    "id": "liberty-mutual",
+    "ats": "generic",
+    "careers_url": "https://jobs.libertymutualgroup.com/",
+    "enabled": true
+  },
+  {
+    "company": "State Street",
+    "id": "state-street",
+    "ats": "generic",
+    "careers_url": "https://careers.statestreet.com/",
+    "enabled": true
+  },
+  {
+    "company": "Bose",
+    "id": "bose",
+    "ats": "generic",
+    "careers_url": "https://www.bose.com/careers",
+    "enabled": true
+  },
+  {
+    "company": "RTX",
+    "id": "rtx",
+    "ats": "workday",
+    "careers_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway",
+    "enabled": true,
+    "tenant": "globalhr",
+    "site": "rec_rtx_ext_gateway",
+    "facets": {
+      "workerSubType": [
+        "bac5186f63f2103219f0c765df903245"
+      ]
+    },
+    "search_text": ""
+  },
+  {
+    "company": "Raytheon",
+    "id": "raytheon",
+    "ats": "generic",
+    "careers_url": "https://careers.rtx.com/",
+    "enabled": false,
+    "notes": "Monitored through the shared RTX public board; do not fetch it twice."
+  },
+  {
+    "company": "GE Vernova",
+    "id": "ge-vernova",
+    "ats": "workday",
+    "careers_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite",
+    "enabled": true,
+    "tenant": "gevernova",
+    "site": "vernova_externalsite"
+  },
+  {
+    "company": "iRobot",
+    "id": "irobot",
+    "ats": "generic",
+    "careers_url": "https://careers.irobot.com/",
+    "enabled": true
+  },
+  {
+    "company": "Analog Devices",
+    "id": "analog-devices",
+    "ats": "generic",
+    "careers_url": "https://www.analog.com/en/careers.html",
+    "enabled": true
+  },
+  {
+    "company": "Thermo Fisher Scientific",
+    "id": "thermo-fisher-scientific",
+    "ats": "workday",
+    "careers_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers",
+    "enabled": true,
+    "tenant": "thermofisher",
+    "site": "ThermoFisherCareers"
+  },
+  {
+    "company": "Draper",
+    "id": "draper",
+    "ats": "generic",
+    "careers_url": "https://www.draper.com/careers",
+    "enabled": true
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "id": "mit-lincoln-laboratory",
+    "ats": "generic",
+    "careers_url": "https://careers.ll.mit.edu/search/?q=intern",
+    "enabled": true,
+    "selectors": {
+      "job": "tr.data-row",
+      "title": "a.jobTitle-link",
+      "link": "a.jobTitle-link",
+      "location": ".jobLocation",
+      "next": ".pagination li.active + li a:not(.paginationItemLast):not(.paginationItemFirst)"
+    }
+  },
+  {
+    "company": "CVS Health",
+    "id": "cvs-health",
+    "ats": "generic",
+    "careers_url": "https://jobs.cvshealth.com/",
+    "enabled": true
+  },
+  {
+    "company": "Citizens",
+    "id": "citizens",
+    "ats": "generic",
+    "careers_url": "https://jobs.citizensbank.com/",
+    "enabled": true
+  },
+  {
+    "company": "FM",
+    "id": "fm",
+    "ats": "generic",
+    "careers_url": "https://jobs.fmglobalcareers.com/",
+    "enabled": true
+  },
+  {
+    "company": "Hasbro",
+    "id": "hasbro",
+    "ats": "greenhouse",
+    "careers_url": "https://job-boards.greenhouse.io/hasbro",
+    "enabled": true,
+    "identifier": "hasbro"
+  },
+  {
+    "company": "Textron",
+    "id": "textron",
+    "ats": "generic",
+    "careers_url": "https://www.textron.com/Careers",
+    "enabled": true
+  },
+  {
+    "company": "Amica",
+    "id": "amica",
+    "ats": "generic",
+    "careers_url": "https://www.amica.com/en/about-us/careers.html",
+    "enabled": true
+  },
+  {
+    "company": "Pratt & Whitney",
+    "id": "pratt-and-whitney",
+    "ats": "generic",
+    "careers_url": "https://careers.rtx.com/",
+    "enabled": false,
+    "notes": "Monitored through the shared RTX public board; do not fetch it twice."
+  },
+  {
+    "company": "Travelers",
+    "id": "travelers",
+    "ats": "workday",
+    "careers_url": "https://travelers.wd5.myworkdayjobs.com/External",
+    "enabled": true,
+    "tenant": "travelers",
+    "site": "External"
+  },
+  {
+    "company": "Synchrony",
+    "id": "synchrony",
+    "ats": "generic",
+    "careers_url": "https://www.synchronycareers.com/",
+    "enabled": true
+  },
+  {
+    "company": "Stanley Black & Decker",
+    "id": "stanley-black-and-decker",
+    "ats": "workday",
+    "careers_url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site",
+    "enabled": true,
+    "tenant": "sbdinc",
+    "site": "Stanley_Black_Decker_Career_Site"
+  },
+  {
+    "company": "Sikorsky",
+    "id": "sikorsky",
+    "ats": "generic",
+    "careers_url": "https://www.lockheedmartinjobs.com/",
+    "enabled": true
+  },
+  {
+    "company": "The Hartford",
+    "id": "the-hartford",
+    "ats": "workday",
+    "careers_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
+    "enabled": true,
+    "tenant": "thehartford",
+    "site": "Careers_External"
+  },
+  {
+    "company": "BAE Systems",
+    "id": "bae-systems",
+    "ats": "generic",
+    "careers_url": "https://jobs.baesystems.com/",
+    "enabled": true
+  },
+  {
+    "company": "IDEXX",
+    "id": "idexx",
+    "ats": "workday",
+    "careers_url": "https://idexx.wd115.myworkdayjobs.com/IDEXX",
+    "enabled": true,
+    "tenant": "idexx",
+    "site": "IDEXX"
+  },
+  {
+    "company": "WEX",
+    "id": "wex",
+    "ats": "generic",
+    "careers_url": "https://careers.wexinc.com/",
+    "enabled": true
+  },
+  {
+    "company": "Tyler Technologies",
+    "id": "tyler-technologies",
+    "ats": "generic",
+    "careers_url": "https://www.tylertech.com/careers",
+    "enabled": true
+  },
+  {
+    "company": "GlobalFoundries",
+    "id": "globalfoundries",
+    "ats": "workday",
+    "careers_url": "https://globalfoundries.wd1.myworkdayjobs.com/External",
+    "enabled": true,
+    "tenant": "globalfoundries",
+    "site": "External"
+  }
+]

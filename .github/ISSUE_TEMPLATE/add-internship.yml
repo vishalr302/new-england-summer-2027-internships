@@ -1,0 +1,41 @@
+name: Add an internship
+description: Submit a missing Summer 2027 opportunity
+title: '[Internship] '
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Include a New England state or explicit remote eligibility.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Application URL
+      description: Prefer the official employer page.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Include any Summer 2027 date evidence.

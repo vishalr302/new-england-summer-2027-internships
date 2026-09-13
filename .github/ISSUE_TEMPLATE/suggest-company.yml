@@ -1,0 +1,22 @@
+name: Suggest a company
+description: Request a new public career board to monitor
+title: '[Company] '
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: careers
+    attributes:
+      label: Public careers URL
+    validations:
+      required: true
+  - type: textarea
+    id: region
+    attributes:
+      label: New England locations and ATS details
+    validations:
+      required: true
