@@ -5434,5 +5434,34 @@
     "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Engineering Services Intern (Summer 2027)",
+    "location": "US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Engineering-Services-Intern--Summer-2027-_01872640",
+    "date_posted": "2026-09-13",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T05:08:51.342152+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   }
 ]
