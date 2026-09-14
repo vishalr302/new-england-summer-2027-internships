@@ -4,7 +4,7 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 1584,
+    "checked": 1551,
     "regional": 111,
     "internships": 111,
     "matching": 110
@@ -24,7 +24,7 @@
     "name": "HubSpot",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 140,
+    "checked": 142,
     "regional": 3,
     "internships": 0,
     "matching": 0
@@ -142,7 +142,7 @@
     "name": "Moderna",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 120,
+    "checked": 119,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -187,7 +187,7 @@
     "name": "RTX",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 248,
+    "checked": 249,
     "regional": 23,
     "internships": 21,
     "matching": 15
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 1205,
+    "checked": 1210,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -231,7 +231,7 @@
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 1393,
+    "checked": 1383,
     "regional": 46,
     "internships": 7,
     "matching": 1
@@ -248,8 +248,8 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 164,
-    "regional": 161,
+    "checked": 163,
+    "regional": 160,
     "internships": 6,
     "matching": 3
   },
@@ -326,11 +326,8 @@
     "source_id": "company:stanley-black-and-decker",
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-14",
-    "status": "ok",
-    "checked": 328,
-    "regional": 7,
-    "internships": 0,
-    "matching": 0
+    "status": "error",
+    "error": "KeyError: 'externalPath'"
   },
   {
     "source_id": "company:sikorsky",
@@ -344,7 +341,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 114,
+    "checked": 116,
     "regional": 16,
     "internships": 5,
     "matching": 2
@@ -361,7 +358,7 @@
     "name": "IDEXX",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 71,
+    "checked": 64,
     "regional": 11,
     "internships": 0,
     "matching": 0
@@ -371,7 +368,7 @@
     "name": "WEX",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 47,
+    "checked": 48,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -388,7 +385,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 328,
+    "checked": 327,
     "regional": 18,
     "internships": 12,
     "matching": 12
