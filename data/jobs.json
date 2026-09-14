@@ -1,5 +1,242 @@
 [
   {
+    "company": "Tive",
+    "title": "Software Engineer Co-op",
+    "location": "Boston, MA",
+    "url": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "RTX",
+    "title": "Test Engineering Analysis Intern (Summer 2027)(Onsite)",
+    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Test-Engineering-Analysis-Intern--Summer-2027--Onsite-_01871446",
+    "date_posted": "2026-09-14",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Systems Engineering Summer Intern- Onsite",
+    "location": "US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Systems-Engineering-Summer-Intern--Onsite_01872942",
+    "date_posted": "2026-09-14",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering",
+      "General Technology"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Systems Engineering Intern (Onsite)",
+    "location": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Systems-Engineering-Intern--Onsite-_01871782",
+    "date_posted": "2026-09-14",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering",
+      "General Technology"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Project Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Intern--Summer-2027--Onsite-_01872630",
+    "date_posted": "2026-09-14",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Mechanical Design Engineering Intern (Summer 2027)",
+    "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Mechanical-Design-Engineering-Intern--Summer-2027-_01873000",
+    "date_posted": "2026-09-14",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Materials & Processes and Mechanical Disciplines Engineering Intern (Summer 2027) (Onsite)",
+    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials---Processes-and-Mechanical-Disciplines-Engineering-Intern--Summer-2027---Onsite-_01871669",
+    "date_posted": "2026-09-14",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Engineering Services Intern (Summer 2027)",
+    "location": "US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Engineering-Services-Intern--Summer-2027-_01872640",
+    "date_posted": "2026-09-13",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T05:08:51.342152+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
     "company": "RTX",
     "title": "Electrical Engineer Intern - RDP",
     "location": "Tewksbury, MA",
@@ -25,6 +262,69 @@
     "in_simplify": true,
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "OpenGov",
+    "title": "Software Engineer Intern",
+    "location": "Boston, MA",
+    "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08?embed=true",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "National Life",
+    "title": "IT Application Development Intern",
+    "location": "Montpelier, VT; Addison, TX",
+    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "General Technology",
+    "tags": [
+      "General Technology"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
@@ -59,6 +359,224 @@
     "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
+  },
+  {
+    "company": "Google",
+    "title": "User Experience Engineer Intern - PhD - Summer 2027 🎓",
+    "location": "Palo Alto, CA; Cambridge, MA; Madison, WI; Seattle, WA; Washington, DC; SF; Austin, TX; LA; Irvine, CA; San Bruno, CA; Redmond, WA; Santa Cruz, CA; Chicago, IL; Goleta, CA; Pittsburgh, PA; Kirkland, WA; Reston, VA; NYC; Bellevue, WA; Sunnyvale, CA; Mountain View, CA; Portland, OR; Boulder, CO; Atlanta, GA; San Diego, CA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "Google",
+    "title": "User Experience Engineer Intern",
+    "location": "Palo Alto, CA; Cambridge, MA; Madison, WI; Seattle, WA; Washington, DC; SF; Austin, TX; LA; Irvine, CA; San Bruno, CA; Redmond, WA; Santa Cruz, CA; Chicago, IL; Goleta, CA; Pittsburgh, PA; Kirkland, WA; Reston, VA; NYC; Bellevue, WA; Sunnyvale, CA; Mountain View, CA; Portland, OR; Boulder, CO; Atlanta, GA; San Diego, CA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "Google",
+    "title": "Hardware Engineer Intern - PhD 🎓",
+    "location": "Palo Alto, CA; Cambridge, MA; Madison, WI; Seattle, WA; Washington, DC; SF; Austin, TX; LA; San Jose, CA; Irvine, CA; South SF; Redwood City, CA; Raleigh, NC; San Bruno, CA; Redmond, WA; Durham, NC; Ann Arbor, MI; Santa Cruz, CA; Chicago, IL; Goleta, CA; Pittsburgh, PA; Kirkland, WA; Reston, VA; NYC; Bellevue, WA; Sunnyvale, CA; Mountain View, CA; Portland, OR; Boulder, CO; Atlanta, GA; San Diego, CA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "Google",
+    "title": "Hardware Engineer Intern",
+    "location": "Palo Alto, CA; Cambridge, MA; Madison, WI; Seattle, WA; Washington, DC; SF; Austin, TX; LA; San Jose, CA; Irvine, CA; South SF; Redwood City, CA; Raleigh, NC; San Bruno, CA; Redmond, WA; Durham, NC; Ann Arbor, MI; Santa Cruz, CA; Chicago, IL; Goleta, CA; Pittsburgh, PA; Kirkland, WA; Reston, VA; NYC; Bellevue, WA; Sunnyvale, CA; Mountain View, CA; Portland, OR; Boulder, CO; Atlanta, GA; San Diego, CA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "Google",
+    "title": "Data Scientist Research Intern - PhD 🎓",
+    "location": "Palo Alto, CA; Cambridge, MA; Madison, WI; Seattle, WA; Washington, DC; SF; Austin, TX; LA; San Jose, CA; Irvine, CA; South SF; Redwood City, CA; Raleigh, NC; San Bruno, CA; Redmond, WA; Durham, NC; Ann Arbor, MI; Santa Cruz, CA; Chicago, IL; Goleta, CA; Pittsburgh, PA; Kirkland, WA; Reston, VA; NYC; Bellevue, WA; Sunnyvale, CA; Mountain View, CA; Portland, OR; Boulder, CO; Atlanta, GA; San Diego, CA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/89965613241246406",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Data Science",
+    "tags": [
+      "Data Science",
+      "Scientific Computing / Research"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "Google",
+    "title": "Data Scientist Intern - Product 🎓",
+    "location": "Palo Alto, CA; Cambridge, MA; Madison, WI; Seattle, WA; Washington, DC; SF; Austin, TX; LA; San Jose, CA; Irvine, CA; South SF; Redwood City, CA; Raleigh, NC; San Bruno, CA; Redmond, WA; Durham, NC; Ann Arbor, MI; Santa Cruz, CA; Chicago, IL; Goleta, CA; Pittsburgh, PA; Kirkland, WA; Reston, VA; NYC; Bellevue, WA; Sunnyvale, CA; Mountain View, CA; Portland, OR; Boulder, CO; Atlanta, GA; San Diego, CA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Data Science",
+    "tags": [
+      "Data Science"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "Google",
+    "title": "Business Data Scientist Intern 🎓",
+    "location": "Palo Alto, CA; Cambridge, MA; Madison, WI; Seattle, WA; Washington, DC; SF; Austin, TX; LA; San Jose, CA; Irvine, CA; South SF; Redwood City, CA; Raleigh, NC; San Bruno, CA; Redmond, WA; Durham, NC; Ann Arbor, MI; Santa Cruz, CA; Chicago, IL; Goleta, CA; Pittsburgh, PA; Kirkland, WA; Reston, VA; NYC; Bellevue, WA; Sunnyvale, CA; Mountain View, CA; Portland, OR; Boulder, CO; Atlanta, GA; San Diego, CA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Data Science",
+    "tags": [
+      "Data Science"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
   },
   {
     "company": "Dell Technologies",
@@ -476,8 +994,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true
+    "missing_runs": 3,
+    "active": false
   },
   {
     "company": "Travelers",
@@ -503,8 +1021,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true
+    "missing_runs": 3,
+    "active": false
   },
   {
     "company": "Travelers",
@@ -530,8 +1048,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true
+    "missing_runs": 3,
+    "active": false
   },
   {
     "company": "Travelers",
@@ -626,15 +1144,15 @@
   },
   {
     "company": "The Hartford",
-    "title": "Software Engineer Intern - Tech & Data Program",
+    "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
     "location": "Hartford, CT",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
     "source": "workday",
     "source_name": "The Hartford Careers",
     "season": "summer-2027",
     "age": "21d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
@@ -651,30 +1169,28 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-08-27",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": "2026-08-27"
+    "active": true
   },
   {
     "company": "The Hartford",
-    "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
+    "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
     "location": "Hartford, CT",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
     "source": "workday",
     "source_name": "The Hartford Careers",
     "season": "summer-2027",
     "age": "21d",
-    "is_simplify": true,
-    "season_confidence": "medium",
-    "category": "AI / Machine Learning",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
     "tags": [
-      "AI / Machine Learning",
       "Software Engineering",
-      "Hardware / Engineering",
-      "General Technology"
+      "Hardware / Engineering"
     ],
     "source_id": "company:the-hartford",
     "simplify_comparison": "matched",
@@ -687,12 +1203,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-08-27",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": "2026-08-27"
+    "active": true
   },
   {
     "company": "Textron",
@@ -972,7 +1488,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -999,7 +1515,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -1027,7 +1543,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -1056,7 +1572,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -1084,7 +1600,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -1112,7 +1628,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -1140,7 +1656,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -1168,7 +1684,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -1197,7 +1713,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -1230,7 +1746,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -1258,7 +1774,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -1291,7 +1807,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:34:45.097133+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -1318,7 +1834,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -1350,7 +1866,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -1472,8 +1988,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true,
+    "missing_runs": 3,
+    "active": false,
     "date_posted": null
   },
   {
@@ -2440,7 +2956,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false,
     "date_posted": null
   },
@@ -2468,8 +2984,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true
+    "missing_runs": 3,
+    "active": false
   },
   {
     "company": "MIT Lincoln Laboratory",
@@ -2495,8 +3011,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true
+    "missing_runs": 3,
+    "active": false
   },
   {
     "company": "MIT Lincoln Laboratory",
@@ -4276,7 +4792,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -4337,8 +4853,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true,
+    "missing_runs": 3,
+    "active": false,
     "date_posted": null
   },
   {
@@ -4598,7 +5114,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "20d",
+    "age": "21d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -5431,35 +5947,6 @@
     "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-14",
-    "missing_runs": 0,
-    "active": true
-  },
-  {
-    "company": "RTX",
-    "title": "Engineering Services Intern (Summer 2027)",
-    "location": "US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Engineering-Services-Intern--Summer-2027-_01872640",
-    "date_posted": "2026-09-13",
-    "source": "workday",
-    "source_name": "RTX Careers",
-    "is_simplify": false,
-    "season_confidence": "high",
-    "category": "Hardware / Engineering",
-    "tags": [
-      "Hardware / Engineering"
-    ],
-    "source_id": "company:rtx",
-    "simplify_comparison": "no_exact_match",
-    "sources": [
-      "RTX Careers"
-    ],
-    "source_ids": [
-      "company:rtx"
-    ],
-    "in_simplify": false,
-    "first_seen": "2026-09-14",
-    "first_seen_at": "2026-09-14T05:08:51.342152+00:00",
     "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true

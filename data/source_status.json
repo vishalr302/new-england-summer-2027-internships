@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 1617,
-    "regional": 114,
-    "internships": 114,
-    "matching": 111
+    "checked": 1671,
+    "regional": 124,
+    "internships": 124,
+    "matching": 121
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -61,7 +61,7 @@
     "name": "Toast",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 331,
+    "checked": 328,
     "regional": 20,
     "internships": 0,
     "matching": 0
@@ -108,7 +108,7 @@
     "name": "Biogen",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 206,
+    "checked": 207,
     "regional": 83,
     "internships": 0,
     "matching": 0
@@ -118,7 +118,7 @@
     "name": "Akamai",
     "checked_at": "2026-09-14",
     "status": "error",
-    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.akamai.com/robots.txt"
   },
   {
     "source_id": "company:boston-dynamics",
@@ -135,14 +135,14 @@
     "name": "MathWorks",
     "checked_at": "2026-09-14",
     "status": "error",
-    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.mathworks.com/robots.txt"
   },
   {
     "source_id": "company:moderna",
     "name": "Moderna",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 118,
+    "checked": 117,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -152,7 +152,7 @@
     "name": "Vertex Pharmaceuticals",
     "checked_at": "2026-09-14",
     "status": "error",
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.vrtx.com/careers/"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.vrtx.com/robots.txt"
   },
   {
     "source_id": "company:fidelity-investments",
@@ -186,8 +186,11 @@
     "source_id": "company:rtx",
     "name": "RTX",
     "checked_at": "2026-09-14",
-    "status": "error",
-    "error": "ValueError: Workday repeated a page; refusing incomplete results"
+    "status": "ok",
+    "checked": 270,
+    "regional": 34,
+    "internships": 32,
+    "matching": 14
   },
   {
     "source_id": "company:raytheon",
@@ -201,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 1221,
+    "checked": 1227,
     "regional": 13,
     "internships": 0,
     "matching": 0
@@ -218,9 +221,9 @@
     "name": "Analog Devices",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 478,
+    "checked": 479,
     "regional": 122,
-    "internships": 10,
+    "internships": 11,
     "matching": 0
   },
   {
@@ -228,7 +231,7 @@
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-14",
     "status": "error",
-    "error": "ValueError: Workday repeated a page; refusing incomplete results"
+    "error": "KeyError: 'externalPath'"
   },
   {
     "source_id": "company:draper",
@@ -242,8 +245,8 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 161,
-    "regional": 158,
+    "checked": 162,
+    "regional": 159,
     "internships": 6,
     "matching": 1
   },
@@ -266,7 +269,7 @@
     "name": "FM",
     "checked_at": "2026-09-14",
     "status": "error",
-    "error": "ConnectionError: HTTPSConnectionPool(host='www.careersatfm.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x…>: Failed to resolve 'www.careersatfm.com' ([Errno 11002] getaddrinfo failed)\"))"
+    "error": "ConnectionError: HTTPSConnectionPool(host='www.careersatfm.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='www.careersatfm.com', port=443): Failed to resolve 'www.careersatfm.com' ([Errno -3] Temporary failure in name resolution)\"))"
   },
   {
     "source_id": "company:hasbro",
@@ -337,8 +340,11 @@
     "source_id": "company:the-hartford",
     "name": "The Hartford",
     "checked_at": "2026-09-14",
-    "status": "error",
-    "error": "KeyError: 'externalPath'"
+    "status": "ok",
+    "checked": 116,
+    "regional": 17,
+    "internships": 6,
+    "matching": 2
   },
   {
     "source_id": "company:bae-systems",
@@ -352,8 +358,8 @@
     "name": "IDEXX",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 63,
-    "regional": 12,
+    "checked": 64,
+    "regional": 13,
     "internships": 0,
     "matching": 0
   },
@@ -379,7 +385,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 329,
+    "checked": 328,
     "regional": 18,
     "internships": 12,
     "matching": 12
@@ -399,7 +405,7 @@
     "name": "Trimble",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 11,
+    "checked": 15,
     "regional": 2,
     "internships": 2,
     "matching": 0
@@ -439,7 +445,7 @@
     "name": "Marvell",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 19,
+    "checked": 20,
     "regional": 10,
     "internships": 10,
     "matching": 10
@@ -459,7 +465,7 @@
     "name": "MKS Instruments",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 4,
+    "checked": 5,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -469,7 +475,7 @@
     "name": "Lexington Medical",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 22,
+    "checked": 21,
     "regional": 15,
     "internships": 4,
     "matching": 2
@@ -569,7 +575,7 @@
     "name": "CACI",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 51,
+    "checked": 52,
     "regional": 6,
     "internships": 6,
     "matching": 4
@@ -599,7 +605,7 @@
     "name": "Anduril",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 2272,
+    "checked": 2271,
     "regional": 204,
     "internships": 4,
     "matching": 4
@@ -726,7 +732,7 @@
     "name": "Cyvl",
     "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 8,
+    "checked": 9,
     "regional": 8,
     "internships": 2,
     "matching": 2
