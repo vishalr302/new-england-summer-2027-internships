@@ -1,4 +1,5 @@
 import json
+import requests
 from datetime import date
 from urllib.parse import urljoin, urlsplit
 from bs4 import BeautifulSoup
@@ -91,3 +92,12 @@ def scrape_company(company, client):
     if company['ats'] not in collectors:
         raise ValueError('Unsupported ATS: ' + company['ats'])
     return collectors[company['ats']](company, client)
+
+
+def scrape_web_posting(posting, client):
+    try:
+        return get_generic_jobs(posting, client)
+    except requests.HTTPError as error:
+        if error.response is not None and error.response.status_code in (404, 410):
+            return []
+        raise

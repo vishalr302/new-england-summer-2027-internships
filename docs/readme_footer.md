@@ -4,9 +4,13 @@ The tracker reads the raw [SimplifyJobs Summer 2027 README](https://github.com/S
 
 README locations show New England options; full original locations remain in the exports. State names and uppercase postal abbreviations are the main geographic signals. Common New England cities and metro labels are fallbacks; explicit out-of-region locations override city-only matches. Nationwide remote jobs are excluded without a New England location or eligibility signal. City-only names can be ambiguous and should be checked by applicants.
 
-Titles or explicit internship metadata must identify a student opportunity. Summer 2027 wording earns high confidence; a dedicated Summer 2027 source or a dated summer recruiting signal can earn medium confidence (◇). Other seasons and low-confidence roles are excluded. Graduation-year mentions alone do not qualify. Categories use editable title keywords.
+Titles or explicit internship metadata must identify a student opportunity. Summer 2027 wording earns high confidence; a dedicated Summer 2027 source or a dated summer recruiting signal can earn medium confidence (◇). Other seasons and low-confidence roles are excluded. Graduation-year mentions alone do not qualify. Technology categories use editable title keywords, with explicit technical descriptions used for otherwise generic internship titles. Nontechnical roles are excluded from the displayed list.
 
 Tracking parameters are removed before URL comparison. Matching company, role, and location also collapses duplicates, preferring direct company records. This intentionally conservative approach can miss renamed roles or conflate identical titles at the same location; inspect the application page. Every job keeps its first/last seen dates. It becomes inactive only after three complete successful checks of all its known sources find it absent. Source outages freeze missing counts, so stale roles may remain visible; `last_seen` is available in the exports.
+
+## Broader web discovery
+
+The company watchlist now includes employers discovered through broader web searches, beyond the two GitHub lists. Individual official postings are also rechecked from [data/web_postings.json](data/web_postings.json). See [discovery coverage and limitations](docs/discovery.md). Scheduled updates check configured sources; they do not run a general internet search.
 
 ## Run locally
 

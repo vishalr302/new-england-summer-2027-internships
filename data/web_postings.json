@@ -1,0 +1,22 @@
+[
+  {
+    "id": "berrydunn-4021",
+    "company": "BerryDunn",
+    "ats": "generic",
+    "careers_url": "https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job?in_iframe=1",
+    "discovered_via": "web_search",
+    "discovered_on": "2026-09-13",
+    "enabled": true,
+    "notes": "Official public embedded job page linked by the employer careers page; monitored as an individual posting, not a full company board."
+  },
+  {
+    "id": "citizens-49289",
+    "company": "Citizens",
+    "ats": "generic",
+    "careers_url": "https://jobs.citizensbank.com/job/johnston/corporate-security-and-resilience-summer-2027-intern-enterprise-technology-and-security-summer-inte/288/100486082672",
+    "discovered_via": "web_search",
+    "discovered_on": "2026-09-13",
+    "enabled": true,
+    "notes": "Official individual posting with JobPosting JSON-LD; separate from the currently unsupported company-wide index."
+  }
+]

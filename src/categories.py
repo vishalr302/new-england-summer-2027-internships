@@ -16,3 +16,15 @@ CATEGORY_RULES = {
 def categorize(title):
     tags = [name for name, pattern in CATEGORY_RULES.items() if re.search(pattern, title, re.I)]
     return (tags or ['Other'])[0], tags
+
+
+def categorize_job(job):
+    category, tags = categorize(job['title'])
+    if category != 'Other':
+        return category, tags
+    if re.search(r'human resources|\bHR\b|accounting|finance|marketing|sales|legal|sustainability|logistics', job['title'], re.I):
+        return 'Other', []
+    description = job.get('description', '')
+    if re.search(r'software|machine learning|data scien|data analy|cybersecurity|computer science|robotics|semiconductor|\bFPGA\b|computational', description, re.I):
+        return categorize(description)
+    return 'Other', []

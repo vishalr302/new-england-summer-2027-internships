@@ -33,7 +33,7 @@ def posting_age(job, now):
 
 def make_readme(root, jobs, status, now=None):
     now = now or datetime.now(timezone.utc)
-    active = [job for job in jobs if job['active'] and job['season_confidence'] in ('high', 'medium')]
+    active = [job for job in jobs if job['active'] and job['category'] != 'Other' and job['season_confidence'] in ('high', 'medium')]
     direct = [job for job in active if job['source'] != 'github' and not job['in_simplify'] and job.get('simplify_comparison') == 'no_exact_match']
     lines = ['# New England Summer 2027 Internships', '',
              'Automatically collected student opportunities across **Massachusetts · Rhode Island · Connecticut · New Hampshire · Vermont · Maine**.', '',
@@ -61,7 +61,7 @@ def make_readme(root, jobs, status, now=None):
             url = quote(job['url'], safe=':/?=&%#@+;,~!$*\'-._')
             lines.append(f"| {safe(job['company'])} | {marker}[{safe(job['title'])}]({url}) | {safe(location)} | {source} | {posting_age(job, now)} | {job['first_seen']} |")
         lines.append('')
-    lines += ['## Source health', '', f"{sum(row['status'] == 'ok' for row in status)} sources completed · {sum(row['status'] == 'error' for row in status)} coverage gaps · {sum(row['status'] == 'disabled' for row in status)} shared-board aliases", '', '<details>', '<summary>View all monitored sources</summary>', '', '| Source | Status | Checked | Matching |', '| --- | --- | --- | --- |']
+    lines += ['## Source health', '', f"{sum(row['status'] == 'ok' for row in status)} sources completed · {sum(row['status'] == 'error' for row in status)} coverage gaps · {sum(row['status'] == 'disabled' for row in status)} disabled entries", '', '<details>', '<summary>View all monitored sources</summary>', '', '| Source | Status | Checked | Matching |', '| --- | --- | --- | --- |']
     for row in status:
         lines.append(f"| {safe(row['name'])} | {safe(row['status'])} | {row.get('checked', '—')} | {row.get('matching', '—')} |")
     lines += ['', '</details>', '', 'A successful source can return zero matching internships. Failed, incomplete, or disabled sources do not count as job disappearances. Error details are in the source-health JSON.', '',

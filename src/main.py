@@ -4,9 +4,9 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .categories import categorize
+from .categories import categorize_job
 from .deduplicate import deduplicate
-from .filters import is_internship, is_new_england, season_confidence
+from .filters import is_internship, is_new_england, is_other_season, season_confidence
 from .github_sources import get_github_jobs
 from .http_client import HttpClient
 from .make_readme import make_readme
@@ -26,13 +26,16 @@ def main():
     previous = read_json(ROOT / 'data/jobs.json', [])
     sources = read_json(ROOT / 'data/sources.json', {})['github_sources']
     companies = read_json(ROOT / 'data/companies.json', [])
+    webPostings = read_json(ROOT / 'data/web_postings.json', [])
     tasks = []
     if not args.company:
         tasks += [('github:' + source['name'], source['name'], source, get_github_jobs) for source in sources]
     if not args.github_only:
-        from .company_scraper import scrape_company
+        from .company_scraper import scrape_company, scrape_web_posting
         tasks += [('company:' + company.get('id', company['company']), company['company'], company, scrape_company)
                   for company in companies if not args.company or args.company.lower() in company['company'].lower()]
+        tasks += [('web:' + posting['id'], posting['company'] + ' (web posting)', posting, scrape_web_posting)
+                  for posting in webPostings if not args.company or args.company.lower() in posting['company'].lower()]
     current, statuses, successful = [], [], set()
     for sourceId, name, config, collector in tasks:
         status = {'source_id': sourceId, 'name': name, 'checked_at': now.date().isoformat()}
@@ -50,7 +53,9 @@ def main():
                 job['season_confidence'] = season_confidence(job, now.date())
                 if job['season_confidence'] == 'low':
                     continue
-                job['category'], job['tags'] = categorize(job['title'])
+                job['category'], job['tags'] = categorize_job(job)
+                if job['category'] == 'Other':
+                    continue
                 job['source_id'] = sourceId
                 job['simplify_comparison'] = 'pending'
                 matches.append(job)
@@ -62,6 +67,9 @@ def main():
             status.update(status='error', error=re.sub(r'0x[0-9A-Fa-f]+', '0x…', f'{type(error).__name__}: {error}'))
             logging.warning('%s: %s', name, status['error'])
         statuses.append(status)
+    oldStatuses = read_json(ROOT / 'data/source_status.json', [])
+    checkedIds = {row['source_id'] for row in statuses}
+    statuses += [row for row in oldStatuses if row['source_id'] not in checkedIds]
     if not successful:
         write_json(ROOT / 'data/source_status.json', statuses)
         logging.error('No source completed. Preserving listings and README.')
@@ -73,13 +81,13 @@ def main():
         job.pop('description', None)
         job.pop('employment_type', None)
     jobs = reconcile(previous, current, successful, now)
+    for job in jobs:
+        if is_other_season(job['title']):
+            job['season_confidence'] = 'low'
     export_jobs(ROOT, jobs)
-    oldStatuses = read_json(ROOT / 'data/source_status.json', [])
-    checkedIds = {row['source_id'] for row in statuses}
-    statuses += [row for row in oldStatuses if row['source_id'] not in checkedIds]
     write_json(ROOT / 'data/source_status.json', statuses)
     make_readme(ROOT, jobs, statuses, now)
-    logging.info('Active: %s; newly discovered: %s; errors: %s', sum(job['active'] for job in jobs),
+    logging.info('Active: %s; newly discovered: %s; errors: %s', sum(job['active'] and job['category'] != 'Other' and job['season_confidence'] != 'low' for job in jobs),
                  sum(job['first_seen_at'] == now.isoformat() for job in jobs), sum(row['status'] == 'error' for row in statuses))
     return 0
 

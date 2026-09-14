@@ -2,17 +2,17 @@
   {
     "source_id": "github:SimplifyJobs",
     "name": "SimplifyJobs",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 1574,
-    "regional": 111,
-    "internships": 111,
-    "matching": 110
+    "checked": 1617,
+    "regional": 114,
+    "internships": 114,
+    "matching": 111
   },
   {
     "source_id": "github:Vansh & Ouckah",
     "name": "Vansh & Ouckah",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
     "checked": 214,
     "regional": 11,
@@ -22,9 +22,9 @@
   {
     "source_id": "company:hubspot",
     "name": "HubSpot",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 140,
+    "checked": 141,
     "regional": 3,
     "internships": 0,
     "matching": 0
@@ -32,14 +32,14 @@
   {
     "source_id": "company:wayfair",
     "name": "Wayfair",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:draftkings",
     "name": "DraftKings",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
     "checked": 6,
     "regional": 6,
@@ -49,7 +49,7 @@
   {
     "source_id": "company:klaviyocampus",
     "name": "Klaviyo",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
     "checked": 3,
     "regional": 3,
@@ -59,44 +59,44 @@
   {
     "source_id": "company:toast",
     "name": "Toast",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 330,
-    "regional": 19,
+    "checked": 331,
+    "regional": 20,
     "internships": 0,
     "matching": 0
   },
   {
     "source_id": "company:whoop",
     "name": "WHOOP",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 154,
-    "regional": 146,
+    "checked": 155,
+    "regional": 147,
     "internships": 0,
     "matching": 0
   },
   {
     "source_id": "company:rapid7",
     "name": "Rapid7",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 14,
-    "regional": 6,
+    "checked": 18,
+    "regional": 7,
     "internships": 0,
     "matching": 0
   },
   {
     "source_id": "company:dekaresearchdevelopment",
     "name": "DEKA",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:beta",
     "name": "Beta Technologies",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
     "checked": 0,
     "regional": 0,
@@ -106,9 +106,9 @@
   {
     "source_id": "company:Biogen",
     "name": "Biogen",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 205,
+    "checked": 206,
     "regional": 83,
     "internships": 0,
     "matching": 0
@@ -116,14 +116,14 @@
   {
     "source_id": "company:akamai",
     "name": "Akamai",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.akamai.com/robots.txt"
+    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:boston-dynamics",
     "name": "Boston Dynamics",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
     "checked": 77,
     "regional": 67,
@@ -133,16 +133,16 @@
   {
     "source_id": "company:mathworks",
     "name": "MathWorks",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.mathworks.com/robots.txt"
+    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:moderna",
     "name": "Moderna",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 120,
+    "checked": 118,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -150,228 +150,219 @@
   {
     "source_id": "company:vertex-pharmaceuticals",
     "name": "Vertex Pharmaceuticals",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
-    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.vrtx.com/robots.txt"
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.vrtx.com/careers/"
   },
   {
     "source_id": "company:fidelity-investments",
     "name": "Fidelity Investments",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:liberty-mutual",
     "name": "Liberty Mutual",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:state-street",
     "name": "State Street",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:bose",
     "name": "Bose",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.bose.com/careers"
   },
   {
     "source_id": "company:rtx",
     "name": "RTX",
-    "checked_at": "2026-09-13",
-    "status": "ok",
-    "checked": 243,
-    "regional": 18,
-    "internships": 16,
-    "matching": 14
+    "checked_at": "2026-09-14",
+    "status": "error",
+    "error": "ValueError: Workday repeated a page; refusing incomplete results"
   },
   {
     "source_id": "company:raytheon",
     "name": "Raytheon",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "disabled",
     "error": "Monitored through the shared RTX public board; do not fetch it twice."
   },
   {
     "source_id": "company:ge-vernova",
     "name": "GE Vernova",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 1226,
-    "regional": 12,
+    "checked": 1221,
+    "regional": 13,
     "internships": 0,
     "matching": 0
   },
   {
     "source_id": "company:irobot",
     "name": "iRobot",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:analog-devices",
     "name": "Analog Devices",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 486,
-    "regional": 125,
+    "checked": 478,
+    "regional": 122,
     "internships": 10,
     "matching": 0
   },
   {
     "source_id": "company:thermo-fisher-scientific",
     "name": "Thermo Fisher Scientific",
-    "checked_at": "2026-09-13",
-    "status": "ok",
-    "checked": 1403,
-    "regional": 46,
-    "internships": 7,
-    "matching": 1
+    "checked_at": "2026-09-14",
+    "status": "error",
+    "error": "ValueError: Workday repeated a page; refusing incomplete results"
   },
   {
     "source_id": "company:draper",
     "name": "Draper",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:mit-lincoln-laboratory",
     "name": "MIT Lincoln Laboratory",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 164,
-    "regional": 161,
+    "checked": 161,
+    "regional": 158,
     "internships": 6,
-    "matching": 3
+    "matching": 1
   },
   {
     "source_id": "company:cvs-health",
     "name": "CVS Health",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:citizens",
     "name": "Citizens",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:fm",
     "name": "FM",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
-    "error": "ConnectionError: HTTPSConnectionPool(host='www.careersatfm.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='www.careersatfm.com', port=443): Failed to resolve 'www.careersatfm.com' ([Errno -3] Temporary failure in name resolution)\"))"
+    "error": "ConnectionError: HTTPSConnectionPool(host='www.careersatfm.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x…>: Failed to resolve 'www.careersatfm.com' ([Errno 11002] getaddrinfo failed)\"))"
   },
   {
     "source_id": "company:hasbro",
     "name": "Hasbro",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 147,
-    "regional": 36,
+    "checked": 141,
+    "regional": 34,
     "internships": 0,
     "matching": 0
   },
   {
     "source_id": "company:textron",
     "name": "Textron",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:amica",
     "name": "Amica",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.amica.com/en/about-us/careers.html"
   },
   {
     "source_id": "company:pratt-and-whitney",
     "name": "Pratt & Whitney",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "disabled",
     "error": "Monitored through the shared RTX public board; do not fetch it twice."
   },
   {
     "source_id": "company:travelers",
     "name": "Travelers",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
     "checked": 211,
-    "regional": 25,
+    "regional": 26,
     "internships": 8,
-    "matching": 5
+    "matching": 2
   },
   {
     "source_id": "company:synchrony",
     "name": "Synchrony",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:stanley-black-and-decker",
     "name": "Stanley Black & Decker",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 323,
-    "regional": 7,
+    "checked": 326,
+    "regional": 8,
     "internships": 0,
     "matching": 0
   },
   {
     "source_id": "company:sikorsky",
     "name": "Sikorsky",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:the-hartford",
     "name": "The Hartford",
-    "checked_at": "2026-09-13",
-    "status": "ok",
-    "checked": 114,
-    "regional": 16,
-    "internships": 5,
-    "matching": 2
+    "checked_at": "2026-09-14",
+    "status": "error",
+    "error": "KeyError: 'externalPath'"
   },
   {
     "source_id": "company:bae-systems",
     "name": "BAE Systems",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:idexx",
     "name": "IDEXX",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 70,
-    "regional": 11,
+    "checked": 63,
+    "regional": 12,
     "internships": 0,
     "matching": 0
   },
   {
     "source_id": "company:wex",
     "name": "WEX",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 47,
+    "checked": 53,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -379,18 +370,415 @@
   {
     "source_id": "company:tyler-technologies",
     "name": "Tyler Technologies",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:globalfoundries",
     "name": "GlobalFoundries",
-    "checked_at": "2026-09-13",
+    "checked_at": "2026-09-14",
     "status": "ok",
-    "checked": 331,
+    "checked": 329,
     "regional": 18,
     "internships": 12,
     "matching": 12
+  },
+  {
+    "source_id": "company:wellington-management",
+    "name": "Wellington Management",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 5,
+    "regional": 5,
+    "internships": 2,
+    "matching": 0
+  },
+  {
+    "source_id": "company:trimble",
+    "name": "Trimble",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 11,
+    "regional": 2,
+    "internships": 2,
+    "matching": 0
+  },
+  {
+    "source_id": "company:tjx",
+    "name": "TJX",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 32,
+    "regional": 7,
+    "internships": 6,
+    "matching": 2
+  },
+  {
+    "source_id": "company:s-p-global",
+    "name": "S&P Global",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 8,
+    "regional": 2,
+    "internships": 2,
+    "matching": 2
+  },
+  {
+    "source_id": "company:merck",
+    "name": "Merck",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 231,
+    "regional": 24,
+    "internships": 24,
+    "matching": 7
+  },
+  {
+    "source_id": "company:marvell",
+    "name": "Marvell",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 19,
+    "regional": 10,
+    "internships": 10,
+    "matching": 10
+  },
+  {
+    "source_id": "company:manulife-financial",
+    "name": "Manulife Financial",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 94,
+    "regional": 16,
+    "internships": 12,
+    "matching": 5
+  },
+  {
+    "source_id": "company:mks-instruments",
+    "name": "MKS Instruments",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 4,
+    "regional": 0,
+    "internships": 0,
+    "matching": 0
+  },
+  {
+    "source_id": "company:lexington-medical",
+    "name": "Lexington Medical",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 22,
+    "regional": 15,
+    "internships": 4,
+    "matching": 2
+  },
+  {
+    "source_id": "company:kensho",
+    "name": "Kensho",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 2,
+    "regional": 2,
+    "internships": 2,
+    "matching": 2
+  },
+  {
+    "source_id": "company:insulet",
+    "name": "Insulet",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 14,
+    "regional": 14,
+    "internships": 14,
+    "matching": 0
+  },
+  {
+    "source_id": "company:hyperlight",
+    "name": "HyperLight",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 16,
+    "regional": 0,
+    "internships": 0,
+    "matching": 0
+  },
+  {
+    "source_id": "company:hpr-hyannis-port-research",
+    "name": "HPR (Hyannis Port Research)",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 10,
+    "regional": 10,
+    "internships": 2,
+    "matching": 2
+  },
+  {
+    "source_id": "company:ge-aerospace",
+    "name": "GE Aerospace",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 47,
+    "regional": 0,
+    "internships": 0,
+    "matching": 0
+  },
+  {
+    "source_id": "company:cox",
+    "name": "Cox",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 26,
+    "regional": 2,
+    "internships": 2,
+    "matching": 2
+  },
+  {
+    "source_id": "company:cigna-group",
+    "name": "Cigna Group",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 26,
+    "regional": 13,
+    "internships": 13,
+    "matching": 2
+  },
+  {
+    "source_id": "company:castleton-commodities-international",
+    "name": "Castleton Commodities International",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 6,
+    "regional": 2,
+    "internships": 2,
+    "matching": 1
+  },
+  {
+    "source_id": "company:capital-one",
+    "name": "Capital One",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 24,
+    "regional": 2,
+    "internships": 2,
+    "matching": 2
+  },
+  {
+    "source_id": "company:caci",
+    "name": "CACI",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 51,
+    "regional": 6,
+    "internships": 6,
+    "matching": 4
+  },
+  {
+    "source_id": "company:axon",
+    "name": "Axon",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 6,
+    "regional": 1,
+    "internships": 1,
+    "matching": 1
+  },
+  {
+    "source_id": "company:arch-capital-group",
+    "name": "Arch Capital Group",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 15,
+    "regional": 2,
+    "internships": 2,
+    "matching": 0
+  },
+  {
+    "source_id": "company:anduril",
+    "name": "Anduril",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 2272,
+    "regional": 204,
+    "internships": 4,
+    "matching": 4
+  },
+  {
+    "source_id": "company:ameriprise-financial",
+    "name": "Ameriprise Financial",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 20,
+    "regional": 4,
+    "internships": 3,
+    "matching": 1
+  },
+  {
+    "source_id": "company:adobe",
+    "name": "Adobe",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 8,
+    "regional": 1,
+    "internships": 1,
+    "matching": 1
+  },
+  {
+    "source_id": "company:walleye-capital",
+    "name": "Walleye Capital",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 4,
+    "regional": 3,
+    "internships": 3,
+    "matching": 2
+  },
+  {
+    "source_id": "company:secretariat",
+    "name": "Secretariat",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 66,
+    "regional": 6,
+    "internships": 1,
+    "matching": 1
+  },
+  {
+    "source_id": "company:charles-river-associates",
+    "name": "Charles River Associates",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 79,
+    "regional": 41,
+    "internships": 4,
+    "matching": 2
+  },
+  {
+    "source_id": "company:audax-group",
+    "name": "Audax Group",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 16,
+    "regional": 12,
+    "internships": 5,
+    "matching": 0
+  },
+  {
+    "source_id": "company:audax-private-equity",
+    "name": "Audax Private Equity",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 4,
+    "regional": 4,
+    "internships": 2,
+    "matching": 0
+  },
+  {
+    "source_id": "company:formlabs",
+    "name": "Formlabs",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 202,
+    "regional": 123,
+    "internships": 14,
+    "matching": 0
+  },
+  {
+    "source_id": "company:interactive-brokers",
+    "name": "Interactive Brokers",
+    "checked_at": "2026-09-14",
+    "status": "disabled",
+    "error": "Employer migrated to a JavaScript Dayforce board. Requires a supported collector; former Greenhouse board is no longer available."
+  },
+  {
+    "source_id": "company:ginkgo-bioworks",
+    "name": "Ginkgo Bioworks",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 19,
+    "regional": 13,
+    "internships": 1,
+    "matching": 0
+  },
+  {
+    "source_id": "company:circuithub",
+    "name": "CircuitHub",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 9,
+    "regional": 7,
+    "internships": 0,
+    "matching": 0
+  },
+  {
+    "source_id": "company:venti-technologies",
+    "name": "Venti Technologies",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 33,
+    "regional": 0,
+    "internships": 0,
+    "matching": 0
+  },
+  {
+    "source_id": "company:cyvl",
+    "name": "Cyvl",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 8,
+    "regional": 8,
+    "internships": 2,
+    "matching": 2
+  },
+  {
+    "source_id": "company:gartner",
+    "name": "Gartner",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 11,
+    "regional": 1,
+    "internships": 1,
+    "matching": 1
+  },
+  {
+    "source_id": "company:iat-insurance-group",
+    "name": "IAT Insurance Group",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 20,
+    "regional": 1,
+    "internships": 1,
+    "matching": 1
+  },
+  {
+    "source_id": "company:avangrid-iberdrola",
+    "name": "Avangrid / Iberdrola",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 7,
+    "regional": 4,
+    "internships": 4,
+    "matching": 3
+  },
+  {
+    "source_id": "web:berrydunn-4021",
+    "name": "BerryDunn (web posting)",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 1,
+    "regional": 1,
+    "internships": 1,
+    "matching": 1
+  },
+  {
+    "source_id": "web:citizens-49289",
+    "name": "Citizens (web posting)",
+    "checked_at": "2026-09-14",
+    "status": "ok",
+    "checked": 1,
+    "regional": 1,
+    "internships": 1,
+    "matching": 1
   }
 ]

@@ -47,14 +47,23 @@ def is_internship(job):
                           job.get('description', ''), re.I))
 
 
+def is_other_season(title):
+    return bool(re.search(r"\b(spring|fall|autumn|winter)\b", title, re.I) and not re.search(r"\bsummer\b", title, re.I))
+
+
 def season_confidence(job, today=None):
+    if is_other_season(job['title']):
+        return 'low'
     today = today or date.today()
     text = job['title'] + ' ' + job.get('description', '')
-    summer = r'(?:summer(?:\s+\w+){0,3}\s+2027|2027\s+summer|(?:may|june)\s*[-–/]\s*august\s+2027)'
+    text = re.sub(r'[-–—]', ' ', text)
+    summer = r'(?:summer(?:\s+\w+){0,3}\s+2027|2027\s+summer|(?:may|june)\s*[-–/ ]\s*august\s+2027)'
     if re.search(summer, text, re.I):
         return 'high'
     if re.search(r'\b(?:spring|fall|autumn|winter)\b|\b(?:summer\s+202[0-689]|202[0-689]\s+summer)\b', text, re.I):
         return 'low'
+    if re.search(r'\b2027\b', job['title']) and INTERN.search(job['title']) and re.search(r'\bsummer\b', text, re.I):
+        return 'medium'
     if re.search(r'\b2027\s+(?:\w+\s+){0,2}intern|\bintern(?:ship)?\s+2027\b', job['title'], re.I):
         return 'medium'
     if re.search(r'\b202[0-689]\b', job['title']):

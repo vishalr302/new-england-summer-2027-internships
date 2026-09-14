@@ -36,3 +36,7 @@ This reads one configured page by default. Add a `next` CSS selector for same-ho
 ## Improving coverage
 
 Prioritize verified campus boards and Workday tenants, additional parser fixtures, explicit remote-state eligibility, and employer requisition-ID matching. Enable accounts after checking the official employer link. Preserve disabled watchlist entries with a reason. Inspect data/source_status.json after configuration changes.
+
+## Individual web discoveries
+
+`data/web_postings.json` accepts individual official posting pages using the generic collector configuration and a stable `id`. These pages are checked on each full update, separately from company boards. A confirmed HTTP 404 or 410 counts as an absent posting; other request or parser errors preserve history. Three successful absences are required before inactivation. This monitors only the configured posting, not all openings at that employer. Discovery evidence is recorded alongside each configuration.

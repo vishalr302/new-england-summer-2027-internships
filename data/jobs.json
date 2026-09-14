@@ -1,5 +1,306 @@
 [
   {
+    "company": "RTX",
+    "title": "Electrical Engineer Intern - RDP",
+    "location": "Tewksbury, MA",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01866242",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "5d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "Merck",
+    "title": "2027 Future Talent Program – Pharmaceutical Analysis and Digital Technology (PADT) and Large Molecule Analytical (LMA) - Intern",
+    "location": "USA - New Jersey - Rahway; USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - Pennsylvania - West Point; USA - California - South San Francisco (Grand Ave)",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Pharmaceutical-Analysis-and-Digital-Technology--PADT--and-Large-Molecule-Analytical--LMA----Intern_R416765",
+    "date_posted": "2026-09-08",
+    "source": "workday",
+    "source_name": "Merck Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "Statistics / Analytics",
+    "tags": [
+      "Statistics / Analytics",
+      "General Technology"
+    ],
+    "source_id": "company:merck",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Merck Careers"
+    ],
+    "source_ids": [
+      "company:merck"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Dell Technologies",
+    "title": "Software Engineering Intern",
+    "location": "Round Rock, TX; Hopkinton, MA",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297773",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "Dell Technologies",
+    "title": "Hardware Engineering Intern - Infrastructure Solutions Group",
+    "location": "Round Rock, TX; Hopkinton, MA",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "Cyvl",
+    "title": "Hardware Engineering Intern",
+    "location": "Boston, Massachusetts; Somerville, Massachusetts",
+    "url": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e",
+    "date_posted": "2026-09-14",
+    "source": "ashby",
+    "source_name": "Cyvl Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:cyvl",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Cyvl Careers"
+    ],
+    "source_ids": [
+      "company:cyvl"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Cyvl",
+    "title": "Engineering Intern - Software (SWE)/Machine Learning (ML)",
+    "location": "Boston, Massachusetts; Somerville, Massachusetts",
+    "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328",
+    "date_posted": "2026-09-14",
+    "source": "ashby",
+    "source_name": "Cyvl Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:cyvl",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Cyvl Careers"
+    ],
+    "source_ids": [
+      "company:cyvl"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Castleton Commodities International",
+    "title": "Cybersecurity Internship (Summer 2027)",
+    "location": "Stamford, CT",
+    "url": "https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Cybersecurity-Intern_R1368",
+    "date_posted": "2026-08-17",
+    "source": "workday",
+    "source_name": "Castleton Commodities International Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Cybersecurity",
+    "tags": [
+      "Cybersecurity"
+    ],
+    "source_id": "company:castleton-commodities-international",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Castleton Commodities International Careers"
+    ],
+    "source_ids": [
+      "company:castleton-commodities-international"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "CACI",
+    "title": "Electromechanical Engineering Intern - Summer 2027",
+    "location": "Danbury, CT, US",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Electromechanical-Engineering-Intern---Summer-2027_332007",
+    "date_posted": "2026-09-14",
+    "source": "workday",
+    "source_name": "CACI Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:caci",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "CACI Careers"
+    ],
+    "source_ids": [
+      "company:caci"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Avangrid / Iberdrola",
+    "title": "2027 Technology, Cyber & Data Internship Program",
+    "location": "United States Of America, Connecticut, Orange; United States Of America, Maine, Augusta; United States Of America, Maine, Portland; United States Of America, Oregon, Portland; United States Of America, New York, Rochester; United States Of America, Massachusetts, Boston",
+    "url": "https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747",
+    "date_posted": "2026-08-28",
+    "source": "workday",
+    "source_name": "Avangrid / Iberdrola Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "Cybersecurity",
+    "tags": [
+      "Cybersecurity",
+      "General Technology"
+    ],
+    "source_id": "company:avangrid-iberdrola",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Avangrid / Iberdrola Careers"
+    ],
+    "source_ids": [
+      "company:avangrid-iberdrola"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:19:13.599735+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Avangrid / Iberdrola",
+    "title": "2027 Engineering & Project Delivery Internship Program",
+    "location": "United States Of America, Connecticut, Orange; United States Of America, Maine, Portland; United States Of America, New York, Binghamton; United States Of America, Oregon, Portland; United States Of America, New York, Rochester; United States Of America, Massachusetts, Boston",
+    "url": "https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Engineering---Project-Delivery-Internship-Program_R-32746",
+    "date_posted": "2026-08-28",
+    "source": "workday",
+    "source_name": "Avangrid / Iberdrola Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:avangrid-iberdrola",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Avangrid / Iberdrola Careers"
+    ],
+    "source_ids": [
+      "company:avangrid-iberdrola"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-14",
+    "first_seen_at": "2026-09-14T19:19:13.599735+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
     "company": "Wellington Management",
     "title": "Technology Undergraduate Intern",
     "location": "Boston, MA",
@@ -7,7 +308,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "3d",
+    "age": "4d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "General Technology",
@@ -25,10 +326,70 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
+  },
+  {
+    "company": "Walleye Capital",
+    "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Walleye Capital Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Statistics / Analytics",
+    "tags": [
+      "Statistics / Analytics",
+      "Software Engineering"
+    ],
+    "source_id": "company:walleye-capital",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Walleye Capital Careers"
+    ],
+    "source_ids": [
+      "company:walleye-capital"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Walleye Capital",
+    "title": "Quantic - PhD Quantitative Researcher Intern (Summer 2027)",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Walleye Capital Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Statistics / Analytics",
+    "tags": [
+      "Statistics / Analytics",
+      "Scientific Computing / Research"
+    ],
+    "source_id": "company:walleye-capital",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Walleye Capital Careers"
+    ],
+    "source_ids": [
+      "company:walleye-capital"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Trimble",
@@ -38,7 +399,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -57,7 +418,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -87,7 +448,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -115,7 +476,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -142,7 +503,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -169,7 +530,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -180,7 +541,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -198,7 +559,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -213,8 +574,14 @@
     "source_name": "Travelers Careers",
     "is_simplify": false,
     "season_confidence": "medium",
-    "category": "Other",
-    "tags": [],
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Data Science",
+      "Statistics / Analytics",
+      "Product Management",
+      "General Technology"
+    ],
     "source_id": "company:travelers",
     "simplify_comparison": "no_exact_match",
     "sources": [
@@ -226,7 +593,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -254,54 +621,20 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
     "company": "The Hartford",
-    "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
-    "location": "Hartford, CT",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
-    "source": "workday",
-    "source_name": "The Hartford Careers",
-    "season": "summer-2027",
-    "age": "20d",
-    "is_simplify": false,
-    "season_confidence": "high",
-    "category": "Software Engineering",
-    "tags": [
-      "Software Engineering",
-      "Hardware / Engineering"
-    ],
-    "source_id": "company:the-hartford",
-    "simplify_comparison": "matched",
-    "sources": [
-      "SimplifyJobs",
-      "The Hartford Careers"
-    ],
-    "source_ids": [
-      "company:the-hartford",
-      "github:SimplifyJobs"
-    ],
-    "in_simplify": true,
-    "date_posted": "2026-08-27",
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
-    "missing_runs": 0,
-    "active": true
-  },
-  {
-    "company": "The Hartford",
-    "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
+    "title": "Software Engineer Intern - Tech & Data Program",
     "location": "Hartford, CT",
     "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
     "source": "workday",
     "source_name": "The Hartford Careers",
     "season": "summer-2027",
-    "age": "20d",
-    "is_simplify": false,
-    "season_confidence": "high",
+    "age": "21d",
+    "is_simplify": true,
+    "season_confidence": "medium",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
@@ -318,12 +651,48 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
-    "date_posted": "2026-08-27",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true
+    "active": true,
+    "date_posted": "2026-08-27"
+  },
+  {
+    "company": "The Hartford",
+    "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
+    "location": "Hartford, CT",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
+    "source": "workday",
+    "source_name": "The Hartford Careers",
+    "season": "summer-2027",
+    "age": "21d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Software Engineering",
+      "Hardware / Engineering",
+      "General Technology"
+    ],
+    "source_id": "company:the-hartford",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs",
+      "The Hartford Careers"
+    ],
+    "source_ids": [
+      "company:the-hartford",
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": "2026-08-27"
   },
   {
     "company": "Textron",
@@ -333,7 +702,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -352,42 +721,73 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
     "company": "TJX",
-    "title": "IT Engineer Intern",
-    "location": "Marlborough, MA",
+    "title": "IT Engineer Internship - Summer 2027",
+    "location": "Marlborough, MA 01752",
     "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "TJX Careers",
     "season": "summer-2027",
-    "age": "9d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "10d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Hardware / Engineering",
     "tags": [
       "Hardware / Engineering",
       "General Technology"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:tjx",
     "simplify_comparison": "matched",
     "sources": [
-      "SimplifyJobs"
+      "SimplifyJobs",
+      "TJX Careers"
     ],
     "source_ids": [
+      "company:tjx",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-04",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
+  },
+  {
+    "company": "TJX",
+    "title": "IT Analyst Internship - Summer 2027",
+    "location": "Marlborough, MA 01752",
+    "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Analyst-Internship---Summer-2027_REQ153172",
+    "date_posted": "2026-09-04",
+    "source": "workday",
+    "source_name": "TJX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "General Technology",
+    "tags": [
+      "General Technology"
+    ],
+    "source_id": "company:tjx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "TJX Careers"
+    ],
+    "source_ids": [
+      "company:tjx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Specter Aerospace",
@@ -415,74 +815,107 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
+    "company": "Secretariat",
+    "title": "Intern, Engineering Sciences (Summer 2027)",
+    "location": "Downtown Boston, MA",
+    "url": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4399032009",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Secretariat Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:secretariat",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Secretariat Careers"
+    ],
+    "source_ids": [
+      "company:secretariat"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
     "company": "S&P Global",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Cambridge, MA; NYC",
+    "title": "Software Engineer - Summer Intern 2027",
+    "location": "Cambridge, MA; New York, NY",
     "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "S&P Global Careers",
     "season": "summer-2027",
-    "age": "4d",
-    "is_simplify": true,
+    "age": "5d",
+    "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:s-p-global",
     "simplify_comparison": "matched",
     "sources": [
+      "S&P Global Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:s-p-global",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-09",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "S&P Global",
-    "title": "Machine Learning Engineer Intern",
-    "location": "Cambridge, MA; NYC",
+    "title": "Machine Learning Engineer - Summer Intern 2027",
+    "location": "Cambridge, MA; New York, NY",
     "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "S&P Global Careers",
     "season": "summer-2027",
-    "age": "4d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "5d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "AI / Machine Learning",
     "tags": [
       "AI / Machine Learning",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:s-p-global",
     "simplify_comparison": "matched",
     "sources": [
+      "S&P Global Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:s-p-global",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-09",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Raytheon",
@@ -510,7 +943,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -539,7 +972,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -566,7 +999,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -651,7 +1084,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -707,7 +1140,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -778,8 +1211,14 @@
     "source_name": "RTX Careers",
     "is_simplify": false,
     "season_confidence": "high",
-    "category": "Other",
-    "tags": [],
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Scientific Computing / Research",
+      "Cybersecurity",
+      "Hardware / Engineering",
+      "General Technology"
+    ],
     "source_id": "company:rtx",
     "simplify_comparison": "no_exact_match",
     "sources": [
@@ -819,7 +1258,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -832,8 +1271,14 @@
     "source_name": "RTX Careers",
     "is_simplify": false,
     "season_confidence": "high",
-    "category": "Other",
-    "tags": [],
+    "category": "Statistics / Analytics",
+    "tags": [
+      "Statistics / Analytics",
+      "Scientific Computing / Research",
+      "Cybersecurity",
+      "Hardware / Engineering",
+      "General Technology"
+    ],
     "source_id": "company:rtx",
     "simplify_comparison": "no_exact_match",
     "sources": [
@@ -873,7 +1318,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -886,8 +1331,14 @@
     "source_name": "RTX Careers",
     "is_simplify": false,
     "season_confidence": "medium",
-    "category": "Other",
-    "tags": [],
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Scientific Computing / Research",
+      "Cybersecurity",
+      "Hardware / Engineering",
+      "General Technology"
+    ],
     "source_id": "company:rtx",
     "simplify_comparison": "no_exact_match",
     "sources": [
@@ -911,7 +1362,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "13d",
+    "age": "14d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -929,7 +1380,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -942,7 +1393,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "13d",
+    "age": "14d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -960,7 +1411,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -973,7 +1424,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "13d",
+    "age": "14d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -991,7 +1442,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -1021,7 +1472,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -1033,7 +1484,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -1051,7 +1502,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -1064,7 +1515,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -1082,10 +1533,196 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
+  },
+  {
+    "company": "Merck",
+    "title": "2027 Future Talent Program – Modeling & Informatics - Intern",
+    "location": "USA - New Jersey - Rahway; USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - California - South San Francisco (Gateway Blvd); USA - Pennsylvania - West Point",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Modeling---Informatics---Intern_R416278",
+    "date_posted": "2026-09-09",
+    "source": "workday",
+    "source_name": "Merck Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Statistics / Analytics",
+      "Scientific Computing / Research"
+    ],
+    "source_id": "company:merck",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Merck Careers"
+    ],
+    "source_ids": [
+      "company:merck"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Merck",
+    "title": "2027 Future Talent Program – Cellular Pharmacology – Intern",
+    "location": "USA - Massachusetts - Boston (MA Parcel B Laboratory)",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Cellular-Pharmacology---Intern_R412706",
+    "date_posted": "2026-09-08",
+    "source": "workday",
+    "source_name": "Merck Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Data Science",
+    "tags": [
+      "Data Science",
+      "Statistics / Analytics",
+      "Software Engineering",
+      "Scientific Computing / Research",
+      "Cybersecurity",
+      "General Technology"
+    ],
+    "source_id": "company:merck",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Merck Careers"
+    ],
+    "source_ids": [
+      "company:merck"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Merck",
+    "title": "2027 Future Talent Program - Epidemiology and RWE Capabilities & Analytics - Intern",
+    "location": "USA - Pennsylvania - West Point; USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - Pennsylvania - Upper Gwynedd; USA - New Jersey - Rahway",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Epidemiology-and-RWE-Capabilities---Analytics---Intern_R413163",
+    "date_posted": "2026-09-08",
+    "source": "workday",
+    "source_name": "Merck Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Statistics / Analytics",
+    "tags": [
+      "Statistics / Analytics"
+    ],
+    "source_id": "company:merck",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Merck Careers"
+    ],
+    "source_ids": [
+      "company:merck"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Merck",
+    "title": "2027 Future Talent Program - Discovery Chemistry & Process Research - Intern",
+    "location": "USA - New Jersey - Rahway; USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - Pennsylvania - West Point; USA - California - South San Francisco (Grand Ave)",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Discovery-Chemistry---Process-Research---Intern_R414395",
+    "date_posted": "2026-09-08",
+    "source": "workday",
+    "source_name": "Merck Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Scientific Computing / Research",
+    "tags": [
+      "Scientific Computing / Research"
+    ],
+    "source_id": "company:merck",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Merck Careers"
+    ],
+    "source_ids": [
+      "company:merck"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Merck",
+    "title": "2027 Future Talent Program - Discovery Biologics - Intern",
+    "location": "USA - California - South San Francisco (Grand Ave); USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - Massachusetts - Cambridge (320 Bent Street)",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Discovery-Biologics---Intern_R412152",
+    "date_posted": "2026-09-08",
+    "source": "workday",
+    "source_name": "Merck Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Statistics / Analytics",
+      "Scientific Computing / Research",
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:merck",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Merck Careers"
+    ],
+    "source_ids": [
+      "company:merck"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Merck",
+    "title": "2027 Future Talent Program - Chemical Biology - Intern",
+    "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Chemical-Biology---Intern_R413252",
+    "date_posted": "2026-09-08",
+    "source": "workday",
+    "source_name": "Merck Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Statistics / Analytics",
+    "tags": [
+      "Statistics / Analytics",
+      "Scientific Computing / Research",
+      "General Technology"
+    ],
+    "source_id": "company:merck",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Merck Careers"
+    ],
+    "source_ids": [
+      "company:merck"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Medtronic",
@@ -1114,41 +1751,101 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
     "company": "Marvell",
-    "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
+    "title": "Test Solutions Engineering Intern, BS - Summer 2027",
     "location": "Burlington, VT",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Marvell Careers",
     "season": "summer-2027",
-    "age": "4d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "5d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Hardware / Engineering",
     "tags": [
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:marvell",
     "simplify_comparison": "matched",
     "sources": [
+      "Marvell Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:marvell",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-09",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
+  },
+  {
+    "company": "Marvell",
+    "title": "Physical Design Engineer Intern, MS - Summer 2027",
+    "location": "Santa Clara, CA; Austin, TX; Morrisville, NC; Rochester, MN; Burlington, VT; Westborough, MA; Boise, ID",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1",
+    "date_posted": "2026-09-04",
+    "source": "workday",
+    "source_name": "Marvell Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:marvell",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Marvell Careers"
+    ],
+    "source_ids": [
+      "company:marvell"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Marvell",
+    "title": "Physical Design Engineer Intern, BS - Summer 2027",
+    "location": "Santa Clara, CA; Austin, TX; Morrisville, NC; Rochester, MN; Burlington, VT; Westborough, MA; Boise, ID",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1",
+    "date_posted": "2026-09-04",
+    "source": "workday",
+    "source_name": "Marvell Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:marvell",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Marvell Careers"
+    ],
+    "source_ids": [
+      "company:marvell"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1158,7 +1855,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1174,12 +1871,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1189,7 +1886,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1205,43 +1902,74 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
-    "title": "Functional Validation Intern - BS",
-    "location": "Santa Clara, CA; Boise, ID; Westborough, MA",
+    "title": "Functional Validation Intern, BS - Summer 2027",
+    "location": "Westborough, MA; Boise, ID; Santa Clara, CA",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Marvell Careers",
     "season": "summer-2027",
-    "age": "9d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "10d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Hardware / Engineering",
     "tags": [
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:marvell",
     "simplify_comparison": "matched",
     "sources": [
+      "Marvell Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:marvell",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-04",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
+  },
+  {
+    "company": "Marvell",
+    "title": "Design for Test Intern, BS - Summer 2027",
+    "location": "Morrisville, NC; Westborough, MA; Boise, ID; Santa Clara, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511",
+    "date_posted": "2026-09-04",
+    "source": "workday",
+    "source_name": "Marvell Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:marvell",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Marvell Careers"
+    ],
+    "source_ids": [
+      "company:marvell"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1251,7 +1979,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1267,43 +1995,78 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
-    "title": "Design Verification Intern - MS 🎓",
-    "location": "Morrisville, NC; Austin, TX; Santa Clara, CA; Boise, ID; Westborough, MA",
+    "title": "Design Verification Intern, MS - Summer 2027",
+    "location": "Santa Clara, CA; Austin, TX; Westborough, MA; Boise, ID; Morrisville, NC",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Marvell Careers",
     "season": "summer-2027",
-    "age": "9d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "10d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Hardware / Engineering",
     "tags": [
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:marvell",
     "simplify_comparison": "matched",
     "sources": [
+      "Marvell Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:marvell",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-04",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
+  },
+  {
+    "company": "Marvell",
+    "title": "Design Verification Intern, BS - Summer 2027",
+    "location": "Santa Clara, CA; Austin, TX; Westborough, MA; Boise, ID; Morrisville, NC",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1",
+    "source": "workday",
+    "source_name": "Marvell Careers",
+    "season": "summer-2027",
+    "age": "10d",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:marvell",
+    "simplify_comparison": "matched",
+    "sources": [
+      "Marvell Careers",
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "company:marvell",
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "date_posted": "2026-09-04",
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1313,7 +2076,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "high",
     "category": "Hardware / Engineering",
@@ -1331,41 +2094,43 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
     "company": "Marvell",
-    "title": "Design Verification Intern - BS",
-    "location": "Morrisville, NC; Austin, TX; Santa Clara, CA; Boise, ID; Westborough, MA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "title": "Analog Design Intern, MS - Summer 2027",
+    "location": "Santa Clara, CA; Burlington, VT",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1",
+    "source": "workday",
+    "source_name": "Marvell Careers",
     "season": "summer-2027",
-    "age": "9d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "10d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Hardware / Engineering",
     "tags": [
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:marvell",
     "simplify_comparison": "matched",
     "sources": [
+      "Marvell Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:marvell",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-14",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1375,7 +2140,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1393,41 +2158,72 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
     "company": "Marvell",
-    "title": "Analog Design Intern - MS 🎓",
-    "location": "Santa Clara, CA; Burlington, VT",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
-    "season": "summer-2027",
-    "age": "9d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "title": "Advanced Packaging Intern, MS - Summer 2027",
+    "location": "Santa Clara, CA; Chandler, AZ; Austin, TX; Burlington, VT; Westborough, MA; Westlake Village, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1",
+    "date_posted": "2026-09-05",
+    "source": "workday",
+    "source_name": "Marvell Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Hardware / Engineering",
     "tags": [
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:marvell",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Marvell Careers"
+    ],
+    "source_ids": [
+      "company:marvell"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Marvell",
+    "title": "Advanced Packaging Intern, BS - Summer 2027",
+    "location": "Burlington, VT",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1",
+    "source": "workday",
+    "source_name": "Marvell Careers",
+    "season": "summer-2027",
+    "age": "6d",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:marvell",
     "simplify_comparison": "matched",
     "sources": [
+      "Marvell Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:marvell",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-08",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -1437,7 +2233,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1453,106 +2249,169 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
-  },
-  {
-    "company": "Marvell",
-    "title": "Advanced Packaging Intern",
-    "location": "Burlington, VT",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Advanced-Packaging-Intern--BS---Summer-2027_2604156-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
-    "season": "summer-2027",
-    "age": "5d",
-    "is_simplify": true,
-    "season_confidence": "medium",
-    "category": "Hardware / Engineering",
-    "tags": [
-      "Hardware / Engineering"
-    ],
-    "source_id": "github:SimplifyJobs",
-    "simplify_comparison": "matched",
-    "sources": [
-      "SimplifyJobs"
-    ],
-    "source_ids": [
-      "github:SimplifyJobs"
-    ],
-    "in_simplify": true,
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
-    "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Manulife Financial",
-    "title": "Software Engineering Intern",
-    "location": "Boston, MA",
+    "title": "Summer Intern 2027 - Software Engineering",
+    "location": "Boston, Massachusetts",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Manulife Financial Careers",
     "season": "summer-2027",
-    "age": "17d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "18d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:manulife-financial",
     "simplify_comparison": "matched",
     "sources": [
+      "Manulife Financial Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:manulife-financial",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-08-27",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Manulife Financial",
-    "title": "AI Intern - AI",
-    "location": "Boston, MA",
+    "title": "Summer Intern 2027 - Operations Analyst",
+    "location": "Boston, Massachusetts",
+    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Operations-Analyst_JR26081571",
+    "date_posted": "2026-08-28",
+    "source": "workday",
+    "source_name": "Manulife Financial Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Statistics / Analytics",
+      "General Technology"
+    ],
+    "source_id": "company:manulife-financial",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Manulife Financial Careers"
+    ],
+    "source_ids": [
+      "company:manulife-financial"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Manulife Financial",
+    "title": "Summer Intern 2027 - Data Engineering",
+    "location": "Boston, Massachusetts",
+    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Data-Engineering_JR26081679",
+    "date_posted": "2026-08-27",
+    "source": "workday",
+    "source_name": "Manulife Financial Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:manulife-financial",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Manulife Financial Careers"
+    ],
+    "source_ids": [
+      "company:manulife-financial"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Manulife Financial",
+    "title": "Summer Intern 2027 - Business Technology",
+    "location": "Boston, Massachusetts",
+    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Business-Technology_JR26081681",
+    "date_posted": "2026-08-27",
+    "source": "workday",
+    "source_name": "Manulife Financial Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "General Technology",
+    "tags": [
+      "General Technology"
+    ],
+    "source_id": "company:manulife-financial",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Manulife Financial Careers"
+    ],
+    "source_ids": [
+      "company:manulife-financial"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Manulife Financial",
+    "title": "Summer Intern 2027 - AI",
+    "location": "Boston, Massachusetts",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Manulife Financial Careers",
     "season": "summer-2027",
-    "age": "17d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "18d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "AI / Machine Learning",
     "tags": [
       "AI / Machine Learning"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:manulife-financial",
     "simplify_comparison": "matched",
     "sources": [
+      "Manulife Financial Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:manulife-financial",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-08-27",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "MKS Instruments",
@@ -1581,8 +2440,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true,
+    "missing_runs": 4,
+    "active": false,
     "date_posted": null
   },
   {
@@ -1609,7 +2468,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -1636,7 +2495,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -1664,7 +2523,36 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Lexington Medical",
+    "title": "Mechanical Engineering Intern",
+    "location": "Bedford, MA",
+    "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400185008",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Lexington Medical Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:lexington-medical",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Lexington Medical Careers"
+    ],
+    "source_ids": [
+      "company:lexington-medical"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -1673,32 +2561,34 @@
     "title": "Electrical/Embedded Software Engineer Intern",
     "location": "Bedford, MA",
     "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "greenhouse",
+    "source_name": "Lexington Medical Careers",
     "season": "summer-2027",
-    "age": "3d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "4d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:lexington-medical",
     "simplify_comparison": "matched",
     "sources": [
+      "Lexington Medical Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:lexington-medical",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Klaviyo",
@@ -1708,7 +2598,7 @@
     "source": "greenhouse",
     "source_name": "Klaviyo Careers",
     "season": "summer-2027",
-    "age": "0d",
+    "age": "2d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
@@ -1730,73 +2620,77 @@
     "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
   {
     "company": "Kensho",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "Cambridge, MA; NYC",
+    "title": "Software Engineer - Summer Intern 2027",
+    "location": "Cambridge, MA; New York, NY",
     "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Kensho Careers",
     "season": "summer-2027",
-    "age": "4d",
-    "is_simplify": true,
+    "age": "5d",
+    "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:kensho",
     "simplify_comparison": "matched",
     "sources": [
+      "Kensho Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:kensho",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-09",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Kensho",
-    "title": "Machine Learning Engineer Intern",
-    "location": "Cambridge, MA; NYC",
+    "title": "Machine Learning Engineer - Summer Intern 2027",
+    "location": "Cambridge, MA; New York, NY",
     "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Kensho Careers",
     "season": "summer-2027",
-    "age": "4d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "5d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "AI / Machine Learning",
     "tags": [
       "AI / Machine Learning",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:kensho",
     "simplify_comparison": "matched",
     "sources": [
+      "Kensho Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:kensho",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-09",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Insulet",
@@ -1806,7 +2700,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "3d",
+    "age": "4d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1824,10 +2718,40 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
+  },
+  {
+    "company": "IAT Insurance Group",
+    "title": "Network Operations Internship",
+    "location": "Cheshire CT",
+    "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Cheshire-CT/Network-Operations-Internship_JR100371",
+    "date_posted": "2026-09-01",
+    "source": "workday",
+    "source_name": "IAT Insurance Group Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Statistics / Analytics",
+    "tags": [
+      "Statistics / Analytics",
+      "General Technology"
+    ],
+    "source_id": "company:iat-insurance-group",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "IAT Insurance Group Careers"
+    ],
+    "source_ids": [
+      "company:iat-insurance-group"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "HyperLight",
@@ -1856,77 +2780,81 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
     "company": "HPR (Hyannis Port Research)",
-    "title": "Software Engineer Intern",
+    "title": "Software Engineering Intern - Summer 2027",
     "location": "Needham, MA",
     "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "greenhouse",
+    "source_name": "HPR (Hyannis Port Research) Careers",
     "season": "summer-2027",
     "age": "1mo",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:hpr-hyannis-port-research",
     "simplify_comparison": "matched",
     "sources": [
+      "HPR (Hyannis Port Research) Careers",
       "SimplifyJobs",
       "Vansh & Ouckah"
     ],
     "source_ids": [
+      "company:hpr-hyannis-port-research",
       "github:SimplifyJobs",
       "github:Vansh & Ouckah"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "HPR (Hyannis Port Research)",
-    "title": "FPGA Engineer Intern",
+    "title": "FPGA Engineering Intern - Summer 2027",
     "location": "Needham, MA",
     "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "greenhouse",
+    "source_name": "HPR (Hyannis Port Research) Careers",
     "season": "summer-2027",
     "age": "1mo",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Hardware / Engineering",
     "tags": [
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:hpr-hyannis-port-research",
     "simplify_comparison": "matched",
     "sources": [
+      "HPR (Hyannis Port Research) Careers",
       "SimplifyJobs",
       "Vansh & Ouckah"
     ],
     "source_ids": [
+      "company:hpr-hyannis-port-research",
       "github:SimplifyJobs",
       "github:Vansh & Ouckah"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Google",
@@ -1955,7 +2883,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -1968,7 +2896,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -1987,7 +2915,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2000,7 +2928,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2019,7 +2947,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2032,7 +2960,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "20d",
+    "age": "21d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Scientific Computing / Research",
@@ -2050,7 +2978,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2080,7 +3008,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:34:45.097133+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -2109,7 +3037,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -2121,7 +3049,7 @@
     "source": "workday",
     "source_name": "GlobalFoundries Careers",
     "season": "summer-2027",
-    "age": "18d",
+    "age": "19d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Hardware / Engineering",
@@ -2142,7 +3070,7 @@
     "date_posted": "2026-08-26",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -2172,7 +3100,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:34:45.097133+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -2201,7 +3129,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:34:45.097133+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -2230,7 +3158,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:34:45.097133+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -2242,7 +3170,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "4d",
+    "age": "5d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2261,7 +3189,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2274,7 +3202,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "3d",
+    "age": "4d",
     "is_simplify": true,
     "season_confidence": "high",
     "category": "Software Engineering",
@@ -2294,10 +3222,39 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
+  },
+  {
+    "company": "Gartner",
+    "title": "Summer 2027 IT Intern (May 2028 Graduates)",
+    "location": "Stamford, CT",
+    "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095",
+    "date_posted": "2026-08-13",
+    "source": "workday",
+    "source_name": "Gartner Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "General Technology",
+    "tags": [
+      "General Technology"
+    ],
+    "source_id": "company:gartner",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Gartner Careers"
+    ],
+    "source_ids": [
+      "company:gartner"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "GE Aerospace",
@@ -2307,7 +3264,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "26d",
+    "age": "27d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2326,7 +3283,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2339,7 +3296,7 @@
     "source": "workday",
     "source_name": "DraftKings Careers",
     "season": "summer-2027",
-    "age": "13d",
+    "age": "14d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
@@ -2361,7 +3318,7 @@
     "date_posted": "2026-08-31",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -2373,7 +3330,7 @@
     "source": "workday",
     "source_name": "DraftKings Careers",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Data Science",
@@ -2394,7 +3351,7 @@
     "date_posted": "2026-09-08",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -2406,7 +3363,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -2424,7 +3381,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2437,11 +3394,17 @@
     "source": "workday",
     "source_name": "DraftKings Careers",
     "season": "summer-2027",
-    "age": "13d",
+    "age": "14d",
     "is_simplify": false,
     "season_confidence": "high",
-    "category": "Other",
-    "tags": [],
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Data Science",
+      "Statistics / Analytics",
+      "Hardware / Engineering",
+      "General Technology"
+    ],
     "source_id": "company:draftkings",
     "simplify_comparison": "matched",
     "sources": [
@@ -2456,7 +3419,7 @@
     "date_posted": "2026-08-31",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true
   },
@@ -2468,7 +3431,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "4d",
+    "age": "5d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2487,7 +3450,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2500,7 +3463,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "18d",
+    "age": "19d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -2518,41 +3481,73 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
     "company": "Cox",
-    "title": "Product Management Intern - Summer 2027",
-    "location": "Burlington, VT",
+    "title": "Software Engineering Intern - Summer 2027 (Burlington, VT)",
+    "location": "Burlington VT",
+    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1",
+    "date_posted": "2026-09-10",
+    "source": "workday",
+    "source_name": "Cox Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:cox",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Cox Careers"
+    ],
+    "source_ids": [
+      "company:cox"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Cox",
+    "title": "Product Management Intern - Summer 2027 (Burlington, VT)",
+    "location": "Burlington VT",
     "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Cox Careers",
     "season": "summer-2027",
-    "age": "5d",
-    "is_simplify": true,
+    "age": "6d",
+    "is_simplify": false,
     "season_confidence": "high",
     "category": "Product Management",
     "tags": [
       "Product Management"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:cox",
     "simplify_comparison": "matched",
     "sources": [
+      "Cox Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:cox",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-08",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Citizens Financial Group",
@@ -2562,7 +3557,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2581,7 +3576,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2594,7 +3589,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -2610,12 +3605,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Citizens Financial Group",
@@ -2625,7 +3620,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -2643,7 +3638,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2656,7 +3651,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -2674,7 +3669,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2687,7 +3682,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2708,7 +3703,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2721,7 +3716,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -2737,12 +3732,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Citizens Financial Group",
@@ -2752,7 +3747,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -2768,12 +3763,42 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
+  },
+  {
+    "company": "Citizens",
+    "title": "Corporate Security & Resilience Summer 2027 Intern | Enterprise Technology & Security Summer Internship Program",
+    "location": "Johnston, RI, United States",
+    "url": "https://jobs.citizensbank.com/job/johnston/corporate-security-and-resilience-summer-2027-intern-enterprise-technology-and-security-summer-inte/288/100486082672",
+    "date_posted": "2026-9-11",
+    "source": "generic",
+    "source_name": "Citizens Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Cybersecurity",
+    "tags": [
+      "Cybersecurity",
+      "General Technology"
+    ],
+    "source_id": "web:citizens-49289",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Citizens Careers"
+    ],
+    "source_ids": [
+      "web:citizens-49289"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Citadel",
@@ -2802,7 +3827,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2815,7 +3840,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "4d",
+    "age": "5d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2835,7 +3860,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2848,7 +3873,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "4d",
+    "age": "5d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -2868,41 +3893,135 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
     "company": "Cigna Group",
-    "title": "Analytics Leadership Development Intern - ALDP 🎓",
-    "location": "Bloomfield, CT",
+    "title": "Analytics Leadership Development Program (ALDP) Summer Internship",
+    "location": "CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg",
     "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Cigna Group Careers",
     "season": "summer-2027",
-    "age": "11d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "12d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Statistics / Analytics",
     "tags": [
       "Statistics / Analytics"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:cigna-group",
     "simplify_comparison": "matched",
     "sources": [
+      "Cigna Group Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:cigna-group",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-08",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
+  },
+  {
+    "company": "Cigna Group",
+    "title": "Actuarial Internship - Summer 2027",
+    "location": "Bloomfield, CT; Austin, TX; Philadelphia, PA; Franklin, TN; Denver, CO",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Actuarial-Internship---Summer-2027_26006087",
+    "date_posted": "2026-08-05",
+    "source": "workday",
+    "source_name": "Cigna Group Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Statistics / Analytics",
+      "General Technology"
+    ],
+    "source_id": "company:cigna-group",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Cigna Group Careers"
+    ],
+    "source_ids": [
+      "company:cigna-group"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Charles River Associates",
+    "title": "(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)",
+    "location": "Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States",
+    "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Charles River Associates Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Statistics / Analytics",
+    "tags": [
+      "Statistics / Analytics",
+      "Scientific Computing / Research",
+      "General Technology"
+    ],
+    "source_id": "company:charles-river-associates",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Charles River Associates Careers"
+    ],
+    "source_ids": [
+      "company:charles-river-associates"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Charles River Associates",
+    "title": "(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)",
+    "location": "Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States",
+    "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Charles River Associates Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Cybersecurity",
+    "tags": [
+      "Cybersecurity",
+      "General Technology"
+    ],
+    "source_id": "company:charles-river-associates",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Charles River Associates Careers"
+    ],
+    "source_ids": [
+      "company:charles-river-associates"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Castleton Commodities International",
@@ -2931,7 +4050,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2963,7 +4082,7 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -2995,136 +4114,203 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
     "company": "Capital One",
-    "title": "Master's Data Science Internship 🎓",
-    "location": "Cambridge, MA; SF; San Jose, CA; Plano, TX; McLean, VA; Richmond, VA; Chicago, IL; NYC",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
-    "season": "summer-2027",
-    "age": "1mo",
-    "is_simplify": true,
-    "season_confidence": "medium",
-    "category": "Data Science",
-    "tags": [
-      "Data Science"
-    ],
-    "source_id": "github:SimplifyJobs",
-    "simplify_comparison": "matched",
-    "sources": [
-      "SimplifyJobs"
-    ],
-    "source_ids": [
-      "github:SimplifyJobs"
-    ],
-    "in_simplify": true,
-    "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
-    "missing_runs": 0,
-    "active": true,
-    "date_posted": null
-  },
-  {
-    "company": "Capital One",
-    "title": "Data Science Intern 🎓",
-    "location": "Cambridge, MA; SF; San Jose, CA; Plano, TX; McLean, VA; Richmond, VA; Chicago, IL; NYC",
+    "title": "Current PhD - Data Science Internship - Summer 2027",
+    "location": "McLean, VA; Cambridge, MA; Chicago, IL; Richmond, VA; Plano, TX; San Francisco,  CA; San Jose, CA; New York, NY",
     "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Capital One Careers",
     "season": "summer-2027",
     "age": "1mo",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Data Science",
     "tags": [
       "Data Science"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:capital-one",
     "simplify_comparison": "matched",
     "sources": [
+      "Capital One Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:capital-one",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-07-20",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
+  },
+  {
+    "company": "Capital One",
+    "title": "Current Master's - Data Science Internship - Summer 2027",
+    "location": "McLean, VA; Cambridge, MA; Chicago, IL; Richmond, VA; Plano, TX; San Francisco,  CA; San Jose, CA; New York, NY",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1",
+    "source": "workday",
+    "source_name": "Capital One Careers",
+    "season": "summer-2027",
+    "age": "1mo",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Data Science",
+    "tags": [
+      "Data Science"
+    ],
+    "source_id": "company:capital-one",
+    "simplify_comparison": "matched",
+    "sources": [
+      "Capital One Careers",
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "company:capital-one",
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "date_posted": "2026-07-20",
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "CACI",
-    "title": "Software Engineer Co-op - Spring & Summer 2027",
-    "location": "Danbury, CT",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
-    "season": "summer-2027",
-    "age": "13d",
-    "is_simplify": true,
+    "title": "Software Engineering Co-op - Summer & Fall 2027",
+    "location": "Danbury, CT, US",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
+    "date_posted": "2026-08-31",
+    "source": "workday",
+    "source_name": "CACI Careers",
+    "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
-    "simplify_comparison": "matched",
+    "source_id": "company:caci",
+    "simplify_comparison": "no_exact_match",
     "sources": [
-      "SimplifyJobs"
+      "CACI Careers"
     ],
     "source_ids": [
-      "github:SimplifyJobs"
+      "company:caci"
     ],
-    "in_simplify": true,
+    "in_simplify": false,
     "first_seen": "2026-09-13",
-    "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "CACI",
-    "title": "Configuration Control/Data Management Co-op - Engineering Department",
-    "location": "Danbury, CT",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "title": "Software Engineering Co-op - Spring & Summer 2027",
+    "location": "Danbury, CT, US",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
+    "source": "workday",
+    "source_name": "CACI Careers",
     "season": "summer-2027",
-    "age": "3d",
-    "is_simplify": true,
-    "season_confidence": "medium",
-    "category": "Statistics / Analytics",
+    "age": "14d",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
     "tags": [
-      "Statistics / Analytics",
+      "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:caci",
     "simplify_comparison": "matched",
     "sources": [
+      "CACI Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:caci",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-08-31",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
+  },
+  {
+    "company": "CACI",
+    "title": "Embedded Software Engineering Co-op - Spring 2027",
+    "location": "Danbury, CT, US",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368",
+    "date_posted": "2026-09-01",
+    "source": "workday",
+    "source_name": "CACI Careers",
+    "is_simplify": false,
+    "season_confidence": "low",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:caci",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "CACI Careers"
+    ],
+    "source_ids": [
+      "company:caci"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-13",
+    "missing_runs": 1,
+    "active": true
+  },
+  {
+    "company": "CACI",
+    "title": "Configuration Control/Data Management Co-op - Spring & Summer 2027",
+    "location": "Danbury, CT, US",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440",
+    "source": "workday",
+    "source_name": "CACI Careers",
+    "season": "summer-2027",
+    "age": "4d",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Statistics / Analytics",
+    "tags": [
+      "Statistics / Analytics"
+    ],
+    "source_id": "company:caci",
+    "simplify_comparison": "matched",
+    "sources": [
+      "CACI Careers",
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "company:caci",
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "date_posted": "2026-09-10",
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Burlington Stores",
@@ -3151,9 +4337,38 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 0,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
+  },
+  {
+    "company": "BerryDunn",
+    "title": "Summer 2027 Internship - Technology Assurance",
+    "location": "Portland, ME, US",
+    "url": "https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job",
+    "date_posted": "2024-09-14",
+    "source": "generic",
+    "source_name": "BerryDunn Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "General Technology",
+    "tags": [
+      "General Technology"
+    ],
+    "source_id": "web:berrydunn-4021",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "BerryDunn Careers"
+    ],
+    "source_ids": [
+      "web:berrydunn-4021"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "BNY",
@@ -3163,7 +4378,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "20d",
+    "age": "21d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -3182,7 +4397,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3195,7 +4410,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "20d",
+    "age": "21d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -3214,10 +4429,44 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
+  },
+  {
+    "company": "Axon",
+    "title": "Render ATL - Leadership Development Internship 2027",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7798168003",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Axon Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Software Engineering",
+      "Scientific Computing / Research",
+      "Product Management",
+      "Hardware / Engineering",
+      "General Technology"
+    ],
+    "source_id": "company:axon",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Axon Careers"
+    ],
+    "source_ids": [
+      "company:axon"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Axon",
@@ -3227,7 +4476,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "17d",
+    "age": "18d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3245,10 +4494,39 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
+  },
+  {
+    "company": "Avangrid / Iberdrola",
+    "title": "2027 Electrical Engineering Internship Program",
+    "location": "United States Of America, Connecticut, Orange; United States Of America, Maine, Portland; United States Of America, New York, Binghamton; United States Of America, Oregon, Portland; United States Of America, Maine, Augusta; United States Of America, New York, Rochester; United States Of America, Massachusetts, Boston",
+    "url": "https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Electrical-Engineering-Internship-Program_R-32708",
+    "date_posted": "2026-08-28",
+    "source": "workday",
+    "source_name": "Avangrid / Iberdrola Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:avangrid-iberdrola",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Avangrid / Iberdrola Careers"
+    ],
+    "source_ids": [
+      "company:avangrid-iberdrola"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Arch Capital Group",
@@ -3258,7 +4536,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "13d",
+    "age": "14d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -3276,7 +4554,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3289,7 +4567,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3307,7 +4585,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3320,7 +4598,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "19d",
+    "age": "20d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3336,75 +4614,166 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Anduril",
-    "title": "Software Engineer Intern",
-    "location": "Atlanta, GA; Boston, MA; Costa Mesa, CA; Irvine, CA; Reston, VA; Seattle, WA",
+    "title": "2027 Software Engineer Intern",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
     "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-    "source": "github",
-    "source_name": "Vansh & Ouckah",
+    "source": "greenhouse",
+    "source_name": "Anduril Careers",
     "season": "summer-2027",
     "age": "Jul 07",
     "is_simplify": false,
-    "season_confidence": "medium",
+    "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:Vansh & Ouckah",
+    "source_id": "company:anduril",
     "simplify_comparison": "no_exact_match",
     "sources": [
+      "Anduril Careers",
       "Vansh & Ouckah"
     ],
     "source_ids": [
+      "company:anduril",
       "github:Vansh & Ouckah"
     ],
     "in_simplify": false,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
+  },
+  {
+    "company": "Anduril",
+    "title": "2027 Mechanical Engineer Intern",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Anduril Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:anduril",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Anduril Careers"
+    ],
+    "source_ids": [
+      "company:anduril"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Anduril",
+    "title": "2027 Manufacturing Engineer Intern",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Anduril Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:anduril",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Anduril Careers"
+    ],
+    "source_ids": [
+      "company:anduril"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Anduril",
+    "title": "2027 Electrical Engineer Intern",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Anduril Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:anduril",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Anduril Careers"
+    ],
+    "source_ids": [
+      "company:anduril"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-13",
+    "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
+    "last_seen": "2026-09-14",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Ameriprise Financial",
-    "title": "Asset Management Technology Intern - Data Enablement",
-    "location": "Boston, MA",
+    "title": "Asset Management Technology Intern – Data Enablement",
+    "location": "Boston, Massachusetts",
     "url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Ameriprise Financial Careers",
     "season": "summer-2027",
-    "age": "12d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "age": "13d",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "General Technology",
     "tags": [
       "General Technology"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:ameriprise-financial",
     "simplify_comparison": "matched",
     "sources": [
+      "Ameriprise Financial Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:ameriprise-financial",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-02",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Amazon",
@@ -3414,7 +4783,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -3433,7 +4802,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3465,42 +4834,44 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
   {
     "company": "Adobe",
-    "title": "Software Engineer Intern",
-    "location": "Seattle, WA; SF; Austin, TX; San Jose, CA; Waltham, MA; NYC; Lehi, UT",
+    "title": "2027 Intern - Software Engineer",
+    "location": "San Jose; Waltham; San Francisco; Austin; Seattle; Lehi; New York",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
-    "source": "github",
-    "source_name": "SimplifyJobs",
+    "source": "workday",
+    "source_name": "Adobe Careers",
     "season": "summer-2027",
-    "age": "10d",
-    "is_simplify": true,
+    "age": "11d",
+    "is_simplify": false,
     "season_confidence": "medium",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
+    "source_id": "company:adobe",
     "simplify_comparison": "matched",
     "sources": [
+      "Adobe Careers",
       "SimplifyJobs"
     ],
     "source_ids": [
+      "company:adobe",
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-03",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "AQR Capital Management",
@@ -3528,7 +4899,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3560,7 +4931,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3573,7 +4944,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "18d",
+    "age": "20d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Scientific Computing / Research",
@@ -3591,7 +4962,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3604,7 +4975,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -3621,12 +4992,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "AMD",
@@ -3636,7 +5007,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3654,7 +5025,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3667,7 +5038,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3685,7 +5056,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3698,7 +5069,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "AI / Machine Learning",
@@ -3716,7 +5087,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3729,7 +5100,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "AI / Machine Learning",
@@ -3747,7 +5118,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3760,7 +5131,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3778,7 +5149,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3791,7 +5162,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3809,7 +5180,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3822,7 +5193,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3840,7 +5211,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3853,7 +5224,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3871,7 +5242,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3884,7 +5255,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3902,7 +5273,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3915,7 +5286,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3933,7 +5304,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -3946,7 +5317,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -3962,12 +5333,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "AMD",
@@ -3977,7 +5348,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -3996,7 +5367,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -4009,7 +5380,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -4028,7 +5399,7 @@
     "in_simplify": true,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
     "active": true,
     "date_posted": null
@@ -4041,7 +5412,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "19d",
+    "age": "20d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -4057,11 +5428,11 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-14",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   }
 ]
