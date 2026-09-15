@@ -97,7 +97,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "0d",
+    "age": "1d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -397,7 +397,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "0d",
+    "age": "1d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "General Technology",
@@ -696,8 +696,8 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 2,
-    "active": true,
+    "missing_runs": 3,
+    "active": false,
     "date_posted": null
   },
   {
@@ -733,16 +733,17 @@
   },
   {
     "company": "Cyvl",
-    "title": "Hardware Engineering Intern",
+    "title": "Software Engineering Intern - SWE/ML (Summer 2027)",
     "location": "Boston, Massachusetts; Somerville, Massachusetts",
-    "url": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e",
+    "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328",
     "date_posted": "2026-09-14",
     "source": "ashby",
     "source_name": "Cyvl Careers",
     "is_simplify": false,
-    "season_confidence": "medium",
-    "category": "Hardware / Engineering",
+    "season_confidence": "high",
+    "category": "Software Engineering",
     "tags": [
+      "Software Engineering",
       "Hardware / Engineering"
     ],
     "source_id": "company:cyvl",
@@ -762,18 +763,16 @@
   },
   {
     "company": "Cyvl",
-    "title": "Engineering Intern - Software (SWE)/Machine Learning (ML)",
+    "title": "Hardware Engineering Intern (Co-Op Spring/Intern Summer 2027)",
     "location": "Boston, Massachusetts; Somerville, Massachusetts",
-    "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328",
+    "url": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e",
     "date_posted": "2026-09-14",
     "source": "ashby",
     "source_name": "Cyvl Careers",
     "is_simplify": false,
-    "season_confidence": "medium",
-    "category": "AI / Machine Learning",
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
     "tags": [
-      "AI / Machine Learning",
-      "Software Engineering",
       "Hardware / Engineering"
     ],
     "source_id": "company:cyvl",
@@ -1084,7 +1083,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false
   },
   {
@@ -1111,7 +1110,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false
   },
   {
@@ -1138,7 +1137,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false
   },
   {
@@ -1229,20 +1228,20 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 2,
-    "active": true
+    "missing_runs": 3,
+    "active": false
   },
   {
     "company": "The Hartford",
-    "title": "Software Engineer Intern - Tech & Data Program",
+    "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
     "location": "Hartford, CT",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
     "source": "workday",
     "source_name": "The Hartford Careers",
     "season": "summer-2027",
     "age": "22d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
@@ -1259,30 +1258,28 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-08-27",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-15",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": "2026-08-27"
+    "active": true
   },
   {
     "company": "The Hartford",
-    "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
+    "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
     "location": "Hartford, CT",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
     "source": "workday",
     "source_name": "The Hartford Careers",
     "season": "summer-2027",
     "age": "22d",
-    "is_simplify": true,
-    "season_confidence": "medium",
-    "category": "AI / Machine Learning",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
     "tags": [
-      "AI / Machine Learning",
       "Software Engineering",
-      "Hardware / Engineering",
-      "General Technology"
+      "Hardware / Engineering"
     ],
     "source_id": "company:the-hartford",
     "simplify_comparison": "matched",
@@ -1295,12 +1292,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-08-27",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-15",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": "2026-08-27"
+    "active": true
   },
   {
     "company": "Textron",
@@ -2080,7 +2077,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false,
     "date_posted": null
   },
@@ -3048,7 +3045,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false,
     "date_posted": null
   },
@@ -3076,7 +3073,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false
   },
   {
@@ -3103,7 +3100,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false
   },
   {
@@ -3206,7 +3203,7 @@
     "source": "greenhouse",
     "source_name": "Klaviyo Careers",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
@@ -4884,7 +4881,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false
   },
   {
@@ -4945,7 +4942,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false,
     "date_posted": null
   },
@@ -5552,7 +5549,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "20d",
+    "age": "21d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Scientific Computing / Research",
