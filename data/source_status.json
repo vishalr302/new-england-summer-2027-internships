@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 1814,
-    "regional": 127,
-    "internships": 127,
-    "matching": 122
+    "checked": 1794,
+    "regional": 125,
+    "internships": 125,
+    "matching": 120
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -24,7 +24,7 @@
     "name": "HubSpot",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 135,
+    "checked": 134,
     "regional": 3,
     "internships": 0,
     "matching": 0
@@ -81,7 +81,7 @@
     "name": "Rapid7",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 20,
+    "checked": 22,
     "regional": 8,
     "internships": 0,
     "matching": 0
@@ -108,7 +108,7 @@
     "name": "Biogen",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 206,
+    "checked": 208,
     "regional": 83,
     "internships": 0,
     "matching": 0
@@ -142,7 +142,7 @@
     "name": "Moderna",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 118,
+    "checked": 114,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -187,10 +187,10 @@
     "name": "RTX",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 286,
-    "regional": 40,
-    "internships": 38,
-    "matching": 13
+    "checked": 284,
+    "regional": 41,
+    "internships": 39,
+    "matching": 14
   },
   {
     "source_id": "company:raytheon",
@@ -203,11 +203,8 @@
     "source_id": "company:ge-vernova",
     "name": "GE Vernova",
     "checked_at": "2026-09-16",
-    "status": "ok",
-    "checked": 1221,
-    "regional": 12,
-    "internships": 0,
-    "matching": 0
+    "status": "error",
+    "error": "KeyError: 'title'"
   },
   {
     "source_id": "company:irobot",
@@ -221,8 +218,8 @@
     "name": "Analog Devices",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 499,
-    "regional": 132,
+    "checked": 502,
+    "regional": 131,
     "internships": 17,
     "matching": 0
   },
@@ -231,7 +228,7 @@
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 1374,
+    "checked": 1368,
     "regional": 49,
     "internships": 7,
     "matching": 0
@@ -279,7 +276,7 @@
     "name": "Hasbro",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 146,
+    "checked": 145,
     "regional": 34,
     "internships": 0,
     "matching": 0
@@ -310,7 +307,7 @@
     "name": "Travelers",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 217,
+    "checked": 216,
     "regional": 27,
     "internships": 8,
     "matching": 2
@@ -344,7 +341,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 107,
+    "checked": 108,
     "regional": 17,
     "internships": 6,
     "matching": 2
@@ -371,7 +368,7 @@
     "name": "WEX",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 56,
+    "checked": 59,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -608,7 +605,7 @@
     "name": "Anduril",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 2318,
+    "checked": 2314,
     "regional": 215,
     "internships": 12,
     "matching": 4
@@ -618,9 +615,9 @@
     "name": "Ameriprise Financial",
     "checked_at": "2026-09-16",
     "status": "ok",
-    "checked": 20,
-    "regional": 5,
-    "internships": 3,
+    "checked": 21,
+    "regional": 6,
+    "internships": 4,
     "matching": 1
   },
   {
