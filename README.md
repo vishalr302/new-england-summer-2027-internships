@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-17 (UTC)** · Scheduled every six hours
 
-**Active internships: 185** · **Added in last 24 hours: 9** · **Direct company finds: 66**
+**Active internships: 186** · **Added in last 24 hours: 9** · **Direct company finds: 67**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **82 of 185 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **83 of 186 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -90,7 +90,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | RTX | 🆕 ◇ [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743) | Marlborough, MA | SimplifyJobs | Unknown | 2026-09-16 |
 | RTX | 🆕 [Receiver, Exciter, &amp; Processing Architecture Software Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484) | US-MA-MARLBOROUGH-MA2 | RTX Careers, SimplifyJobs | 2026-09-16 · 1 day ago | 2026-09-16 |
 | General Dynamics | 🆕 ◇ [Information Technology Intern - Software Engineering - Computer Science](https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false) | Newport, RI; New London, CT; North Kingstown, RI; North Stonington, CT; Groton, CT | SimplifyJobs | Unknown | 2026-09-16 |
-| RTX | 🆕 [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775) | US-CT-WINDSOR LOCKS-B1 | RTX Careers, SimplifyJobs | 2026-09-16 · 1 day ago | 2026-09-16 |
+| RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775) | US-CT-WINDSOR LOCKS-B1 | RTX Careers, SimplifyJobs | 2026-09-16 · 1 day ago | 2026-09-16 |
 | RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955) | US-MA-MARLBOROUGH-MA4 | 🔎 Direct find | 2026-09-15 · 2 days ago | 2026-09-15 |
 | Tive | ◇ [Software Engineer Co-op](https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0) | Boston, MA | SimplifyJobs | Unknown | 2026-09-14 |
 | Cyvl | [Software Engineering Intern - SWE/ML (Summer 2027)](https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328) | Boston, Massachusetts; Somerville, Massachusetts | 🔎 Direct find | 2026-09-14 · 3 days ago | 2026-09-14 |
@@ -167,6 +167,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
+| RTX | 🆕 [Mechanical Engineering Internship (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineering-Internship--Summer-2027-_01870151) | US-MA-TEWKSBURY-TB1; US-MA-ANDOVER-AN0 | 🔎 Direct find | 2026-09-17 · today | 2026-09-17 |
 | Ensign-Bickford Industries | 🆕 ◇ [Development Engineer Intern](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1) | Simsbury, CT | SimplifyJobs | Unknown | 2026-09-17 |
 | Ensign-Bickford Aerospace &amp; Defense Company | 🆕 ◇ [Development Engineer Intern](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694) | Simsbury, CT | SimplifyJobs | Unknown | 2026-09-17 |
 | RTX | [Analog and Power Design Electrical Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778) | US-MA-MARLBOROUGH-MA3 | 🔎 Direct find | 2026-09-16 · 1 day ago | 2026-09-15 |
@@ -250,59 +251,59 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 ## Source health
 
-62 sources completed · 21 coverage gaps · 3 disabled entries
+63 sources completed · 20 coverage gaps · 3 disabled entries
 
 <details>
 <summary>View all monitored sources</summary>
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 1853 | 130 |
+| SimplifyJobs | ok | 1837 | 130 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 137 | 0 |
 | Wayfair | error | — | — |
 | DraftKings | ok | 7 | 7 |
 | Klaviyo | ok | 3 | 1 |
-| Toast | ok | 326 | 0 |
+| Toast | ok | 328 | 0 |
 | WHOOP | ok | 153 | 0 |
 | Rapid7 | ok | 22 | 0 |
 | DEKA | error | — | — |
 | Beta Technologies | ok | 0 | 0 |
-| Biogen | ok | 209 | 0 |
+| Biogen | ok | 210 | 0 |
 | Akamai | error | — | — |
 | Boston Dynamics | ok | 74 | 0 |
 | MathWorks | error | — | — |
-| Moderna | ok | 118 | 0 |
+| Moderna | ok | 120 | 0 |
 | Vertex Pharmaceuticals | error | — | — |
 | Fidelity Investments | error | — | — |
 | Liberty Mutual | error | — | — |
 | State Street | error | — | — |
 | Bose | error | — | — |
-| RTX | ok | 297 | 18 |
+| RTX | ok | 299 | 19 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1231 | 0 |
+| GE Vernova | ok | 1233 | 0 |
 | iRobot | error | — | — |
-| Analog Devices | ok | 497 | 0 |
-| Thermo Fisher Scientific | error | — | — |
+| Analog Devices | ok | 500 | 0 |
+| Thermo Fisher Scientific | ok | 1358 | 0 |
 | Draper | error | — | — |
 | MIT Lincoln Laboratory | ok | 164 | 1 |
 | CVS Health | error | — | — |
 | Citizens | error | — | — |
 | FM | error | — | — |
-| Hasbro | ok | 133 | 0 |
+| Hasbro | ok | 132 | 0 |
 | Textron | error | — | — |
 | Amica | error | — | — |
 | Pratt &amp; Whitney | disabled | — | — |
 | Travelers | ok | 217 | 2 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 329 | 0 |
+| Stanley Black &amp; Decker | ok | 327 | 0 |
 | Sikorsky | error | — | — |
-| The Hartford | ok | 111 | 2 |
+| The Hartford | ok | 114 | 2 |
 | BAE Systems | error | — | — |
 | IDEXX | ok | 65 | 0 |
 | WEX | ok | 60 | 0 |
 | Tyler Technologies | error | — | — |
-| GlobalFoundries | ok | 324 | 12 |
+| GlobalFoundries | ok | 323 | 12 |
 | Wellington Management | ok | 32 | 0 |
 | Trimble | ok | 15 | 0 |
 | TJX | ok | 38 | 2 |
@@ -324,7 +325,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | CACI | ok | 56 | 4 |
 | Axon | ok | 6 | 1 |
 | Arch Capital Group | ok | 15 | 0 |
-| Anduril | ok | 2331 | 4 |
+| Anduril | ok | 2338 | 4 |
 | Ameriprise Financial | ok | 22 | 1 |
 | Adobe | ok | 8 | 1 |
 | Walleye Capital | ok | 4 | 2 |
@@ -336,7 +337,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Interactive Brokers | disabled | — | — |
 | Ginkgo Bioworks | ok | 20 | 0 |
 | CircuitHub | ok | 8 | 0 |
-| Venti Technologies | ok | 33 | 0 |
+| Venti Technologies | ok | 35 | 0 |
 | Cyvl | ok | 10 | 3 |
 | Gartner | ok | 12 | 1 |
 | IAT Insurance Group | ok | 20 | 1 |
