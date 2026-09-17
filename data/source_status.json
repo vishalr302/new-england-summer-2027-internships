@@ -24,7 +24,7 @@
     "name": "HubSpot",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 135,
+    "checked": 132,
     "regional": 3,
     "internships": 0,
     "matching": 0
@@ -61,7 +61,7 @@
     "name": "Toast",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 326,
+    "checked": 328,
     "regional": 20,
     "internships": 0,
     "matching": 0
@@ -107,11 +107,8 @@
     "source_id": "company:Biogen",
     "name": "Biogen",
     "checked_at": "2026-09-17",
-    "status": "ok",
-    "checked": 210,
-    "regional": 81,
-    "internships": 0,
-    "matching": 0
+    "status": "error",
+    "error": "KeyError: 'title'"
   },
   {
     "source_id": "company:akamai",
@@ -142,7 +139,7 @@
     "name": "Moderna",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 119,
+    "checked": 120,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -187,10 +184,10 @@
     "name": "RTX",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 304,
-    "regional": 46,
-    "internships": 44,
-    "matching": 19
+    "checked": 307,
+    "regional": 45,
+    "internships": 43,
+    "matching": 18
   },
   {
     "source_id": "company:raytheon",
@@ -204,7 +201,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 1246,
+    "checked": 1252,
     "regional": 12,
     "internships": 0,
     "matching": 0
@@ -220,15 +217,21 @@
     "source_id": "company:analog-devices",
     "name": "Analog Devices",
     "checked_at": "2026-09-17",
-    "status": "error",
-    "error": "KeyError: 'externalPath'"
+    "status": "ok",
+    "checked": 471,
+    "regional": 122,
+    "internships": 17,
+    "matching": 0
   },
   {
     "source_id": "company:thermo-fisher-scientific",
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-17",
-    "status": "error",
-    "error": "KeyError: 'externalPath'"
+    "status": "ok",
+    "checked": 1363,
+    "regional": 50,
+    "internships": 7,
+    "matching": 0
   },
   {
     "source_id": "company:draper",
@@ -242,8 +245,8 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 165,
-    "regional": 162,
+    "checked": 169,
+    "regional": 166,
     "internships": 6,
     "matching": 1
   },
@@ -273,7 +276,7 @@
     "name": "Hasbro",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 134,
+    "checked": 135,
     "regional": 29,
     "internships": 0,
     "matching": 0
@@ -304,8 +307,8 @@
     "name": "Travelers",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 219,
-    "regional": 27,
+    "checked": 221,
+    "regional": 28,
     "internships": 9,
     "matching": 2
   },
@@ -320,8 +323,11 @@
     "source_id": "company:stanley-black-and-decker",
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-17",
-    "status": "error",
-    "error": "KeyError: 'externalPath'"
+    "status": "ok",
+    "checked": 320,
+    "regional": 9,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:sikorsky",
@@ -335,7 +341,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 117,
+    "checked": 116,
     "regional": 20,
     "internships": 8,
     "matching": 4
@@ -362,7 +368,7 @@
     "name": "WEX",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 60,
+    "checked": 61,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -429,7 +435,7 @@
     "name": "Merck",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 235,
+    "checked": 231,
     "regional": 24,
     "internships": 24,
     "matching": 7
@@ -439,17 +445,17 @@
     "name": "Marvell",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 22,
-    "regional": 10,
-    "internships": 10,
-    "matching": 10
+    "checked": 24,
+    "regional": 12,
+    "internships": 12,
+    "matching": 12
   },
   {
     "source_id": "company:manulife-financial",
     "name": "Manulife Financial",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 96,
+    "checked": 97,
     "regional": 17,
     "internships": 13,
     "matching": 5
@@ -599,9 +605,9 @@
     "name": "Anduril",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 2343,
-    "regional": 220,
-    "internships": 12,
+    "checked": 2345,
+    "regional": 216,
+    "internships": 10,
     "matching": 4
   },
   {
@@ -639,7 +645,7 @@
     "name": "Secretariat",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 69,
+    "checked": 68,
     "regional": 6,
     "internships": 1,
     "matching": 1
@@ -649,7 +655,7 @@
     "name": "Charles River Associates",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 84,
+    "checked": 86,
     "regional": 44,
     "internships": 4,
     "matching": 2
@@ -696,8 +702,8 @@
     "name": "Ginkgo Bioworks",
     "checked_at": "2026-09-17",
     "status": "ok",
-    "checked": 20,
-    "regional": 14,
+    "checked": 21,
+    "regional": 15,
     "internships": 1,
     "matching": 0
   },
