@@ -1,5 +1,94 @@
 [
   {
+    "company": "The Hartford",
+    "title": "Intern, Actuarial Student Program (Summer 2027)",
+    "location": "Hartford, CT",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Actuarial-Student-Program--Summer-2027-_R2624619-1",
+    "date_posted": "2026-09-17",
+    "source": "workday",
+    "source_name": "The Hartford Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Data Science",
+    "tags": [
+      "Data Science",
+      "Statistics / Analytics",
+      "General Technology"
+    ],
+    "source_id": "company:the-hartford",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "The Hartford Careers"
+    ],
+    "source_ids": [
+      "company:the-hartford"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-17",
+    "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
+    "last_seen": "2026-09-17",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "The Hartford",
+    "title": "Data Science Intern - Summer 2027",
+    "location": "Hartford, CT; Charlotte, NC; Chicago, IL",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114",
+    "date_posted": "2026-09-17",
+    "source": "workday",
+    "source_name": "The Hartford Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Data Science",
+    "tags": [
+      "Data Science"
+    ],
+    "source_id": "company:the-hartford",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "The Hartford Careers"
+    ],
+    "source_ids": [
+      "company:the-hartford"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-17",
+    "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
+    "last_seen": "2026-09-17",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Software Development Intern (Summer 2027)",
+    "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413",
+    "date_posted": "2026-09-17",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-17",
+    "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
+    "last_seen": "2026-09-17",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
     "company": "RTX",
     "title": "Mechanical Engineering Internship (Summer 2027)",
     "location": "US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG; US-MA-ANDOVER-AN0 ~ 366 Lowell St ~ BLDG AN0",
@@ -24,6 +113,37 @@
     "in_simplify": false,
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T11:52:43.542737+00:00",
+    "last_seen": "2026-09-17",
+    "missing_runs": 1,
+    "active": true
+  },
+  {
+    "company": "Insulet",
+    "title": "Intern, Internal Audit & Enterprise Risk Management: June - August 2027 (Hybrid)",
+    "location": "Acton, Massachusetts",
+    "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Intern--Internal-Audit---Enterprise-Risk-Management--June---August-2027--Hybrid-_REQ-2026-17994",
+    "date_posted": "2026-09-17",
+    "source": "workday",
+    "source_name": "Insulet Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Statistics / Analytics",
+      "General Technology"
+    ],
+    "source_id": "company:insulet",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Insulet Careers"
+    ],
+    "source_ids": [
+      "company:insulet"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-17",
+    "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
     "last_seen": "2026-09-17",
     "missing_runs": 0,
     "active": true
@@ -323,7 +443,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "0d",
+    "age": "1d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -705,8 +825,8 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T05:08:51.342152+00:00",
     "last_seen": "2026-09-16",
-    "missing_runs": 2,
-    "active": true
+    "missing_runs": 3,
+    "active": false
   },
   {
     "company": "RTX",
@@ -735,7 +855,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false,
     "date_posted": null
   },
@@ -767,7 +887,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-16",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false,
     "date_posted": null
   },
@@ -806,8 +926,8 @@
     "company": "Merck",
     "title": "2027 Future Talent Program – Pharmaceutical Analysis and Digital Technology (PADT) and Large Molecule Analytical (LMA) - Intern",
     "location": "USA - New Jersey - Rahway; USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - Pennsylvania - West Point; USA - California - South San Francisco (Grand Ave)",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Pharmaceutical-Analysis-and-Digital-Technology--PADT--and-Large-Molecule-Analytical--LMA----Intern_R416765",
-    "date_posted": "2026-09-08",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Pharmaceutical-Analysis-and-Digital-Technology--PADT--and-Large-Molecule-Analytical--LMA----Intern_R418632",
+    "date_posted": "2026-09-17",
     "source": "workday",
     "source_name": "Merck Careers",
     "is_simplify": false,
@@ -1078,7 +1198,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 9,
+    "missing_runs": 10,
     "active": false,
     "date_posted": null
   },
@@ -1090,7 +1210,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1465,7 +1585,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false
   },
   {
@@ -1492,7 +1612,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false
   },
   {
@@ -1519,7 +1639,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false
   },
   {
@@ -1959,7 +2079,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 11,
+    "missing_runs": 12,
     "active": false
   },
   {
@@ -1986,7 +2106,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 11,
+    "missing_runs": 12,
     "active": false
   },
   {
@@ -2071,7 +2191,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 11,
+    "missing_runs": 12,
     "active": false
   },
   {
@@ -2127,7 +2247,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 11,
+    "missing_runs": 12,
     "active": false
   },
   {
@@ -2218,7 +2338,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-14",
-    "missing_runs": 9,
+    "missing_runs": 10,
     "active": false
   },
   {
@@ -2245,7 +2365,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 11,
+    "missing_runs": 12,
     "active": false
   },
   {
@@ -2278,7 +2398,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:34:45.097133+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 10,
+    "missing_runs": 11,
     "active": false
   },
   {
@@ -2305,7 +2425,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 11,
+    "missing_runs": 12,
     "active": false
   },
   {
@@ -2459,7 +2579,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false,
     "date_posted": null
   },
@@ -3427,7 +3547,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 15,
+    "missing_runs": 16,
     "active": false,
     "date_posted": null
   },
@@ -3455,7 +3575,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false
   },
   {
@@ -3482,7 +3602,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false
   },
   {
@@ -3947,7 +4067,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Scientific Computing / Research",
@@ -4544,7 +4664,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -4576,7 +4696,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -4607,7 +4727,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -4638,7 +4758,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -4669,7 +4789,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -4703,7 +4823,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -4734,7 +4854,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -5263,7 +5383,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false
   },
   {
@@ -5324,7 +5444,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false,
     "date_posted": null
   },
@@ -5365,7 +5485,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -5397,7 +5517,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "23d",
+    "age": "24d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -5554,7 +5674,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6335,7 +6455,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "15d",
+    "age": "16d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -6367,7 +6487,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "15d",
+    "age": "16d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
