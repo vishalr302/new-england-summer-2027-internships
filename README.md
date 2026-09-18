@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-18 (UTC)** · Scheduled every six hours
 
-**Active internships: 193** · **Added in last 24 hours: 13** · **Direct company finds: 71**
+**Active internships: 192** · **Added in last 24 hours: 9** · **Direct company finds: 70**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **87 of 193 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **86 of 192 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -24,7 +24,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | --- | --- | --- | --- | --- | --- |
 | Marvell | 🆕 [SRAM Circuit Design Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1) | Burlington, VT | 🔎 Direct find | 2026-09-17 · 1 day ago | 2026-09-17 |
 | Insulet | 🆕 [Intern, Internal Audit &amp; Enterprise Risk Management: June - August 2027 (Hybrid)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Intern--Internal-Audit---Enterprise-Risk-Management--June---August-2027--Hybrid-_REQ-2026-17994) | Acton, Massachusetts | 🔎 Direct find | 2026-09-17 · 1 day ago | 2026-09-17 |
-| Cyvl | 🆕 [Data Operations Intern (Summer 2027)](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d) | Boston, Massachusetts; Somerville, Massachusetts | 🔎 Direct find | 2026-09-16 · 2 days ago | 2026-09-17 |
+| Cyvl | [Data Operations Intern (Summer 2027)](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d) | Boston, Massachusetts; Somerville, Massachusetts | 🔎 Direct find | 2026-09-16 · 2 days ago | 2026-09-17 |
 | Merck | [2027 Future Talent Program – Modeling &amp; Informatics - Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Modeling---Informatics---Intern_R416278) | USA - Massachusetts - Boston (MA Parcel B Laboratory) | 🔎 Direct find | 2026-09-09 · 9 days ago | 2026-09-13 |
 | Merck | [2027 Future Talent Program - Discovery Biologics - Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Discovery-Biologics---Intern_R412152) | USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - Massachusetts - Cambridge (320 Bent Street) | 🔎 Direct find | 2026-09-08 · 10 days ago | 2026-09-13 |
 | Manulife Financial | [Summer Intern 2027 - Operations Analyst](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Operations-Analyst_JR26081571) | Boston, Massachusetts | 🔎 Direct find | 2026-08-28 · 21 days ago | 2026-09-13 |
@@ -138,7 +138,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | CACI | [Software Engineering Co-op - Spring &amp; Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1) | Danbury, CT, US | CACI Careers, SimplifyJobs | 2026-08-31 · 18 days ago | 2026-09-13 |
 | BNY | ◇ [Engineering Intern - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318) | Greater Manchester, UK | SimplifyJobs | Unknown | 2026-09-13 |
 | Amazon | ◇ [Software Development Engineer Intern - Robotics](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | North Reading, MA; Westborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
-| Adobe | ◇ [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | Waltham | Adobe Careers, SimplifyJobs | 2026-09-03 · 15 days ago | 2026-09-13 |
+| Adobe | ◇ [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | Waltham | Adobe Careers, SimplifyJobs | 2026-09-18 · today | 2026-09-13 |
 | AMD | ◇ [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90947?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Compiler Engineer Intern/Co-op - Masters 🎓](https://careers.amd.com/jobs/91867?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Compiler Engineer Intern/Co-op](https://careers.amd.com/jobs/91864?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
@@ -158,7 +158,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
-| AspenTech | 🆕 ◇ [Product Owner Intern - Product Management](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | Bedford, MA | SimplifyJobs | Unknown | 2026-09-17 |
+| AspenTech | ◇ [Product Owner Intern - Product Management](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | Bedford, MA | SimplifyJobs | Unknown | 2026-09-17 |
 | Travelers | ◇ [Product Management Development Program (PMDP) Intern](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317) | CT - Hartford | 🔎 Direct find | 2026-09-01 · 17 days ago | 2026-09-13 |
 | Cox | [Product Management Intern - Summer 2027 (Burlington, VT)](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191) | Burlington VT | Cox Careers, SimplifyJobs | 2026-09-08 · 10 days ago | 2026-09-13 |
 
@@ -176,8 +176,8 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
 | LSEG | 🆕 ◇ [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1) | Boston, MA | SimplifyJobs | Unknown | 2026-09-18 |
-| Ensign-Bickford Industries | 🆕 ◇ [Development Engineer Intern](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1) | Simsbury, CT | SimplifyJobs | Unknown | 2026-09-17 |
-| Ensign-Bickford Aerospace &amp; Defense Company | 🆕 ◇ [Development Engineer Intern](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694) | Simsbury, CT | SimplifyJobs | Unknown | 2026-09-17 |
+| Ensign-Bickford Industries | ◇ [Development Engineer Intern](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1) | Simsbury, CT | SimplifyJobs | Unknown | 2026-09-17 |
+| Ensign-Bickford Aerospace &amp; Defense Company | ◇ [Development Engineer Intern](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694) | Simsbury, CT | SimplifyJobs | Unknown | 2026-09-17 |
 | RTX | [Analog and Power Design Electrical Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778) | US-MA-MARLBOROUGH-MA3 | 🔎 Direct find | 2026-09-16 · 2 days ago | 2026-09-15 |
 | RTX | [Test Engineering Analysis Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Test-Engineering-Analysis-Intern--Summer-2027--Onsite-_01871446) | US-CT-EAST HARTFORD-ETC | 🔎 Direct find | 2026-09-14 · 4 days ago | 2026-09-14 |
 | RTX | ◇ [Systems Engineering Summer Intern- Onsite](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Systems-Engineering-Summer-Intern--Onsite_01872942) | US-CT-WINDSOR LOCKS-B1A | 🔎 Direct find | 2026-09-14 · 4 days ago | 2026-09-14 |
@@ -207,7 +207,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | GlobalFoundries | [Facilities Engineering Intern, Electrical Distribution Systems (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Facilities-Engineering-Intern--Electrical-Distribution-Systems--Summer-2027-_JR-2604572) | USA - Vermont - Essex Junction | 🔎 Direct find | 2026-08-25 · 24 days ago | 2026-09-13 |
 | GlobalFoundries | [Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604639) | USA - Vermont - Essex Junction | 🔎 Direct find | 2026-08-27 · 22 days ago | 2026-09-13 |
 | GlobalFoundries | [Advanced Manufacturing Process Engineering Intern, Junior (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604661) | USA - Vermont - Essex Junction | 🔎 Direct find | 2026-08-27 · 22 days ago | 2026-09-13 |
-| RTX | [Receiver, Exciter &amp; Processing Architecture Electrical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) | US-MA-TEWKSBURY-TB1 | 🔎 Direct find | 2026-09-16 · 2 days ago | 2026-09-13 |
 | RTX | [RF/Microwave Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/RF-Microwave-Engineering-Intern--Summer-2027-_01875478) | US-MA-ANDOVER-AR1 | 🔎 Direct find | 2026-09-16 · 2 days ago | 2026-09-13 |
 | RTX | [Intern: Quality Engineering (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Engineering--Summer-2027-_01868898) | US-CT-EAST HARTFORD-ETC | 🔎 Direct find | 2026-09-09 · 9 days ago | 2026-09-13 |
 | RTX | [Intern: Manufacturing Engineering (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Manufacturing-Engineering--Summer-2027-_01869903) | US-CT-EAST HARTFORD-J | 🔎 Direct find | 2026-09-09 · 9 days ago | 2026-09-13 |
@@ -258,20 +257,20 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 ## Source health
 
-61 sources completed · 22 coverage gaps · 3 disabled entries
+63 sources completed · 20 coverage gaps · 3 disabled entries
 
 <details>
 <summary>View all monitored sources</summary>
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 1932 | 134 |
+| SimplifyJobs | ok | 1911 | 132 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
-| HubSpot | ok | 131 | 0 |
+| HubSpot | ok | 133 | 0 |
 | Wayfair | error | — | — |
 | DraftKings | ok | 7 | 7 |
 | Klaviyo | ok | 3 | 1 |
-| Toast | ok | 326 | 0 |
+| Toast | ok | 324 | 0 |
 | WHOOP | ok | 153 | 0 |
 | Rapid7 | ok | 23 | 0 |
 | DEKA | error | — | — |
@@ -286,36 +285,36 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Liberty Mutual | error | — | — |
 | State Street | error | — | — |
 | Bose | error | — | — |
-| RTX | ok | 302 | 16 |
+| RTX | ok | 288 | 16 |
 | Raytheon | disabled | — | — |
-| GE Vernova | error | — | — |
+| GE Vernova | ok | 1230 | 0 |
 | iRobot | error | — | — |
-| Analog Devices | error | — | — |
-| Thermo Fisher Scientific | ok | 1367 | 0 |
+| Analog Devices | ok | 473 | 0 |
+| Thermo Fisher Scientific | ok | 1365 | 0 |
 | Draper | error | — | — |
 | MIT Lincoln Laboratory | ok | 180 | 1 |
 | CVS Health | error | — | — |
 | Citizens | error | — | — |
 | FM | error | — | — |
-| Hasbro | ok | 134 | 0 |
+| Hasbro | ok | 135 | 0 |
 | Textron | error | — | — |
 | Amica | error | — | — |
 | Pratt &amp; Whitney | disabled | — | — |
 | Travelers | ok | 221 | 2 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 319 | 0 |
+| Stanley Black &amp; Decker | ok | 316 | 0 |
 | Sikorsky | error | — | — |
-| The Hartford | ok | 116 | 4 |
+| The Hartford | ok | 117 | 4 |
 | BAE Systems | error | — | — |
 | IDEXX | ok | 65 | 0 |
-| WEX | ok | 61 | 0 |
+| WEX | ok | 60 | 0 |
 | Tyler Technologies | error | — | — |
 | GlobalFoundries | ok | 325 | 12 |
 | Wellington Management | ok | 33 | 0 |
 | Trimble | ok | 15 | 0 |
 | TJX | ok | 36 | 0 |
 | S&amp;P Global | ok | 9 | 2 |
-| Merck | ok | 231 | 7 |
+| Merck | ok | 230 | 7 |
 | Marvell | ok | 24 | 12 |
 | Manulife Financial | ok | 97 | 5 |
 | MKS Instruments | ok | 6 | 0 |
@@ -326,13 +325,13 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | HPR (Hyannis Port Research) | ok | 10 | 2 |
 | GE Aerospace | ok | 52 | 0 |
 | Cox | ok | 28 | 2 |
-| Cigna Group | ok | 27 | 2 |
+| Cigna Group | ok | 26 | 2 |
 | Castleton Commodities International | ok | 3 | 1 |
 | Capital One | ok | 19 | 2 |
 | CACI | ok | 56 | 4 |
 | Axon | ok | 6 | 1 |
 | Arch Capital Group | ok | 15 | 0 |
-| Anduril | ok | 2348 | 4 |
+| Anduril | ok | 2346 | 4 |
 | Ameriprise Financial | ok | 22 | 1 |
 | Adobe | ok | 8 | 1 |
 | Walleye Capital | ok | 4 | 2 |

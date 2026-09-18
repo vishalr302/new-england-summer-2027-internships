@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 1932,
-    "regional": 142,
-    "internships": 142,
-    "matching": 134
+    "checked": 1911,
+    "regional": 140,
+    "internships": 140,
+    "matching": 132
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -24,7 +24,7 @@
     "name": "HubSpot",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 131,
+    "checked": 133,
     "regional": 3,
     "internships": 0,
     "matching": 0
@@ -34,7 +34,7 @@
     "name": "Wayfair",
     "checked_at": "2026-09-18",
     "status": "error",
-    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
+    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.wayfair.com/careers/jobs"
   },
   {
     "source_id": "company:draftkings",
@@ -61,7 +61,7 @@
     "name": "Toast",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 326,
+    "checked": 324,
     "regional": 20,
     "internships": 0,
     "matching": 0
@@ -187,7 +187,7 @@
     "name": "RTX",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 302,
+    "checked": 288,
     "regional": 41,
     "internships": 39,
     "matching": 16
@@ -203,8 +203,11 @@
     "source_id": "company:ge-vernova",
     "name": "GE Vernova",
     "checked_at": "2026-09-18",
-    "status": "error",
-    "error": "KeyError: 'title'"
+    "status": "ok",
+    "checked": 1230,
+    "regional": 11,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:irobot",
@@ -217,15 +220,18 @@
     "source_id": "company:analog-devices",
     "name": "Analog Devices",
     "checked_at": "2026-09-18",
-    "status": "error",
-    "error": "KeyError: 'externalPath'"
+    "status": "ok",
+    "checked": 473,
+    "regional": 122,
+    "internships": 17,
+    "matching": 0
   },
   {
     "source_id": "company:thermo-fisher-scientific",
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 1367,
+    "checked": 1365,
     "regional": 50,
     "internships": 7,
     "matching": 0
@@ -273,7 +279,7 @@
     "name": "Hasbro",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 134,
+    "checked": 135,
     "regional": 29,
     "internships": 0,
     "matching": 0
@@ -321,7 +327,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 319,
+    "checked": 316,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -338,7 +344,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 116,
+    "checked": 117,
     "regional": 20,
     "internships": 8,
     "matching": 4
@@ -365,7 +371,7 @@
     "name": "WEX",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 61,
+    "checked": 60,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -432,7 +438,7 @@
     "name": "Merck",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 231,
+    "checked": 230,
     "regional": 24,
     "internships": 24,
     "matching": 7
@@ -542,7 +548,7 @@
     "name": "Cigna Group",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 27,
+    "checked": 26,
     "regional": 13,
     "internships": 13,
     "matching": 2
@@ -602,7 +608,7 @@
     "name": "Anduril",
     "checked_at": "2026-09-18",
     "status": "ok",
-    "checked": 2348,
+    "checked": 2346,
     "regional": 216,
     "internships": 10,
     "matching": 4
