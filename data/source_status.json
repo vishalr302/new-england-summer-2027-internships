@@ -4,7 +4,7 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-19",
     "status": "ok",
-    "checked": 1982,
+    "checked": 1944,
     "regional": 145,
     "internships": 145,
     "matching": 135
@@ -187,7 +187,7 @@
     "name": "RTX",
     "checked_at": "2026-09-19",
     "status": "ok",
-    "checked": 275,
+    "checked": 265,
     "regional": 28,
     "internships": 26,
     "matching": 15
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-19",
     "status": "ok",
-    "checked": 1241,
+    "checked": 1237,
     "regional": 11,
     "internships": 0,
     "matching": 0
@@ -231,7 +231,7 @@
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-19",
     "status": "ok",
-    "checked": 1373,
+    "checked": 1371,
     "regional": 54,
     "internships": 7,
     "matching": 0
