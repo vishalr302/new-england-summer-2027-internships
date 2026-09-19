@@ -4,7 +4,7 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-19",
     "status": "ok",
-    "checked": 1944,
+    "checked": 1957,
     "regional": 145,
     "internships": 145,
     "matching": 135
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-19",
     "status": "ok",
-    "checked": 1237,
+    "checked": 1238,
     "regional": 11,
     "internships": 0,
     "matching": 0
@@ -361,7 +361,7 @@
     "name": "IDEXX",
     "checked_at": "2026-09-19",
     "status": "ok",
-    "checked": 63,
+    "checked": 62,
     "regional": 12,
     "internships": 0,
     "matching": 0
@@ -448,7 +448,7 @@
     "name": "Marvell",
     "checked_at": "2026-09-19",
     "status": "ok",
-    "checked": 24,
+    "checked": 23,
     "regional": 12,
     "internships": 12,
     "matching": 12
@@ -785,9 +785,9 @@
     "name": "Citizens (web posting)",
     "checked_at": "2026-09-19",
     "status": "ok",
-    "checked": 1,
-    "regional": 1,
-    "internships": 1,
-    "matching": 1
+    "checked": 0,
+    "regional": 0,
+    "internships": 0,
+    "matching": 0
   }
 ]
