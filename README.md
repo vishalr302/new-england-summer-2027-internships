@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-19 (UTC)** · Scheduled every six hours
 
-**Active internships: 194** · **Added in last 24 hours: 9** · **Direct company finds: 71**
+**Active internships: 194** · **Added in last 24 hours: 5** · **Direct company finds: 71**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -93,7 +93,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
 | RTX | 🆕 [Software Project Engineer Intern (Summer 2027) Onsite](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660) | US-CT-WINDSOR LOCKS-B1 | 🔎 Direct find | 2026-09-19 · today | 2026-09-19 |
-| MIT Lincoln Laboratory | 🆕 [Summer Research Program Intern 2027, Software and Electronics Engineering (Group 07-76)](https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Software-and-Electronics-Engineering-%28Group-07-76%29-MA-02420/1431440000) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-18 |
+| MIT Lincoln Laboratory | [Summer Research Program Intern 2027, Software and Electronics Engineering (Group 07-76)](https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Software-and-Electronics-Engineering-%28Group-07-76%29-MA-02420/1431440000) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-18 |
 | Marvell | [SRAM Software Engineer Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1) | Burlington, VT | 🔎 Direct find | 2026-09-17 · 2 days ago | 2026-09-17 |
 | RTX | [Software Development Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413) | US-MA-TEWKSBURY-TB3 | RTX Careers, SimplifyJobs | 2026-09-17 · 2 days ago | 2026-09-17 |
 | RTX | ◇ [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743) | Marlborough, MA | SimplifyJobs | Unknown | 2026-09-16 |
@@ -149,7 +149,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
-| MIT Lincoln Laboratory | 🆕 [Cyber System Assessments Intern, Summer Research Program 2027 - Group 05-59](https://careers.ll.mit.edu/job/Lexington-Cyber-System-Assessments-Intern%2C-Summer-Research-Program-2027-Group-05-59-MA-02420/1431430900) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-18 |
+| MIT Lincoln Laboratory | [Cyber System Assessments Intern, Summer Research Program 2027 - Group 05-59](https://careers.ll.mit.edu/job/Lexington-Cyber-System-Assessments-Intern%2C-Summer-Research-Program-2027-Group-05-59-MA-02420/1431430900) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-18 |
 | NVIDIA | ◇ [Architecture Research Intern - Architecture - 2027 🎓](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) | Westford, MA | SimplifyJobs | Unknown | 2026-09-18 |
 | RTX | [Advanced Measurements Research and Development Intern (Summer 2027) (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurements-Research-and-Development-Intern--Summer-2027---Onsite-_01864777-1) | US-CT-MIDDLETOWN-220A | 🔎 Direct find | 2026-09-16 · 3 days ago | 2026-09-16 |
 | Merck | [2027 Future Talent Program - Discovery Chemistry &amp; Process Research - Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Discovery-Chemistry---Process-Research---Intern_R414395) | USA - Massachusetts - Boston (MA Parcel B Laboratory) | 🔎 Direct find | 2026-09-08 · 11 days ago | 2026-09-13 |
@@ -169,8 +169,8 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
-| MIT Lincoln Laboratory | 🆕 ◇ [Cyber System Exploitation Co-Op RE (Jan - June 2027) - Group 05-59](https://careers.ll.mit.edu/job/Lexington-Cyber-System-Exploitation-Co-Op-RE-%28Jan-June-2027%29-Group-05-59-MA-02420/1431433100) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-18 |
-| MIT Lincoln Laboratory | 🆕 ◇ [Cyber System Exploitation Co-Op (Jan - June 2027)  - Group 05-59](https://careers.ll.mit.edu/job/Lexington-Cyber-System-Exploitation-Co-Op-%28Jan-June-2027%29-Group-05-59-MA-02420/1431432100) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-18 |
+| MIT Lincoln Laboratory | ◇ [Cyber System Exploitation Co-Op RE (Jan - June 2027) - Group 05-59](https://careers.ll.mit.edu/job/Lexington-Cyber-System-Exploitation-Co-Op-RE-%28Jan-June-2027%29-Group-05-59-MA-02420/1431433100) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-18 |
+| MIT Lincoln Laboratory | ◇ [Cyber System Exploitation Co-Op (Jan - June 2027)  - Group 05-59](https://careers.ll.mit.edu/job/Lexington-Cyber-System-Exploitation-Co-Op-%28Jan-June-2027%29-Group-05-59-MA-02420/1431432100) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-18 |
 | Castleton Commodities International | [Cybersecurity Internship (Summer 2027)](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Cybersecurity-Intern_R1368) | Stamford, CT | 🔎 Direct find | 2026-08-17 · 33 days ago | 2026-09-14 |
 | Avangrid / Iberdrola | ◇ [2027 Technology, Cyber &amp; Data Internship Program](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747) | United States Of America, Connecticut, Orange; United States Of America, Maine, Augusta; United States Of America, Maine, Portland; United States Of America, Massachusetts, Boston | 🔎 Direct find | 2026-08-28 · 22 days ago | 2026-09-14 |
 | Citizens | [Corporate Security &amp; Resilience Summer 2027 Intern &#124; Enterprise Technology &amp; Security Summer Internship Program](https://jobs.citizensbank.com/job/johnston/corporate-security-and-resilience-summer-2027-intern-enterprise-technology-and-security-summer-inte/288/100486082672) | Johnston, RI, United States | 🔎 Direct find | Unknown | 2026-09-13 |
@@ -266,13 +266,13 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 1957 | 135 |
+| SimplifyJobs | ok | 1955 | 135 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 138 | 0 |
 | Wayfair | error | — | — |
 | DraftKings | ok | 7 | 7 |
 | Klaviyo | ok | 11 | 1 |
-| Toast | ok | 326 | 0 |
+| Toast | ok | 327 | 0 |
 | WHOOP | ok | 153 | 0 |
 | Rapid7 | ok | 23 | 0 |
 | DEKA | error | — | — |
@@ -289,10 +289,10 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Bose | error | — | — |
 | RTX | ok | 265 | 15 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1238 | 0 |
+| GE Vernova | ok | 1240 | 0 |
 | iRobot | error | — | — |
 | Analog Devices | ok | 474 | 0 |
-| Thermo Fisher Scientific | ok | 1371 | 0 |
+| Thermo Fisher Scientific | ok | 1373 | 0 |
 | Draper | error | — | — |
 | MIT Lincoln Laboratory | ok | 185 | 5 |
 | CVS Health | error | — | — |
