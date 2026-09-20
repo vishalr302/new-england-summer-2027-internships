@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-20 (UTC)** · Scheduled every six hours
 
-**Active internships: 195** · **Added in last 24 hours: 1** · **Direct company finds: 71**
+**Active internships: 193** · **Added in last 24 hours: 1** · **Direct company finds: 71**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **83 of 195 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **82 of 193 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -85,7 +85,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Cigna Group | [Analytics Leadership Development Program (ALDP) Summer Internship](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | Cigna Group Careers, SimplifyJobs | 2026-09-08 · 12 days ago | 2026-09-13 |
 | CACI | [Configuration Control/Data Management Co-op - Spring &amp; Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440) | Danbury, CT, US | CACI Careers, SimplifyJobs | 2026-09-10 · 10 days ago | 2026-09-13 |
 | Arch Capital Group | ◇ [Data and Analytics Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845) | Farmington, CT | SimplifyJobs | Unknown | 2026-09-13 |
-| AQR Capital Management | ◇ [Trading Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | Greenwich, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | AQR Capital Management | ◇ [Quantitative Prediction Markets Research Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Greenwich, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Data Analyst Intern/Co-op 🎓](https://careers.amd.com/jobs/91183?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 
@@ -216,7 +215,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | RTX | [Intern: Manufacturing Engineering (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Manufacturing-Engineering--Summer-2027-_01869903) | US-CT-EAST HARTFORD-J | 🔎 Direct find | 2026-09-09 · 11 days ago | 2026-09-13 |
 | RTX | [Intern: Industrial Engineering (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Industrial-Engineering--Summer-2027-_01868424-1) | US-CT-EAST HARTFORD-J | 🔎 Direct find | 2026-09-09 · 11 days ago | 2026-09-13 |
 | GlobalFoundries | [US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666) | USA - Vermont - Essex Junction | 🔎 Direct find | 2026-08-14 · 37 days ago | 2026-09-13 |
-| Marvell | [Test Solutions Engineering Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835) | Burlington, VT | Marvell Careers, SimplifyJobs | 2026-09-09 · 11 days ago | 2026-09-13 |
 | Marvell | ◇ [Physical Design Engineer Intern - MS - Multiple Teams 🎓](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518) | Burlington, VT; Westborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | Marvell | ◇ [Physical Design Engineer Intern - BS](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517) | Burlington, VT; Westborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | Marvell | [Functional Validation Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1) | Westborough, MA | Marvell Careers, SimplifyJobs | 2026-09-04 · 16 days ago | 2026-09-13 |
@@ -267,7 +265,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 1927 | 133 |
+| SimplifyJobs | ok | 1955 | 133 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 138 | 0 |
 | Wayfair | error | — | — |
@@ -293,7 +291,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | GE Vernova | ok | 1237 | 0 |
 | iRobot | error | — | — |
 | Analog Devices | ok | 472 | 0 |
-| Thermo Fisher Scientific | ok | 1372 | 0 |
+| Thermo Fisher Scientific | ok | 1373 | 0 |
 | Draper | error | — | — |
 | MIT Lincoln Laboratory | ok | 185 | 5 |
 | CVS Health | error | — | — |
