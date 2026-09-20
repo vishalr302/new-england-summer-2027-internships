@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-20",
     "status": "ok",
-    "checked": 1949,
-    "regional": 142,
-    "internships": 142,
-    "matching": 132
+    "checked": 1927,
+    "regional": 143,
+    "internships": 143,
+    "matching": 133
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -34,7 +34,7 @@
     "name": "Wayfair",
     "checked_at": "2026-09-20",
     "status": "error",
-    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.wayfair.com/careers/jobs"
+    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:draftkings",
@@ -187,10 +187,10 @@
     "name": "RTX",
     "checked_at": "2026-09-20",
     "status": "ok",
-    "checked": 266,
-    "regional": 28,
-    "internships": 26,
-    "matching": 15
+    "checked": 265,
+    "regional": 29,
+    "internships": 27,
+    "matching": 16
   },
   {
     "source_id": "company:raytheon",
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-20",
     "status": "ok",
-    "checked": 1238,
+    "checked": 1237,
     "regional": 11,
     "internships": 0,
     "matching": 0
@@ -221,7 +221,7 @@
     "name": "Analog Devices",
     "checked_at": "2026-09-20",
     "status": "ok",
-    "checked": 474,
+    "checked": 472,
     "regional": 121,
     "internships": 17,
     "matching": 0
@@ -327,7 +327,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-20",
     "status": "ok",
-    "checked": 313,
+    "checked": 312,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -608,7 +608,7 @@
     "name": "Anduril",
     "checked_at": "2026-09-20",
     "status": "ok",
-    "checked": 2374,
+    "checked": 2376,
     "regional": 222,
     "internships": 10,
     "matching": 4
