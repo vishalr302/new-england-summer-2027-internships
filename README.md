@@ -288,10 +288,10 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Bose | error | — | — |
 | RTX | ok | 265 | 16 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1237 | 0 |
+| GE Vernova | ok | 1236 | 0 |
 | iRobot | error | — | — |
 | Analog Devices | ok | 472 | 0 |
-| Thermo Fisher Scientific | ok | 1373 | 0 |
+| Thermo Fisher Scientific | ok | 1372 | 0 |
 | Draper | error | — | — |
 | MIT Lincoln Laboratory | ok | 185 | 5 |
 | CVS Health | error | — | — |
@@ -308,7 +308,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | The Hartford | ok | 115 | 4 |
 | BAE Systems | error | — | — |
 | IDEXX | ok | 62 | 0 |
-| WEX | ok | 57 | 0 |
+| WEX | ok | 56 | 0 |
 | Tyler Technologies | error | — | — |
 | GlobalFoundries | ok | 329 | 12 |
 | Wellington Management | ok | 33 | 0 |
