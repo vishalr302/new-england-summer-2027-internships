@@ -1,6 +1,35 @@
 [
   {
     "company": "RTX",
+    "title": "Semiconductor Foundry Intern (Summer 2027)",
+    "location": "US-MA-ANDOVER-AR2 ~ 362 Lowell St ~ AR2 PLYMOUTH BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Foundry-Intern--Summer-2027-_01875840",
+    "date_posted": "2026-09-21",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T22:03:28.230929+00:00",
+    "last_seen": "2026-09-21",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
     "title": "DO Process Engineering Internship - Summer 2027 (Onsite)",
     "location": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/DO-Process-Engineering-Internship---Summer-2027--Onsite-_01872686",
@@ -27,6 +56,67 @@
     "last_seen": "2026-09-21",
     "missing_runs": 0,
     "active": true
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Software and Electronics Engineering Intern (Summer 2027) - Group 76",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Software-and-Electronics-Engineering-Intern-%28Summer-2027%29-Group-76-MA-02420/1431440000",
+    "date_posted": null,
+    "source": "generic",
+    "source_name": "MIT Lincoln Laboratory Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:mit-lincoln-laboratory",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "MIT Lincoln Laboratory Careers"
+    ],
+    "source_ids": [
+      "company:mit-lincoln-laboratory"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T22:03:28.230929+00:00",
+    "last_seen": "2026-09-21",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Fidelity Investments",
+    "title": "Undergraduate Internship - Software",
+    "location": "Boston, MA; Westlake, TX; Durham, NC",
+    "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T22:03:28.230929+00:00",
+    "last_seen": "2026-09-21",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
   },
   {
     "company": "RTX",
@@ -129,7 +219,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "2d",
+    "age": "3d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -300,7 +390,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T16:33:12.492970+00:00",
     "last_seen": "2026-09-21",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -545,7 +635,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T11:52:43.542737+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 16,
+    "missing_runs": 17,
     "active": false
   },
   {
@@ -875,7 +965,7 @@
     "title": "Aero Thermal Fluid Intern (Summer 2027)(Onsite)",
     "location": "US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Aero-Thermal-Fluid-Intern--Summer-2027--Onsite-_01874878",
-    "date_posted": "2026-09-16",
+    "date_posted": "2026-09-21",
     "source": "workday",
     "source_name": "RTX Careers",
     "is_simplify": false,
@@ -898,9 +988,9 @@
     "in_simplify": false,
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T21:25:52.810195+00:00",
-    "last_seen": "2026-09-18",
-    "missing_runs": 10,
-    "active": false
+    "last_seen": "2026-09-21",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "RTX",
@@ -939,7 +1029,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "4d",
+    "age": "5d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -1095,7 +1185,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -1145,7 +1235,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 14,
+    "missing_runs": 15,
     "active": false
   },
   {
@@ -1234,7 +1324,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 14,
+    "missing_runs": 15,
     "active": false
   },
   {
@@ -1263,7 +1353,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 10,
+    "missing_runs": 11,
     "active": false
   },
   {
@@ -1271,7 +1361,7 @@
     "title": "Materials & Processes and Mechanical Disciplines Engineering Intern (Summer 2027) (Onsite)",
     "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials---Processes-and-Mechanical-Disciplines-Engineering-Intern--Summer-2027---Onsite-_01871669",
-    "date_posted": "2026-09-14",
+    "date_posted": "2026-09-21",
     "source": "workday",
     "source_name": "RTX Careers",
     "is_simplify": false,
@@ -1291,9 +1381,9 @@
     "in_simplify": false,
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
-    "last_seen": "2026-09-18",
-    "missing_runs": 10,
-    "active": false
+    "last_seen": "2026-09-21",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "RTX",
@@ -1321,7 +1411,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T05:08:51.342152+00:00",
     "last_seen": "2026-09-16",
-    "missing_runs": 18,
+    "missing_runs": 19,
     "active": false
   },
   {
@@ -1351,7 +1441,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 22,
+    "missing_runs": 23,
     "active": false,
     "date_posted": null
   },
@@ -1383,7 +1473,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-16",
-    "missing_runs": 20,
+    "missing_runs": 21,
     "active": false,
     "date_posted": null
   },
@@ -1395,7 +1485,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "General Technology",
@@ -1456,7 +1546,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "high",
     "category": "Hardware / Engineering",
@@ -1487,7 +1577,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1518,7 +1608,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1549,7 +1639,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1580,7 +1670,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -1612,7 +1702,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -1643,7 +1733,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -1694,7 +1784,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 25,
+    "missing_runs": 26,
     "active": false,
     "date_posted": null
   },
@@ -1706,7 +1796,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "6d",
+    "age": "7d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -2081,7 +2171,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 29,
+    "missing_runs": 30,
     "active": false
   },
   {
@@ -2108,7 +2198,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 29,
+    "missing_runs": 30,
     "active": false
   },
   {
@@ -2135,7 +2225,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 29,
+    "missing_runs": 30,
     "active": false
   },
   {
@@ -2226,7 +2316,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 20,
+    "missing_runs": 21,
     "active": false
   },
   {
@@ -2359,7 +2449,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false,
     "date_posted": "2026-09-04"
   },
@@ -2389,7 +2479,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 14,
+    "missing_runs": 15,
     "active": false
   },
   {
@@ -2575,7 +2665,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 27,
+    "missing_runs": 28,
     "active": false
   },
   {
@@ -2602,7 +2692,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 27,
+    "missing_runs": 28,
     "active": false
   },
   {
@@ -2631,7 +2721,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 10,
+    "missing_runs": 11,
     "active": false
   },
   {
@@ -2687,7 +2777,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 27,
+    "missing_runs": 28,
     "active": false
   },
   {
@@ -2743,7 +2833,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 27,
+    "missing_runs": 28,
     "active": false
   },
   {
@@ -2834,7 +2924,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-14",
-    "missing_runs": 25,
+    "missing_runs": 26,
     "active": false
   },
   {
@@ -2861,7 +2951,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 27,
+    "missing_runs": 28,
     "active": false
   },
   {
@@ -2921,7 +3011,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 27,
+    "missing_runs": 28,
     "active": false
   },
   {
@@ -3075,7 +3165,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 29,
+    "missing_runs": 30,
     "active": false,
     "date_posted": null
   },
@@ -3389,7 +3479,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false
   },
   {
@@ -4043,7 +4133,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 31,
+    "missing_runs": 32,
     "active": false,
     "date_posted": null
   },
@@ -4071,7 +4161,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 29,
+    "missing_runs": 30,
     "active": false
   },
   {
@@ -4098,7 +4188,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 29,
+    "missing_runs": 30,
     "active": false
   },
   {
@@ -4201,7 +4291,7 @@
     "source": "greenhouse",
     "source_name": "Klaviyo Careers",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
@@ -4563,7 +4653,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "27d",
+    "age": "28d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Scientific Computing / Research",
@@ -5160,7 +5250,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -5192,7 +5282,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -5223,7 +5313,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -5254,7 +5344,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -5285,7 +5375,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -5319,7 +5409,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -5350,7 +5440,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -5400,7 +5490,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false
   },
   {
@@ -5875,7 +5965,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false
   },
   {
@@ -5936,7 +6026,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 29,
+    "missing_runs": 30,
     "active": false,
     "date_posted": null
   },
@@ -5977,7 +6067,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "27d",
+    "age": "28d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -6009,7 +6099,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "27d",
+    "age": "28d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -6166,7 +6256,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6197,7 +6287,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "27d",
+    "age": "28d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6499,7 +6589,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false,
     "date_posted": null
   },
@@ -6543,7 +6633,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "26d",
+    "age": "27d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Scientific Computing / Research",
@@ -6947,7 +7037,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "19d",
+    "age": "20d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -6979,7 +7069,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "19d",
+    "age": "20d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
