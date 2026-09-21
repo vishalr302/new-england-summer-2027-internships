@@ -1,6 +1,35 @@
 [
   {
     "company": "RTX",
+    "title": "DO Process Engineering Internship - Summer 2027 (Onsite)",
+    "location": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/DO-Process-Engineering-Internship---Summer-2027--Onsite-_01872686",
+    "date_posted": "2026-09-21",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-21",
+    "first_seen_at": "2026-09-21T13:01:06.963197+00:00",
+    "last_seen": "2026-09-21",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
     "title": "Software Engineer Intern",
     "location": "Cambridge, MA",
     "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
@@ -516,7 +545,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T11:52:43.542737+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 15,
+    "missing_runs": 16,
     "active": false
   },
   {
@@ -870,7 +899,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T21:25:52.810195+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 9,
+    "missing_runs": 10,
     "active": false
   },
   {
@@ -974,7 +1003,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "General Technology",
@@ -1116,7 +1145,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false
   },
   {
@@ -1205,7 +1234,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false
   },
   {
@@ -1234,7 +1263,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 9,
+    "missing_runs": 10,
     "active": false
   },
   {
@@ -1263,7 +1292,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 9,
+    "missing_runs": 10,
     "active": false
   },
   {
@@ -1292,7 +1321,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T05:08:51.342152+00:00",
     "last_seen": "2026-09-16",
-    "missing_runs": 17,
+    "missing_runs": 18,
     "active": false
   },
   {
@@ -1322,7 +1351,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 21,
+    "missing_runs": 22,
     "active": false,
     "date_posted": null
   },
@@ -1354,7 +1383,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-16",
-    "missing_runs": 19,
+    "missing_runs": 20,
     "active": false,
     "date_posted": null
   },
@@ -1665,7 +1694,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 24,
+    "missing_runs": 25,
     "active": false,
     "date_posted": null
   },
@@ -2052,7 +2081,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false
   },
   {
@@ -2079,7 +2108,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false
   },
   {
@@ -2106,7 +2135,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false
   },
   {
@@ -2276,7 +2305,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "19d",
+    "age": "20d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2330,7 +2359,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false,
     "date_posted": "2026-09-04"
   },
@@ -2360,7 +2389,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false
   },
   {
@@ -2546,7 +2575,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 26,
+    "missing_runs": 27,
     "active": false
   },
   {
@@ -2573,7 +2602,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 26,
+    "missing_runs": 27,
     "active": false
   },
   {
@@ -2602,7 +2631,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 9,
+    "missing_runs": 10,
     "active": false
   },
   {
@@ -2658,7 +2687,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 26,
+    "missing_runs": 27,
     "active": false
   },
   {
@@ -2714,7 +2743,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 26,
+    "missing_runs": 27,
     "active": false
   },
   {
@@ -2805,7 +2834,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-14",
-    "missing_runs": 24,
+    "missing_runs": 25,
     "active": false
   },
   {
@@ -2832,7 +2861,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 26,
+    "missing_runs": 27,
     "active": false
   },
   {
@@ -2892,7 +2921,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 26,
+    "missing_runs": 27,
     "active": false
   },
   {
@@ -3046,7 +3075,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false,
     "date_posted": null
   },
@@ -3360,7 +3389,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false
   },
   {
@@ -4014,7 +4043,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 30,
+    "missing_runs": 31,
     "active": false,
     "date_posted": null
   },
@@ -4042,7 +4071,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false
   },
   {
@@ -4069,7 +4098,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false
   },
   {
@@ -5371,7 +5400,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 7,
+    "missing_runs": 8,
     "active": false
   },
   {
@@ -5846,7 +5875,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 27,
+    "missing_runs": 28,
     "active": false
   },
   {
@@ -5907,7 +5936,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false,
     "date_posted": null
   },
@@ -6470,7 +6499,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false,
     "date_posted": null
   },
@@ -6545,7 +6574,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -6577,7 +6606,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6608,7 +6637,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6639,7 +6668,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "AI / Machine Learning",
@@ -6670,7 +6699,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "AI / Machine Learning",
@@ -6701,7 +6730,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6732,7 +6761,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6763,7 +6792,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6794,7 +6823,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6825,7 +6854,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6856,7 +6885,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -6887,7 +6916,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -6982,7 +7011,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "26d",
+    "age": "27d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",

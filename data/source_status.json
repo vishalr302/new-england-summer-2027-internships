@@ -4,9 +4,9 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 1948,
-    "regional": 143,
-    "internships": 143,
+    "checked": 1926,
+    "regional": 144,
+    "internships": 144,
     "matching": 133
   },
   {
@@ -71,7 +71,7 @@
     "name": "WHOOP",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 153,
+    "checked": 152,
     "regional": 146,
     "internships": 0,
     "matching": 0
@@ -108,7 +108,7 @@
     "name": "Biogen",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 215,
+    "checked": 216,
     "regional": 85,
     "internships": 1,
     "matching": 1
@@ -187,10 +187,10 @@
     "name": "RTX",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 267,
-    "regional": 29,
-    "internships": 27,
-    "matching": 16
+    "checked": 264,
+    "regional": 31,
+    "internships": 29,
+    "matching": 17
   },
   {
     "source_id": "company:raytheon",
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 1225,
+    "checked": 1241,
     "regional": 10,
     "internships": 0,
     "matching": 0
@@ -221,7 +221,7 @@
     "name": "Analog Devices",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 472,
+    "checked": 473,
     "regional": 121,
     "internships": 17,
     "matching": 0
@@ -230,11 +230,8 @@
     "source_id": "company:thermo-fisher-scientific",
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-21",
-    "status": "ok",
-    "checked": 1358,
-    "regional": 55,
-    "internships": 7,
-    "matching": 0
+    "status": "error",
+    "error": "KeyError: 'externalPath'"
   },
   {
     "source_id": "company:draper",
@@ -248,8 +245,8 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 191,
-    "regional": 188,
+    "checked": 196,
+    "regional": 193,
     "internships": 10,
     "matching": 5
   },
@@ -327,7 +324,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 312,
+    "checked": 311,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -344,7 +341,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 115,
+    "checked": 113,
     "regional": 20,
     "internships": 8,
     "matching": 4
@@ -361,8 +358,8 @@
     "name": "IDEXX",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 63,
-    "regional": 12,
+    "checked": 62,
+    "regional": 11,
     "internships": 0,
     "matching": 0
   },
@@ -371,7 +368,7 @@
     "name": "WEX",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 56,
+    "checked": 57,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -388,7 +385,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 325,
+    "checked": 326,
     "regional": 19,
     "internships": 12,
     "matching": 12
@@ -468,7 +465,7 @@
     "name": "MKS Instruments",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 7,
+    "checked": 3,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -578,7 +575,7 @@
     "name": "CACI",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 55,
+    "checked": 56,
     "regional": 6,
     "internships": 6,
     "matching": 4
@@ -608,8 +605,8 @@
     "name": "Anduril",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 2373,
-    "regional": 222,
+    "checked": 2375,
+    "regional": 224,
     "internships": 10,
     "matching": 4
   },
@@ -688,7 +685,7 @@
     "name": "Formlabs",
     "checked_at": "2026-09-21",
     "status": "ok",
-    "checked": 212,
+    "checked": 216,
     "regional": 122,
     "internships": 15,
     "matching": 0
