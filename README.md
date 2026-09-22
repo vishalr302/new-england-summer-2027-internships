@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-22 (UTC)** · Scheduled every six hours
 
-**Active internships: 209** · **Added in last 24 hours: 13** · **Direct company finds: 76**
+**Active internships: 208** · **Added in last 24 hours: 13** · **Direct company finds: 75**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **86 of 209 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **86 of 208 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -105,7 +105,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Fidelity Investments | 🆕 ◇ [Undergraduate Internship - Software](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524) | Boston, MA | SimplifyJobs | Unknown | 2026-09-21 |
 | RTX | ◇ [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017) | Cambridge, MA | SimplifyJobs | Unknown | 2026-09-20 |
 | RTX | [Software Project Engineer Intern (Summer 2027) Onsite](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660) | US-CT-WINDSOR LOCKS-B1 | 🔎 Direct find | 2026-09-19 · 3 days ago | 2026-09-19 |
-| MIT Lincoln Laboratory | [Summer Research Program Intern 2027, Software and Electronics Engineering (Group 07-76)](https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Software-and-Electronics-Engineering-%28Group-07-76%29-MA-02420/1431440000) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-18 |
 | Marvell | [SRAM Software Engineer Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1) | Burlington, VT | 🔎 Direct find | 2026-09-17 · 5 days ago | 2026-09-17 |
 | RTX | [Software Development Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413) | US-MA-TEWKSBURY-TB3 | RTX Careers, SimplifyJobs | 2026-09-17 · 5 days ago | 2026-09-17 |
 | RTX | ◇ [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743) | Marlborough, MA | SimplifyJobs | Unknown | 2026-09-16 |
@@ -281,13 +280,13 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 2041 | 144 |
+| SimplifyJobs | ok | 2009 | 142 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
-| HubSpot | ok | 139 | 0 |
+| HubSpot | ok | 134 | 0 |
 | Wayfair | error | — | — |
 | DraftKings | ok | 7 | 7 |
 | Klaviyo | ok | 11 | 1 |
-| Toast | ok | 319 | 0 |
+| Toast | ok | 322 | 0 |
 | WHOOP | ok | 152 | 0 |
 | Rapid7 | ok | 23 | 0 |
 | DEKA | error | — | — |
@@ -296,7 +295,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Akamai | error | — | — |
 | Boston Dynamics | ok | 77 | 0 |
 | MathWorks | error | — | — |
-| Moderna | ok | 119 | 0 |
+| Moderna | ok | 118 | 0 |
 | Vertex Pharmaceuticals | error | — | — |
 | Fidelity Investments | error | — | — |
 | Liberty Mutual | error | — | — |
@@ -304,32 +303,32 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Bose | error | — | — |
 | RTX | ok | 281 | 19 |
 | Raytheon | disabled | — | — |
-| GE Vernova | error | — | — |
+| GE Vernova | ok | 1255 | 0 |
 | iRobot | error | — | — |
-| Analog Devices | ok | 476 | 0 |
-| Thermo Fisher Scientific | ok | 1364 | 0 |
+| Analog Devices | error | — | — |
+| Thermo Fisher Scientific | ok | 1372 | 0 |
 | Draper | error | — | — |
-| MIT Lincoln Laboratory | ok | 198 | 5 |
+| MIT Lincoln Laboratory | ok | 197 | 5 |
 | CVS Health | error | — | — |
 | Citizens | error | — | — |
 | FM | error | — | — |
-| Hasbro | ok | 133 | 0 |
+| Hasbro | ok | 132 | 0 |
 | Textron | error | — | — |
 | Amica | error | — | — |
 | Pratt &amp; Whitney | disabled | — | — |
-| Travelers | ok | 228 | 2 |
+| Travelers | ok | 230 | 2 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 306 | 0 |
+| Stanley Black &amp; Decker | ok | 307 | 0 |
 | Sikorsky | error | — | — |
 | The Hartford | ok | 114 | 4 |
 | BAE Systems | error | — | — |
 | IDEXX | ok | 62 | 0 |
-| WEX | ok | 57 | 0 |
+| WEX | ok | 58 | 0 |
 | Tyler Technologies | error | — | — |
-| GlobalFoundries | ok | 327 | 12 |
+| GlobalFoundries | ok | 325 | 12 |
 | Wellington Management | ok | 36 | 0 |
 | Trimble | ok | 15 | 0 |
-| TJX | ok | 35 | 0 |
+| TJX | ok | 33 | 0 |
 | S&amp;P Global | ok | 8 | 2 |
 | Merck | ok | 236 | 7 |
 | Marvell | ok | 26 | 11 |
@@ -343,7 +342,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | GE Aerospace | ok | 53 | 0 |
 | Cox | ok | 28 | 2 |
 | Cigna Group | ok | 26 | 2 |
-| Castleton Commodities International | ok | 3 | 1 |
+| Castleton Commodities International | ok | 1 | 1 |
 | Capital One | ok | 23 | 2 |
 | CACI | ok | 56 | 4 |
 | Axon | ok | 6 | 1 |

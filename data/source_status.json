@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 2041,
-    "regional": 157,
-    "internships": 157,
-    "matching": 144
+    "checked": 2009,
+    "regional": 155,
+    "internships": 155,
+    "matching": 142
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -24,7 +24,7 @@
     "name": "HubSpot",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 139,
+    "checked": 134,
     "regional": 3,
     "internships": 0,
     "matching": 0
@@ -61,7 +61,7 @@
     "name": "Toast",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 319,
+    "checked": 322,
     "regional": 20,
     "internships": 0,
     "matching": 0
@@ -142,7 +142,7 @@
     "name": "Moderna",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 119,
+    "checked": 118,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -203,8 +203,11 @@
     "source_id": "company:ge-vernova",
     "name": "GE Vernova",
     "checked_at": "2026-09-22",
-    "status": "error",
-    "error": "KeyError: 'title'"
+    "status": "ok",
+    "checked": 1255,
+    "regional": 10,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:irobot",
@@ -217,18 +220,15 @@
     "source_id": "company:analog-devices",
     "name": "Analog Devices",
     "checked_at": "2026-09-22",
-    "status": "ok",
-    "checked": 476,
-    "regional": 123,
-    "internships": 17,
-    "matching": 0
+    "status": "error",
+    "error": "KeyError: 'externalPath'"
   },
   {
     "source_id": "company:thermo-fisher-scientific",
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 1364,
+    "checked": 1372,
     "regional": 57,
     "internships": 7,
     "matching": 0
@@ -245,8 +245,8 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 198,
-    "regional": 195,
+    "checked": 197,
+    "regional": 194,
     "internships": 10,
     "matching": 5
   },
@@ -276,7 +276,7 @@
     "name": "Hasbro",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 133,
+    "checked": 132,
     "regional": 29,
     "internships": 0,
     "matching": 0
@@ -307,8 +307,8 @@
     "name": "Travelers",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 228,
-    "regional": 29,
+    "checked": 230,
+    "regional": 28,
     "internships": 9,
     "matching": 2
   },
@@ -324,7 +324,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 306,
+    "checked": 307,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -368,7 +368,7 @@
     "name": "WEX",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 57,
+    "checked": 58,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -378,14 +378,14 @@
     "name": "Tyler Technologies",
     "checked_at": "2026-09-22",
     "status": "error",
-    "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
+    "error": "ReadTimeout: HTTPSConnectionPool(host='www.tylertech.com', port=443): Read timed out. (read timeout=30)"
   },
   {
     "source_id": "company:globalfoundries",
     "name": "GlobalFoundries",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 327,
+    "checked": 325,
     "regional": 19,
     "internships": 12,
     "matching": 12
@@ -415,7 +415,7 @@
     "name": "TJX",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 35,
+    "checked": 33,
     "regional": 9,
     "internships": 8,
     "matching": 0
@@ -555,7 +555,7 @@
     "name": "Castleton Commodities International",
     "checked_at": "2026-09-22",
     "status": "ok",
-    "checked": 3,
+    "checked": 1,
     "regional": 1,
     "internships": 1,
     "matching": 1
