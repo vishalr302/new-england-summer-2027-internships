@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-23 (UTC)** · Scheduled every six hours
 
-**Active internships: 216** · **Added in last 24 hours: 19** · **Direct company finds: 79**
+**Active internships: 214** · **Added in last 24 hours: 10** · **Direct company finds: 76**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **92 of 216 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **90 of 214 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -23,12 +23,10 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
 | AQR Capital Management | 🆕 ◇ [Machine Learning Research Associate Intern 🎓](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | Greenwich, CT | SimplifyJobs | Unknown | 2026-09-23 |
-| Philips | 🆕 ◇ [AI Engineer Intern - Enterprise AI &amp; Workflow Automation](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---AI-Engineer--Enterprise-AI---Workflow-Automation---Plymouth--MN---Summer-2027_591991) | Bedford, MA | SimplifyJobs | Unknown | 2026-09-22 |
-| Marvell | [SRAM Circuit Design Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1) | Burlington, VT | 🔎 Direct find | 2026-09-17 · 6 days ago | 2026-09-17 |
+| Philips | ◇ [AI Engineer Intern - Enterprise AI &amp; Workflow Automation](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---AI-Engineer--Enterprise-AI---Workflow-Automation---Plymouth--MN---Summer-2027_591991) | Bedford, MA | SimplifyJobs | Unknown | 2026-09-22 |
 | Insulet | [Intern, Internal Audit &amp; Enterprise Risk Management: June - August 2027 (Hybrid)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Intern--Internal-Audit---Enterprise-Risk-Management--June---August-2027--Hybrid-_REQ-2026-17994) | Acton, Massachusetts | 🔎 Direct find | 2026-09-17 · 6 days ago | 2026-09-17 |
 | Cyvl | [Data Operations Intern (Summer 2027)](https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d) | Boston, Massachusetts; Somerville, Massachusetts | 🔎 Direct find | 2026-09-16 · 7 days ago | 2026-09-17 |
 | Merck | [2027 Future Talent Program – Modeling &amp; Informatics - Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Modeling---Informatics---Intern_R416278) | USA - Massachusetts - Boston (MA Parcel B Laboratory) | 🔎 Direct find | 2026-09-09 · 14 days ago | 2026-09-13 |
-| Merck | [2027 Future Talent Program - Discovery Biologics - Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Discovery-Biologics---Intern_R412152) | USA - Massachusetts - Boston (MA Parcel B Laboratory); USA - Massachusetts - Cambridge (320 Bent Street) | 🔎 Direct find | 2026-09-08 · 15 days ago | 2026-09-13 |
 | Manulife Financial | [Summer Intern 2027 - Operations Analyst](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Operations-Analyst_JR26081571) | Boston, Massachusetts | 🔎 Direct find | 2026-08-28 · 26 days ago | 2026-09-13 |
 | Cigna Group | [Actuarial Internship - Summer 2027](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Actuarial-Internship---Summer-2027_26006087) | Bloomfield, CT | 🔎 Direct find | 2026-08-05 · 49 days ago | 2026-09-13 |
 | Axon | ◇ [Render ATL - Leadership Development Internship 2027](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7798168003) | Boston, Massachusetts, United States | 🔎 Direct find | Unknown | 2026-09-13 |
@@ -67,13 +65,13 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | --- | --- | --- | --- | --- | --- |
 | Klaviyo | 🆕 ◇ [People Analytics Co-op](https://job-boards.greenhouse.io/klaviyocampus/jobs/8002711003) | Boston, MA | SimplifyJobs | Unknown | 2026-09-23 |
 | American Family Insurance Group | 🆕 ◇ [Customer Analytics Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Customer-Analytics-Intern_R39476) | Boston, MA | SimplifyJobs | Unknown | 2026-09-23 |
-| Watts Water | 🆕 [B2C E-Commerce Analytics &amp; Website Intern - Summer 2027](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536) | North Andover, MA | SimplifyJobs | Unknown | 2026-09-22 |
-| Fidelity Investments | 🆕 ◇ [Quantitative Research Intern - Strategic Advisers 🎓](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
-| Fidelity Investments | 🆕 ◇ [Quantitative Research Intern - Multi-Asset Systematic Research Team 🎓](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
-| Fidelity Investments | 🆕 ◇ [Quantitative Research Intern - Multi-Asset Research Team](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
-| Fidelity Investments | 🆕 ◇ [Quantitative Research Intern](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
-| Fidelity Investments | 🆕 ◇ [Quantitative Research Analyst Intern - Equity Quantitative Research Team 🎓](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
-| Fidelity Investments | 🆕 ◇ [Quantitative Analyst Intern - Fixed Income Team 🎓](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109) | Boston, MA; Merrimack, NH | SimplifyJobs | Unknown | 2026-09-22 |
+| Watts Water | [B2C E-Commerce Analytics &amp; Website Intern - Summer 2027](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536) | North Andover, MA | SimplifyJobs | Unknown | 2026-09-22 |
+| Fidelity Investments | ◇ [Quantitative Research Intern - Strategic Advisers 🎓](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
+| Fidelity Investments | ◇ [Quantitative Research Intern - Multi-Asset Systematic Research Team 🎓](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
+| Fidelity Investments | ◇ [Quantitative Research Intern - Multi-Asset Research Team](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
+| Fidelity Investments | ◇ [Quantitative Research Intern](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
+| Fidelity Investments | ◇ [Quantitative Research Analyst Intern - Equity Quantitative Research Team 🎓](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122) | Boston, MA | SimplifyJobs | Unknown | 2026-09-22 |
+| Fidelity Investments | ◇ [Quantitative Analyst Intern - Fixed Income Team 🎓](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109) | Boston, MA; Merrimack, NH | SimplifyJobs | Unknown | 2026-09-22 |
 | Watts Water | ◇ [Product Marketing Data Analyst Intern](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538) | North Andover, MA | SimplifyJobs | Unknown | 2026-09-18 |
 | Merck | ◇ [2027 Future Talent Program – Pharmaceutical Analysis and Digital Technology (PADT) and Large Molecule Analytical (LMA) - Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Pharmaceutical-Analysis-and-Digital-Technology--PADT--and-Large-Molecule-Analytical--LMA----Intern_R418632) | USA - Massachusetts - Boston (MA Parcel B Laboratory) | 🔎 Direct find | 2026-09-17 · 6 days ago | 2026-09-14 |
 | Walleye Capital | [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Boston, MA | 🔎 Direct find | Unknown | 2026-09-13 |
@@ -103,10 +101,10 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
-| RTX | 🆕 [Summer 2027 Software Engineering Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645) | US-CT-EAST HARTFORD-G | 🔎 Direct find | 2026-09-22 · 1 day ago | 2026-09-23 |
+| RTX | 🆕 [Summer 2027 Software Engineering Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645) | US-CT-EAST HARTFORD-G | RTX Careers, SimplifyJobs | 2026-09-22 · 1 day ago | 2026-09-23 |
 | RTX | 🆕 [Repair Structures Intern (Summer 2027) (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Repair-Structures-Intern--Summer-2027---Onsite-_01876147) | US-CT-EAST HARTFORD-ETC | 🔎 Direct find | 2026-09-22 · 1 day ago | 2026-09-22 |
 | RTX | 🆕 [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065) | US-RI-PORTSMOUTH-PS1 | RTX Careers, SimplifyJobs | 2026-09-22 · 1 day ago | 2026-09-22 |
-| Tyler Technologies | 🆕 [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?fr=false&nl=1&nl=1) | Yarmouth, ME; Orono, ME; Falmouth, ME | SimplifyJobs | Unknown | 2026-09-22 |
+| Tyler Technologies | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?fr=false&nl=1&nl=1) | Yarmouth, ME; Orono, ME; Falmouth, ME | SimplifyJobs | Unknown | 2026-09-22 |
 | MIT Lincoln Laboratory | [Software and Electronics Engineering Intern (Summer 2027) - Group 76](https://careers.ll.mit.edu/job/Lexington-Software-and-Electronics-Engineering-Intern-%28Summer-2027%29-Group-76-MA-02420/1431440000) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-21 |
 | Fidelity Investments | ◇ [Undergraduate Internship - Software](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524) | Boston, MA | SimplifyJobs | Unknown | 2026-09-21 |
 | RTX | ◇ [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017) | Cambridge, MA | SimplifyJobs | Unknown | 2026-09-20 |
@@ -281,25 +279,25 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 ## Source health
 
-63 sources completed · 20 coverage gaps · 3 disabled entries
+62 sources completed · 21 coverage gaps · 3 disabled entries
 
 <details>
 <summary>View all monitored sources</summary>
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 2070 | 146 |
+| SimplifyJobs | ok | 2037 | 144 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
-| HubSpot | ok | 137 | 0 |
+| HubSpot | ok | 136 | 0 |
 | Wayfair | error | — | — |
 | DraftKings | ok | 7 | 7 |
 | Klaviyo | ok | 14 | 1 |
 | Toast | ok | 325 | 0 |
 | WHOOP | ok | 156 | 0 |
-| Rapid7 | ok | 23 | 0 |
+| Rapid7 | ok | 24 | 0 |
 | DEKA | error | — | — |
 | Beta Technologies | ok | 0 | 0 |
-| Biogen | ok | 215 | 1 |
+| Biogen | ok | 212 | 1 |
 | Akamai | error | — | — |
 | Boston Dynamics | ok | 77 | 0 |
 | MathWorks | error | — | — |
@@ -309,39 +307,39 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Liberty Mutual | error | — | — |
 | State Street | error | — | — |
 | Bose | error | — | — |
-| RTX | ok | 298 | 23 |
+| RTX | ok | 293 | 23 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1275 | 0 |
+| GE Vernova | ok | 1280 | 0 |
 | iRobot | error | — | — |
 | Analog Devices | ok | 480 | 0 |
-| Thermo Fisher Scientific | ok | 1371 | 0 |
+| Thermo Fisher Scientific | error | — | — |
 | Draper | error | — | — |
 | MIT Lincoln Laboratory | ok | 198 | 5 |
 | CVS Health | error | — | — |
 | Citizens | error | — | — |
 | FM | error | — | — |
-| Hasbro | ok | 133 | 0 |
+| Hasbro | ok | 131 | 0 |
 | Textron | error | — | — |
 | Amica | error | — | — |
 | Pratt &amp; Whitney | disabled | — | — |
 | Travelers | ok | 233 | 2 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 302 | 0 |
+| Stanley Black &amp; Decker | ok | 303 | 0 |
 | Sikorsky | error | — | — |
 | The Hartford | ok | 113 | 4 |
 | BAE Systems | error | — | — |
-| IDEXX | ok | 62 | 0 |
-| WEX | ok | 62 | 0 |
+| IDEXX | ok | 63 | 0 |
+| WEX | ok | 63 | 0 |
 | Tyler Technologies | error | — | — |
-| GlobalFoundries | ok | 327 | 12 |
+| GlobalFoundries | ok | 326 | 12 |
 | Wellington Management | ok | 38 | 0 |
 | Trimble | ok | 15 | 0 |
 | TJX | ok | 35 | 0 |
-| S&amp;P Global | ok | 8 | 2 |
+| S&amp;P Global | ok | 10 | 2 |
 | Merck | ok | 235 | 6 |
 | Marvell | ok | 26 | 10 |
 | Manulife Financial | ok | 99 | 5 |
-| MKS Instruments | ok | 7 | 0 |
+| MKS Instruments | ok | 4 | 0 |
 | Lexington Medical | ok | 19 | 2 |
 | Kensho | ok | 2 | 2 |
 | Insulet | ok | 25 | 1 |
@@ -355,7 +353,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | CACI | ok | 59 | 4 |
 | Axon | ok | 6 | 1 |
 | Arch Capital Group | ok | 15 | 0 |
-| Anduril | ok | 2349 | 4 |
+| Anduril | ok | 2348 | 4 |
 | Ameriprise Financial | ok | 22 | 1 |
 | Adobe | ok | 10 | 1 |
 | Walleye Capital | ok | 5 | 2 |
