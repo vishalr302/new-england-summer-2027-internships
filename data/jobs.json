@@ -1,15 +1,15 @@
 [
   {
     "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "East Hartford, CT",
+    "title": "Summer 2027 Software Engineering Intern (Onsite)",
+    "location": "US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645",
     "source": "workday",
     "source_name": "RTX Careers",
     "season": "summer-2027",
     "age": "1d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
@@ -26,12 +26,41 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-22",
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T04:53:55.281549+00:00",
     "last_seen": "2026-09-23",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": "2026-09-22"
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Mechanical Design Intern (Summer 2027) (Onsite)",
+    "location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Mechanical-Design-Intern--Summer-2027---Onsite-_01864899",
+    "date_posted": "2026-09-23",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-23",
+    "first_seen_at": "2026-09-23T21:35:56.467885+00:00",
+    "last_seen": "2026-09-23",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "RTX",
@@ -220,15 +249,15 @@
   },
   {
     "company": "RTX",
-    "title": "Software Engineer Intern",
-    "location": "Portsmouth, RI",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "US-RI-PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065",
     "source": "workday",
     "source_name": "RTX Careers",
     "season": "summer-2027",
     "age": "1d",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
@@ -245,12 +274,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": "2026-09-22",
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T17:03:59.888715+00:00",
     "last_seen": "2026-09-23",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": "2026-09-22"
+    "active": true
   },
   {
     "company": "RTX",
@@ -284,39 +313,6 @@
     "last_seen": "2026-09-23",
     "missing_runs": 0,
     "active": true
-  },
-  {
-    "company": "RTX",
-    "title": "Methods Engineering Intern - Aftermarket & Sustainment Engineering",
-    "location": "East Hartford, CT",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01874535",
-    "source": "workday",
-    "source_name": "RTX Careers",
-    "season": "summer-2027",
-    "age": "1d",
-    "is_simplify": true,
-    "season_confidence": "medium",
-    "category": "Hardware / Engineering",
-    "tags": [
-      "Hardware / Engineering"
-    ],
-    "source_id": "company:rtx",
-    "simplify_comparison": "matched",
-    "sources": [
-      "RTX Careers",
-      "SimplifyJobs"
-    ],
-    "source_ids": [
-      "company:rtx",
-      "github:SimplifyJobs"
-    ],
-    "in_simplify": true,
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T21:28:24.678147+00:00",
-    "last_seen": "2026-09-23",
-    "missing_runs": 0,
-    "active": true,
-    "date_posted": "2026-09-22"
   },
   {
     "company": "RTX",
@@ -370,6 +366,39 @@
       "company:rtx"
     ],
     "in_simplify": false,
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T21:28:24.678147+00:00",
+    "last_seen": "2026-09-23",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Aftermarket & Sustainment Engineering Methods Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01874535",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "season": "summer-2027",
+    "age": "1d",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "matched",
+    "sources": [
+      "RTX Careers",
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "company:rtx",
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "date_posted": "2026-09-22",
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T21:28:24.678147+00:00",
     "last_seen": "2026-09-23",
@@ -868,7 +897,7 @@
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T04:45:37.976463+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true
   },
   {
@@ -958,7 +987,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T04:53:58.899861+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false,
     "date_posted": null
   },
@@ -990,7 +1019,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T16:33:12.492970+00:00",
     "last_seen": "2026-09-21",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false
   },
   {
@@ -1140,7 +1169,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -1205,7 +1234,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": "2026-09-17"
   },
@@ -1235,7 +1264,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T11:52:43.542737+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 23,
+    "missing_runs": 24,
     "active": false
   },
   {
@@ -1300,7 +1329,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T21:30:18.667675+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false
   },
   {
@@ -1462,40 +1491,6 @@
   },
   {
     "company": "RTX",
-    "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
-    "location": "Marlborough, MA",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484",
-    "source": "workday",
-    "source_name": "RTX Careers",
-    "season": "summer-2027",
-    "age": "7d",
-    "is_simplify": true,
-    "season_confidence": "medium",
-    "category": "Software Engineering",
-    "tags": [
-      "Software Engineering",
-      "Hardware / Engineering"
-    ],
-    "source_id": "company:rtx",
-    "simplify_comparison": "matched",
-    "sources": [
-      "RTX Careers",
-      "SimplifyJobs"
-    ],
-    "source_ids": [
-      "company:rtx",
-      "github:SimplifyJobs"
-    ],
-    "in_simplify": true,
-    "first_seen": "2026-09-16",
-    "first_seen_at": "2026-09-16T17:08:02.592969+00:00",
-    "last_seen": "2026-09-23",
-    "missing_runs": 0,
-    "active": true,
-    "date_posted": "2026-09-16"
-  },
-  {
-    "company": "RTX",
     "title": "Software Engineer Intern",
     "location": "Marlborough, MA",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743",
@@ -1522,8 +1517,8 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T17:08:02.592969+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 2,
-    "active": true,
+    "missing_runs": 3,
+    "active": false,
     "date_posted": null
   },
   {
@@ -1556,9 +1551,43 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T11:49:07.698333+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": "2026-09-16"
+  },
+  {
+    "company": "RTX",
+    "title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027)",
+    "location": "US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "season": "summer-2027",
+    "age": "7d",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "matched",
+    "sources": [
+      "RTX Careers",
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "company:rtx",
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "date_posted": "2026-09-16",
+    "first_seen": "2026-09-16",
+    "first_seen_at": "2026-09-16T17:08:02.592969+00:00",
+    "last_seen": "2026-09-23",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "RTX",
@@ -1589,8 +1618,8 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T21:25:52.810195+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 2,
-    "active": true
+    "missing_runs": 3,
+    "active": false
   },
   {
     "company": "RTX",
@@ -1745,7 +1774,7 @@
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T17:08:25.780250+00:00",
     "last_seen": "2026-09-21",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false
   },
   {
@@ -1774,7 +1803,7 @@
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T17:08:25.780250+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false
   },
   {
@@ -1785,7 +1814,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -1835,7 +1864,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 21,
+    "missing_runs": 22,
     "active": false
   },
   {
@@ -1903,7 +1932,7 @@
     "title": "Project Engineering Intern (Summer 2027)(Onsite)",
     "location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Intern--Summer-2027--Onsite-_01872630",
-    "date_posted": "2026-09-14",
+    "date_posted": "2026-09-23",
     "source": "workday",
     "source_name": "RTX Careers",
     "is_simplify": false,
@@ -1923,16 +1952,16 @@
     "in_simplify": false,
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
-    "last_seen": "2026-09-17",
-    "missing_runs": 21,
-    "active": false
+    "last_seen": "2026-09-23",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "RTX",
     "title": "Mechanical Design Engineering Intern (Summer 2027)",
     "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Mechanical-Design-Engineering-Intern--Summer-2027-_01873000",
-    "date_posted": "2026-09-14",
+    "date_posted": "2026-09-23",
     "source": "workday",
     "source_name": "RTX Careers",
     "is_simplify": false,
@@ -1952,9 +1981,9 @@
     "in_simplify": false,
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
-    "last_seen": "2026-09-18",
-    "missing_runs": 17,
-    "active": false
+    "last_seen": "2026-09-23",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "RTX",
@@ -2041,7 +2070,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 30,
+    "missing_runs": 31,
     "active": false,
     "date_posted": null
   },
@@ -2053,7 +2082,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2085,7 +2114,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "General Technology",
@@ -2146,7 +2175,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "high",
     "category": "Hardware / Engineering",
@@ -2177,7 +2206,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -2208,7 +2237,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -2239,7 +2268,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -2270,7 +2299,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -2302,7 +2331,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -2333,7 +2362,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "8d",
+    "age": "9d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -2384,7 +2413,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 33,
+    "missing_runs": 34,
     "active": false,
     "date_posted": null
   },
@@ -2771,7 +2800,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 37,
+    "missing_runs": 38,
     "active": false
   },
   {
@@ -2798,7 +2827,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 37,
+    "missing_runs": 38,
     "active": false
   },
   {
@@ -2825,7 +2854,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 37,
+    "missing_runs": 38,
     "active": false
   },
   {
@@ -2916,7 +2945,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 25,
+    "missing_runs": 26,
     "active": false
   },
   {
@@ -3049,7 +3078,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 21,
+    "missing_runs": 22,
     "active": false,
     "date_posted": "2026-09-04"
   },
@@ -3079,7 +3108,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 22,
+    "missing_runs": 23,
     "active": false
   },
   {
@@ -3265,7 +3294,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 34,
+    "missing_runs": 35,
     "active": false
   },
   {
@@ -3292,7 +3321,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 34,
+    "missing_runs": 35,
     "active": false
   },
   {
@@ -3300,7 +3329,7 @@
     "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027)",
     "location": "US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437",
-    "date_posted": "2026-09-18",
+    "date_posted": "2026-09-23",
     "source": "workday",
     "source_name": "RTX Careers",
     "is_simplify": false,
@@ -3320,9 +3349,9 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
-    "last_seen": "2026-09-18",
-    "missing_runs": 17,
-    "active": false
+    "last_seen": "2026-09-23",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "RTX",
@@ -3350,7 +3379,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -3377,7 +3406,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 34,
+    "missing_runs": 35,
     "active": false
   },
   {
@@ -3433,7 +3462,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 34,
+    "missing_runs": 35,
     "active": false
   },
   {
@@ -3524,7 +3553,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-14",
-    "missing_runs": 32,
+    "missing_runs": 33,
     "active": false
   },
   {
@@ -3551,7 +3580,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 34,
+    "missing_runs": 35,
     "active": false
   },
   {
@@ -3611,7 +3640,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 34,
+    "missing_runs": 35,
     "active": false
   },
   {
@@ -3765,7 +3794,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 37,
+    "missing_runs": 38,
     "active": false,
     "date_posted": null
   },
@@ -3983,7 +4012,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false
   },
   {
@@ -4079,7 +4108,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 14,
+    "missing_runs": 15,
     "active": false
   },
   {
@@ -4733,7 +4762,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 39,
+    "missing_runs": 40,
     "active": false,
     "date_posted": null
   },
@@ -4761,7 +4790,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 37,
+    "missing_runs": 38,
     "active": false
   },
   {
@@ -4788,7 +4817,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 37,
+    "missing_runs": 38,
     "active": false
   },
   {
@@ -4854,18 +4883,18 @@
     "title": "Electrical/Embedded Software Engineer Intern",
     "location": "Bedford, MA",
     "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008",
-    "source": "greenhouse",
-    "source_name": "Lexington Medical Careers",
+    "source": "github",
+    "source_name": "SimplifyJobs",
     "season": "summer-2027",
     "age": "13d",
-    "is_simplify": false,
-    "season_confidence": "high",
+    "is_simplify": true,
+    "season_confidence": "medium",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "company:lexington-medical",
+    "source_id": "github:SimplifyJobs",
     "simplify_comparison": "matched",
     "sources": [
       "Lexington Medical Careers",
@@ -4876,12 +4905,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
-    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-23",
     "missing_runs": 0,
-    "active": true
+    "active": true,
+    "date_posted": null
   },
   {
     "company": "Klaviyo",
@@ -4891,7 +4920,7 @@
     "source": "greenhouse",
     "source_name": "Klaviyo Careers",
     "season": "summer-2027",
-    "age": "10d",
+    "age": "11d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
@@ -6090,7 +6119,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 16,
+    "missing_runs": 17,
     "active": false
   },
   {
@@ -6565,7 +6594,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 36,
+    "missing_runs": 37,
     "active": false
   },
   {
@@ -6626,7 +6655,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 37,
+    "missing_runs": 38,
     "active": false,
     "date_posted": null
   },
@@ -6887,7 +6916,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "29d",
+    "age": "30d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -7189,7 +7218,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 14,
+    "missing_runs": 15,
     "active": false,
     "date_posted": null
   },
@@ -7233,7 +7262,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "28d",
+    "age": "29d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Scientific Computing / Research",
