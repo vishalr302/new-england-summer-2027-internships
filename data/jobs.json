@@ -1,5 +1,38 @@
 [
   {
+    "company": "Secretariat",
+    "title": "Intern, Damages & Valuations (Summer 2027)",
+    "location": "Downtown Boston, MA",
+    "url": "https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009",
+    "date_posted": null,
+    "source": "greenhouse",
+    "source_name": "Secretariat Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "AI / Machine Learning",
+    "tags": [
+      "AI / Machine Learning",
+      "Statistics / Analytics",
+      "Scientific Computing / Research",
+      "Hardware / Engineering",
+      "General Technology"
+    ],
+    "source_id": "company:secretariat",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "Secretariat Careers"
+    ],
+    "source_ids": [
+      "company:secretariat"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-24",
+    "first_seen_at": "2026-09-24T17:20:45.413880+00:00",
+    "last_seen": "2026-09-24",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
     "company": "Axon",
     "title": "Software Engineer Intern",
     "location": "Boston, MA; Seattle, WA",
@@ -27,7 +60,7 @@
     "first_seen": "2026-09-24",
     "first_seen_at": "2026-09-24T05:03:15.450263+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -275,7 +308,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 1,
+    "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
@@ -880,7 +913,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "5d",
+    "age": "6d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -929,7 +962,7 @@
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T04:45:37.976463+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false
   },
   {
@@ -1019,7 +1052,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T04:53:58.899861+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false,
     "date_posted": null
   },
@@ -1051,7 +1084,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T16:33:12.492970+00:00",
     "last_seen": "2026-09-21",
-    "missing_runs": 11,
+    "missing_runs": 12,
     "active": false
   },
   {
@@ -1201,7 +1234,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 3,
+    "missing_runs": 4,
     "active": false
   },
   {
@@ -1361,7 +1394,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T21:30:18.667675+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 7,
+    "missing_runs": 8,
     "active": false
   },
   {
@@ -1583,7 +1616,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T17:08:02.592969+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false,
     "date_posted": null
   },
@@ -1690,7 +1723,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "7d",
+    "age": "8d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -1866,7 +1899,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 1,
+    "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
@@ -2102,7 +2135,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 33,
+    "missing_runs": 34,
     "active": false,
     "date_posted": null
   },
@@ -2445,7 +2478,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 36,
+    "missing_runs": 37,
     "active": false,
     "date_posted": null
   },
@@ -2457,7 +2490,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "9d",
+    "age": "10d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -2832,7 +2865,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 40,
+    "missing_runs": 41,
     "active": false
   },
   {
@@ -2859,7 +2892,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 40,
+    "missing_runs": 41,
     "active": false
   },
   {
@@ -2886,7 +2919,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 40,
+    "missing_runs": 41,
     "active": false
   },
   {
@@ -2982,22 +3015,21 @@
   },
   {
     "company": "The Hartford",
-    "title": "Software Engineer Intern - Tech & Data Program",
+    "title": "Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford)",
     "location": "Hartford, CT",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
-    "season": "summer-2027",
-    "age": "1mo",
-    "is_simplify": true,
-    "season_confidence": "medium",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
+    "date_posted": "2026-09-24",
+    "source": "workday",
+    "source_name": "The Hartford Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
-    "simplify_comparison": "matched",
+    "source_id": "company:the-hartford",
+    "simplify_comparison": "no_exact_match",
     "sources": [
       "SimplifyJobs",
       "The Hartford Careers"
@@ -3006,34 +3038,30 @@
       "company:the-hartford",
       "github:SimplifyJobs"
     ],
-    "in_simplify": true,
+    "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 1,
-    "active": true,
-    "date_posted": "2026-08-27"
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "The Hartford",
-    "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
+    "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
     "location": "Hartford, CT",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
-    "source": "github",
-    "source_name": "SimplifyJobs",
-    "season": "summer-2027",
-    "age": "1mo",
-    "is_simplify": true,
-    "season_confidence": "medium",
-    "category": "AI / Machine Learning",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
+    "date_posted": "2026-09-24",
+    "source": "workday",
+    "source_name": "The Hartford Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
     "tags": [
-      "AI / Machine Learning",
       "Software Engineering",
-      "Hardware / Engineering",
-      "General Technology"
+      "Hardware / Engineering"
     ],
-    "source_id": "github:SimplifyJobs",
-    "simplify_comparison": "matched",
+    "source_id": "company:the-hartford",
+    "simplify_comparison": "no_exact_match",
     "sources": [
       "SimplifyJobs",
       "The Hartford Careers"
@@ -3042,13 +3070,12 @@
       "company:the-hartford",
       "github:SimplifyJobs"
     ],
-    "in_simplify": true,
+    "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 1,
-    "active": true,
-    "date_posted": "2026-08-27"
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "Textron",
@@ -3112,7 +3139,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 24,
+    "missing_runs": 25,
     "active": false,
     "date_posted": "2026-09-04"
   },
@@ -3142,7 +3169,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 25,
+    "missing_runs": 26,
     "active": false
   },
   {
@@ -3828,7 +3855,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 40,
+    "missing_runs": 41,
     "active": false,
     "date_posted": null
   },
@@ -4142,7 +4169,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 17,
+    "missing_runs": 18,
     "active": false
   },
   {
@@ -4796,7 +4823,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 42,
+    "missing_runs": 43,
     "active": false,
     "date_posted": null
   },
@@ -4824,7 +4851,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 40,
+    "missing_runs": 41,
     "active": false
   },
   {
@@ -4851,7 +4878,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 40,
+    "missing_runs": 41,
     "active": false
   },
   {
@@ -4942,8 +4969,8 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 2,
-    "active": true,
+    "missing_runs": 3,
+    "active": false,
     "date_posted": null
   },
   {
@@ -5316,7 +5343,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Scientific Computing / Research",
@@ -5913,7 +5940,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -5945,7 +5972,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -5976,7 +6003,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -6007,7 +6034,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -6038,7 +6065,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -6072,7 +6099,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -6103,7 +6130,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -6153,7 +6180,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 19,
+    "missing_runs": 20,
     "active": false
   },
   {
@@ -6569,14 +6596,14 @@
   },
   {
     "company": "CACI",
-    "title": "Software Engineering Co-op - Spring & Summer 2027",
-    "location": "Danbury, CT, US",
+    "title": "Software Engineer Co-op - Spring & Summer 2027",
+    "location": "Danbury, CT",
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
     "source": "workday",
     "source_name": "CACI Careers",
     "season": "summer-2027",
     "age": "24d",
-    "is_simplify": false,
+    "is_simplify": true,
     "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
@@ -6594,12 +6621,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
-    "date_posted": "2026-08-31",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-24",
     "missing_runs": 0,
-    "active": true
+    "active": true,
+    "date_posted": "2026-08-31"
   },
   {
     "company": "CACI",
@@ -6633,18 +6660,19 @@
   },
   {
     "company": "CACI",
-    "title": "Configuration Control/Data Management Co-op - Spring & Summer 2027",
-    "location": "Danbury, CT, US",
+    "title": "Configuration Control/Data Management Co-op - Engineering Department",
+    "location": "Danbury, CT",
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440",
     "source": "workday",
     "source_name": "CACI Careers",
     "season": "summer-2027",
     "age": "14d",
-    "is_simplify": false,
-    "season_confidence": "high",
+    "is_simplify": true,
+    "season_confidence": "medium",
     "category": "Statistics / Analytics",
     "tags": [
-      "Statistics / Analytics"
+      "Statistics / Analytics",
+      "Hardware / Engineering"
     ],
     "source_id": "company:caci",
     "simplify_comparison": "matched",
@@ -6657,12 +6685,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
-    "date_posted": "2026-09-10",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-24",
     "missing_runs": 0,
-    "active": true
+    "active": true,
+    "date_posted": "2026-09-10"
   },
   {
     "company": "Burlington Stores",
@@ -6689,7 +6717,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 40,
+    "missing_runs": 41,
     "active": false,
     "date_posted": null
   },
@@ -6730,7 +6758,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -6762,7 +6790,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "30d",
+    "age": "1mo",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -6919,7 +6947,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "15d",
+    "age": "16d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -7252,7 +7280,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 17,
+    "missing_runs": 18,
     "active": false,
     "date_posted": null
   },
@@ -7700,7 +7728,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "22d",
+    "age": "23d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -7732,7 +7760,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "22d",
+    "age": "23d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",

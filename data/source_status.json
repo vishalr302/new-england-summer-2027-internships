@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 2052,
-    "regional": 153,
-    "internships": 153,
-    "matching": 141
+    "checked": 2086,
+    "regional": 155,
+    "internships": 155,
+    "matching": 143
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -24,7 +24,7 @@
     "name": "HubSpot",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 132,
+    "checked": 136,
     "regional": 3,
     "internships": 0,
     "matching": 0
@@ -61,7 +61,7 @@
     "name": "Toast",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 329,
+    "checked": 330,
     "regional": 21,
     "internships": 0,
     "matching": 0
@@ -71,8 +71,8 @@
     "name": "WHOOP",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 158,
-    "regional": 153,
+    "checked": 160,
+    "regional": 155,
     "internships": 0,
     "matching": 0
   },
@@ -81,7 +81,7 @@
     "name": "Rapid7",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 24,
+    "checked": 26,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -125,8 +125,8 @@
     "name": "Boston Dynamics",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 75,
-    "regional": 68,
+    "checked": 72,
+    "regional": 65,
     "internships": 0,
     "matching": 0
   },
@@ -201,7 +201,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 1311,
+    "checked": 1328,
     "regional": 11,
     "internships": 0,
     "matching": 0
@@ -217,18 +217,18 @@
     "source_id": "company:analog-devices",
     "name": "Analog Devices",
     "checked_at": "2026-09-24",
-    "status": "error",
-    "error": "KeyError: 'externalPath'"
+    "status": "ok",
+    "checked": 476,
+    "regional": 123,
+    "internships": 17,
+    "matching": 0
   },
   {
     "source_id": "company:thermo-fisher-scientific",
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-24",
-    "status": "ok",
-    "checked": 1367,
-    "regional": 55,
-    "internships": 7,
-    "matching": 0
+    "status": "error",
+    "error": "KeyError: 'externalPath'"
   },
   {
     "source_id": "company:draper",
@@ -273,7 +273,7 @@
     "name": "Hasbro",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 127,
+    "checked": 125,
     "regional": 31,
     "internships": 0,
     "matching": 0
@@ -304,8 +304,8 @@
     "name": "Travelers",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 235,
-    "regional": 31,
+    "checked": 239,
+    "regional": 33,
     "internships": 9,
     "matching": 2
   },
@@ -321,7 +321,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 304,
+    "checked": 305,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -338,10 +338,10 @@
     "name": "The Hartford",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 109,
-    "regional": 20,
-    "internships": 6,
-    "matching": 1
+    "checked": 107,
+    "regional": 21,
+    "internships": 8,
+    "matching": 3
   },
   {
     "source_id": "company:bae-systems",
@@ -355,9 +355,9 @@
     "name": "IDEXX",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 69,
-    "regional": 13,
-    "internships": 1,
+    "checked": 64,
+    "regional": 11,
+    "internships": 0,
     "matching": 0
   },
   {
@@ -365,7 +365,7 @@
     "name": "WEX",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 56,
+    "checked": 57,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -382,8 +382,8 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 331,
-    "regional": 22,
+    "checked": 335,
+    "regional": 24,
     "internships": 12,
     "matching": 12
   },
@@ -431,18 +431,15 @@
     "source_id": "company:merck",
     "name": "Merck",
     "checked_at": "2026-09-24",
-    "status": "ok",
-    "checked": 233,
-    "regional": 22,
-    "internships": 22,
-    "matching": 6
+    "status": "error",
+    "error": "KeyError: 'externalPath'"
   },
   {
     "source_id": "company:marvell",
     "name": "Marvell",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 29,
+    "checked": 30,
     "regional": 10,
     "internships": 10,
     "matching": 10
@@ -452,7 +449,7 @@
     "name": "Manulife Financial",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 101,
+    "checked": 104,
     "regional": 18,
     "internships": 13,
     "matching": 5
@@ -462,7 +459,7 @@
     "name": "MKS Instruments",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 5,
+    "checked": 7,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -472,9 +469,9 @@
     "name": "Lexington Medical",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 16,
-    "regional": 13,
-    "internships": 3,
+    "checked": 17,
+    "regional": 14,
+    "internships": 4,
     "matching": 1
   },
   {
@@ -562,7 +559,7 @@
     "name": "Capital One",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 24,
+    "checked": 25,
     "regional": 2,
     "internships": 2,
     "matching": 2
@@ -571,11 +568,8 @@
     "source_id": "company:caci",
     "name": "CACI",
     "checked_at": "2026-09-24",
-    "status": "ok",
-    "checked": 59,
-    "regional": 6,
-    "internships": 6,
-    "matching": 4
+    "status": "error",
+    "error": "KeyError: 'externalPath'"
   },
   {
     "source_id": "company:axon",
@@ -602,8 +596,8 @@
     "name": "Anduril",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 2360,
-    "regional": 223,
+    "checked": 2366,
+    "regional": 222,
     "internships": 10,
     "matching": 4
   },
@@ -622,7 +616,7 @@
     "name": "Adobe",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 9,
+    "checked": 12,
     "regional": 1,
     "internships": 1,
     "matching": 1
@@ -642,10 +636,10 @@
     "name": "Secretariat",
     "checked_at": "2026-09-24",
     "status": "ok",
-    "checked": 68,
-    "regional": 6,
-    "internships": 1,
-    "matching": 1
+    "checked": 70,
+    "regional": 7,
+    "internships": 2,
+    "matching": 2
   },
   {
     "source_id": "company:charles-river-associates",

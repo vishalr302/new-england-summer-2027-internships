@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-24 (UTC)** · Scheduled every six hours
 
-**Active internships: 213** · **Added in last 24 hours: 2** · **Direct company finds: 77**
+**Active internships: 213** · **Added in last 24 hours: 3** · **Direct company finds: 80**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -22,6 +22,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
+| Secretariat | 🆕 [Intern, Damages &amp; Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009) | Downtown Boston, MA | 🔎 Direct find | Unknown | 2026-09-24 |
 | AQR Capital Management | ◇ [Machine Learning Research Associate Intern 🎓](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | Greenwich, CT | SimplifyJobs | Unknown | 2026-09-23 |
 | Philips | ◇ [AI Engineer Intern - Enterprise AI &amp; Workflow Automation](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---AI-Engineer--Enterprise-AI---Workflow-Automation---Plymouth--MN---Summer-2027_591991) | Bedford, MA | SimplifyJobs | Unknown | 2026-09-22 |
 | Insulet | [Intern, Internal Audit &amp; Enterprise Risk Management: June - August 2027 (Hybrid)](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Intern--Internal-Audit---Enterprise-Risk-Management--June---August-2027--Hybrid-_REQ-2026-17994) | Acton, Massachusetts | 🔎 Direct find | 2026-09-17 · 7 days ago | 2026-09-17 |
@@ -32,7 +33,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Axon | ◇ [Render ATL - Leadership Development Internship 2027](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7798168003) | Boston, Massachusetts, United States | 🔎 Direct find | Unknown | 2026-09-13 |
 | Travelers | ◇ [Actuarial Leadership Development Program (ALDP) Intern](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Actuarial-Leadership-Development-Program--ALDP--Intern_R-52299) | CT - Hartford | 🔎 Direct find | 2026-08-30 · 25 days ago | 2026-09-13 |
 | Castleton Commodities International | ◇ [Data Science Machine Learning Intern](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) | Stamford, CT | Vansh &amp; Ouckah | Unknown | 2026-09-13 |
-| The Hartford | ◇ [Data Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) | Hartford, CT | SimplifyJobs, The Hartford Careers | 2026-08-27 · 28 days ago | 2026-09-13 |
 | S&amp;P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | Cambridge, MA | S&amp;P Global Careers, SimplifyJobs | 2026-09-09 · 15 days ago | 2026-09-13 |
 | Manulife Financial | [Summer Intern 2027 - AI](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682) | Boston, Massachusetts | Manulife Financial Careers, SimplifyJobs | 2026-08-27 · 28 days ago | 2026-09-13 |
 | Kensho | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714) | Cambridge, MA | Kensho Careers, SimplifyJobs | 2026-09-09 · 15 days ago | 2026-09-13 |
@@ -92,7 +92,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Citizens Financial Group | ◇ [Business Insights Intern - Multiple Teams 🎓](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283) | Boston, MA; Johnston, RI | SimplifyJobs | Unknown | 2026-09-13 |
 | Cigna Group | ◇ [Data &amp; Analytics Engineering Intern - Technology Development Program](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533) | Bloomfield, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | Cigna Group | [Analytics Leadership Development Program (ALDP) Summer Internship](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | Cigna Group Careers, SimplifyJobs | 2026-09-08 · 16 days ago | 2026-09-13 |
-| CACI | [Configuration Control/Data Management Co-op - Spring &amp; Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440) | Danbury, CT, US | CACI Careers, SimplifyJobs | 2026-09-10 · 14 days ago | 2026-09-13 |
+| CACI | ◇ [Configuration Control/Data Management Co-op - Engineering Department](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440) | Danbury, CT | CACI Careers, SimplifyJobs | 2026-09-10 · 14 days ago | 2026-09-13 |
 | Arch Capital Group | ◇ [Data and Analytics Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845) | Farmington, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | AQR Capital Management | ◇ [Quantitative Prediction Markets Research Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Greenwich, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Data Analyst Intern/Co-op 🎓](https://careers.amd.com/jobs/91183?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
@@ -129,13 +129,13 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Anduril | [2027 Software Engineer Intern](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Boston, Massachusetts, United States | 🔎 Direct find | Unknown | 2026-09-13 |
 | Amazon | ◇ [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) | North Reading, MA; Westboro, MA | Vansh &amp; Ouckah | Unknown | 2026-09-13 |
 | Trimble | ◇ [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) | Portsmouth, NH | SimplifyJobs | Unknown | 2026-09-13 |
-| The Hartford | ◇ [Software Engineer Intern - Tech &amp; Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | Hartford, CT | SimplifyJobs, The Hartford Careers | 2026-08-27 · 28 days ago | 2026-09-13 |
+| The Hartford | [Tech &amp; Data Program Summer 2027 – Data Engineer Intern (Hartford)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) | Hartford, CT | 🔎 Direct find | 2026-09-24 · today | 2026-09-13 |
+| The Hartford | [Tech &amp; Data Program Summer 2027 - Software Engineer Intern (Hartford)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | Hartford, CT | 🔎 Direct find | 2026-09-24 · today | 2026-09-13 |
 | Textron | ◇ [Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550) | Waterboro, ME | SimplifyJobs | Unknown | 2026-09-13 |
 | Specter Aerospace | ◇ [Full Stack Developer Co-op](https://specteraerospace.bamboohr.com/careers/122) | Boston, MA; Peabody, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | S&amp;P Global | [Software Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2) | Cambridge, MA | S&amp;P Global Careers, SimplifyJobs | 2026-09-09 · 15 days ago | 2026-09-13 |
 | Medtronic | ◇ [Software Engineer Intern](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) | Boston, MA; Mansfield, MA; North Haven, CT; Newton, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | Manulife Financial | [Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680) | Boston, Massachusetts | Manulife Financial Careers, SimplifyJobs | 2026-08-27 · 28 days ago | 2026-09-13 |
-| Lexington Medical | ◇ [Electrical/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008) | Bedford, MA | Lexington Medical Careers, SimplifyJobs | Unknown | 2026-09-13 |
 | Klaviyo | [Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) | Boston, MA | Klaviyo Careers, SimplifyJobs | Unknown | 2026-09-13 |
 | Kensho | [Software Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1) | Cambridge, MA | Kensho Careers, SimplifyJobs | 2026-09-09 · 15 days ago | 2026-09-13 |
 | HPR (Hyannis Port Research) | [Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | Needham, MA | HPR (Hyannis Port Research) Careers, SimplifyJobs, Vansh &amp; Ouckah | Unknown | 2026-09-13 |
@@ -149,7 +149,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Citizens Financial Group | ◇ [Software Engineer Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286) | Johnston, RI | SimplifyJobs | Unknown | 2026-09-13 |
 | Citizens Financial Group | ◇ [Data Engineer Intern - Enterprise Technology &amp; Security](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) | Johnston, RI | SimplifyJobs | Unknown | 2026-09-13 |
 | Cigna Group | ◇ [Software Engineering Intern - Technology Development Program - Software Engineering Track](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527) | Bloomfield, CT | SimplifyJobs | Unknown | 2026-09-13 |
-| CACI | [Software Engineering Co-op - Spring &amp; Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1) | Danbury, CT, US | CACI Careers, SimplifyJobs | 2026-08-31 · 24 days ago | 2026-09-13 |
+| CACI | [Software Engineer Co-op - Spring &amp; Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1) | Danbury, CT | CACI Careers, SimplifyJobs | 2026-08-31 · 24 days ago | 2026-09-13 |
 | BNY | ◇ [Engineering Intern - Developer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318) | Greater Manchester, UK | SimplifyJobs | Unknown | 2026-09-13 |
 | Amazon | ◇ [Software Development Engineer Intern - Robotics](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | North Reading, MA; Westborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | Adobe | ◇ [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | Waltham | Adobe Careers, SimplifyJobs | 2026-09-18 · 6 days ago | 2026-09-13 |
@@ -278,27 +278,27 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 ## Source health
 
-61 sources completed · 22 coverage gaps · 3 disabled entries
+59 sources completed · 24 coverage gaps · 3 disabled entries
 
 <details>
 <summary>View all monitored sources</summary>
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 2052 | 141 |
+| SimplifyJobs | ok | 2086 | 143 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
-| HubSpot | ok | 132 | 0 |
+| HubSpot | ok | 136 | 0 |
 | Wayfair | error | — | — |
 | DraftKings | ok | 7 | 7 |
 | Klaviyo | ok | 17 | 1 |
-| Toast | ok | 329 | 0 |
-| WHOOP | ok | 158 | 0 |
-| Rapid7 | ok | 24 | 0 |
+| Toast | ok | 330 | 0 |
+| WHOOP | ok | 160 | 0 |
+| Rapid7 | ok | 26 | 0 |
 | DEKA | error | — | — |
 | Beta Technologies | ok | 0 | 0 |
 | Biogen | ok | 209 | 0 |
 | Akamai | error | — | — |
-| Boston Dynamics | ok | 75 | 0 |
+| Boston Dynamics | ok | 72 | 0 |
 | MathWorks | error | — | — |
 | Moderna | ok | 125 | 0 |
 | Vertex Pharmaceuticals | error | — | — |
@@ -308,38 +308,38 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Bose | error | — | — |
 | RTX | error | — | — |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1311 | 0 |
+| GE Vernova | ok | 1328 | 0 |
 | iRobot | error | — | — |
-| Analog Devices | error | — | — |
-| Thermo Fisher Scientific | ok | 1367 | 0 |
+| Analog Devices | ok | 476 | 0 |
+| Thermo Fisher Scientific | error | — | — |
 | Draper | error | — | — |
 | MIT Lincoln Laboratory | ok | 198 | 5 |
 | CVS Health | error | — | — |
 | Citizens | error | — | — |
 | FM | error | — | — |
-| Hasbro | ok | 127 | 0 |
+| Hasbro | ok | 125 | 0 |
 | Textron | error | — | — |
 | Amica | error | — | — |
 | Pratt &amp; Whitney | disabled | — | — |
-| Travelers | ok | 235 | 2 |
+| Travelers | ok | 239 | 2 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 304 | 0 |
+| Stanley Black &amp; Decker | ok | 305 | 0 |
 | Sikorsky | error | — | — |
-| The Hartford | ok | 109 | 1 |
+| The Hartford | ok | 107 | 3 |
 | BAE Systems | error | — | — |
-| IDEXX | ok | 69 | 0 |
-| WEX | ok | 56 | 0 |
+| IDEXX | ok | 64 | 0 |
+| WEX | ok | 57 | 0 |
 | Tyler Technologies | error | — | — |
-| GlobalFoundries | ok | 331 | 12 |
+| GlobalFoundries | ok | 335 | 12 |
 | Wellington Management | ok | 38 | 0 |
 | Trimble | ok | 15 | 0 |
 | TJX | ok | 36 | 0 |
 | S&amp;P Global | ok | 12 | 2 |
-| Merck | ok | 233 | 6 |
-| Marvell | ok | 29 | 10 |
-| Manulife Financial | ok | 101 | 5 |
-| MKS Instruments | ok | 5 | 0 |
-| Lexington Medical | ok | 16 | 1 |
+| Merck | error | — | — |
+| Marvell | ok | 30 | 10 |
+| Manulife Financial | ok | 104 | 5 |
+| MKS Instruments | ok | 7 | 0 |
+| Lexington Medical | ok | 17 | 1 |
 | Kensho | ok | 2 | 2 |
 | Insulet | ok | 28 | 1 |
 | HyperLight | ok | 16 | 0 |
@@ -348,15 +348,15 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Cox | ok | 29 | 2 |
 | Cigna Group | ok | 26 | 2 |
 | Castleton Commodities International | ok | 1 | 1 |
-| Capital One | ok | 24 | 2 |
-| CACI | ok | 59 | 4 |
+| Capital One | ok | 25 | 2 |
+| CACI | error | — | — |
 | Axon | ok | 6 | 1 |
 | Arch Capital Group | ok | 15 | 0 |
-| Anduril | ok | 2360 | 4 |
+| Anduril | ok | 2366 | 4 |
 | Ameriprise Financial | ok | 24 | 1 |
-| Adobe | ok | 9 | 1 |
+| Adobe | ok | 12 | 1 |
 | Walleye Capital | ok | 5 | 2 |
-| Secretariat | ok | 68 | 1 |
+| Secretariat | ok | 70 | 2 |
 | Charles River Associates | ok | 86 | 2 |
 | Audax Group | ok | 15 | 0 |
 | Audax Private Equity | ok | 4 | 0 |
