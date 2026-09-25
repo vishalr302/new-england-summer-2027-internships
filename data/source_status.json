@@ -4,7 +4,7 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 2098,
+    "checked": 2082,
     "regional": 158,
     "internships": 158,
     "matching": 145
@@ -25,7 +25,7 @@
     "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 133,
-    "regional": 3,
+    "regional": 4,
     "internships": 0,
     "matching": 0
   },
@@ -61,8 +61,8 @@
     "name": "Toast",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 339,
-    "regional": 23,
+    "checked": 345,
+    "regional": 25,
     "internships": 0,
     "matching": 0
   },
@@ -71,8 +71,8 @@
     "name": "WHOOP",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 160,
-    "regional": 155,
+    "checked": 159,
+    "regional": 154,
     "internships": 0,
     "matching": 0
   },
@@ -81,7 +81,7 @@
     "name": "Rapid7",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 24,
+    "checked": 23,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -108,7 +108,7 @@
     "name": "Biogen",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 212,
+    "checked": 217,
     "regional": 84,
     "internships": 1,
     "matching": 0
@@ -125,8 +125,8 @@
     "name": "Boston Dynamics",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 74,
-    "regional": 67,
+    "checked": 76,
+    "regional": 69,
     "internships": 0,
     "matching": 0
   },
@@ -142,7 +142,7 @@
     "name": "Moderna",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 122,
+    "checked": 124,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -186,11 +186,8 @@
     "source_id": "company:rtx",
     "name": "RTX",
     "checked_at": "2026-09-25",
-    "status": "ok",
-    "checked": 309,
-    "regional": 47,
-    "internships": 46,
-    "matching": 23
+    "status": "error",
+    "error": "ValueError: Workday repeated a page; refusing incomplete results"
   },
   {
     "source_id": "company:raytheon",
@@ -203,11 +200,8 @@
     "source_id": "company:ge-vernova",
     "name": "GE Vernova",
     "checked_at": "2026-09-25",
-    "status": "ok",
-    "checked": 1326,
-    "regional": 12,
-    "internships": 0,
-    "matching": 0
+    "status": "error",
+    "error": "KeyError: 'title'"
   },
   {
     "source_id": "company:irobot",
@@ -221,9 +215,9 @@
     "name": "Analog Devices",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 486,
-    "regional": 126,
-    "internships": 17,
+    "checked": 488,
+    "regional": 127,
+    "internships": 18,
     "matching": 0
   },
   {
@@ -232,7 +226,7 @@
     "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 1386,
-    "regional": 56,
+    "regional": 55,
     "internships": 7,
     "matching": 0
   },
@@ -310,7 +304,7 @@
     "name": "Travelers",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 240,
+    "checked": 241,
     "regional": 31,
     "internships": 9,
     "matching": 2
@@ -327,7 +321,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 297,
+    "checked": 294,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -361,7 +355,7 @@
     "name": "IDEXX",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 65,
+    "checked": 66,
     "regional": 11,
     "internships": 0,
     "matching": 0
@@ -371,8 +365,8 @@
     "name": "WEX",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 56,
-    "regional": 1,
+    "checked": 57,
+    "regional": 2,
     "internships": 0,
     "matching": 0
   },
@@ -389,7 +383,7 @@
     "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 339,
-    "regional": 24,
+    "regional": 23,
     "internships": 12,
     "matching": 12
   },
@@ -438,7 +432,7 @@
     "name": "Merck",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 231,
+    "checked": 229,
     "regional": 22,
     "internships": 22,
     "matching": 6
@@ -558,7 +552,7 @@
     "name": "Castleton Commodities International",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 1,
+    "checked": 2,
     "regional": 1,
     "internships": 1,
     "matching": 1
@@ -568,17 +562,17 @@
     "name": "Capital One",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 24,
-    "regional": 2,
-    "internships": 2,
-    "matching": 2
+    "checked": 22,
+    "regional": 0,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:caci",
     "name": "CACI",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 49,
+    "checked": 48,
     "regional": 5,
     "internships": 5,
     "matching": 3
@@ -608,8 +602,8 @@
     "name": "Anduril",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 2371,
-    "regional": 228,
+    "checked": 2370,
+    "regional": 232,
     "internships": 10,
     "matching": 4
   },
@@ -628,7 +622,7 @@
     "name": "Adobe",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 12,
+    "checked": 11,
     "regional": 1,
     "internships": 1,
     "matching": 1
@@ -648,7 +642,7 @@
     "name": "Secretariat",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 73,
+    "checked": 74,
     "regional": 7,
     "internships": 2,
     "matching": 2
@@ -688,7 +682,7 @@
     "name": "Formlabs",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 211,
+    "checked": 212,
     "regional": 125,
     "internships": 13,
     "matching": 0
@@ -735,8 +729,8 @@
     "name": "Cyvl",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 10,
-    "regional": 9,
+    "checked": 11,
+    "regional": 10,
     "internships": 3,
     "matching": 3
   },
