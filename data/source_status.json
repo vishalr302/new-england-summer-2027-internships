@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 2089,
-    "regional": 156,
-    "internships": 156,
-    "matching": 143
+    "checked": 2098,
+    "regional": 158,
+    "internships": 158,
+    "matching": 145
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -24,7 +24,7 @@
     "name": "HubSpot",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 132,
+    "checked": 133,
     "regional": 3,
     "internships": 0,
     "matching": 0
@@ -41,7 +41,7 @@
     "name": "DraftKings",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 7,
+    "checked": 8,
     "regional": 7,
     "internships": 7,
     "matching": 7
@@ -61,8 +61,8 @@
     "name": "Toast",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 335,
-    "regional": 22,
+    "checked": 339,
+    "regional": 23,
     "internships": 0,
     "matching": 0
   },
@@ -81,7 +81,7 @@
     "name": "Rapid7",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 26,
+    "checked": 24,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -108,7 +108,7 @@
     "name": "Biogen",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 211,
+    "checked": 212,
     "regional": 84,
     "internships": 1,
     "matching": 0
@@ -125,8 +125,8 @@
     "name": "Boston Dynamics",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 72,
-    "regional": 65,
+    "checked": 74,
+    "regional": 67,
     "internships": 0,
     "matching": 0
   },
@@ -142,7 +142,7 @@
     "name": "Moderna",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 124,
+    "checked": 122,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -187,10 +187,10 @@
     "name": "RTX",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 306,
-    "regional": 44,
-    "internships": 43,
-    "matching": 24
+    "checked": 309,
+    "regional": 47,
+    "internships": 46,
+    "matching": 23
   },
   {
     "source_id": "company:raytheon",
@@ -203,8 +203,11 @@
     "source_id": "company:ge-vernova",
     "name": "GE Vernova",
     "checked_at": "2026-09-25",
-    "status": "error",
-    "error": "KeyError: 'title'"
+    "status": "ok",
+    "checked": 1326,
+    "regional": 12,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:irobot",
@@ -218,8 +221,8 @@
     "name": "Analog Devices",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 485,
-    "regional": 127,
+    "checked": 486,
+    "regional": 126,
     "internships": 17,
     "matching": 0
   },
@@ -227,8 +230,11 @@
     "source_id": "company:thermo-fisher-scientific",
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-25",
-    "status": "error",
-    "error": "ValueError: Incomplete Workday pagination"
+    "status": "ok",
+    "checked": 1386,
+    "regional": 56,
+    "internships": 7,
+    "matching": 0
   },
   {
     "source_id": "company:draper",
@@ -242,10 +248,10 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 200,
-    "regional": 197,
-    "internships": 12,
-    "matching": 7
+    "checked": 201,
+    "regional": 198,
+    "internships": 13,
+    "matching": 8
   },
   {
     "source_id": "company:cvs-health",
@@ -304,8 +310,8 @@
     "name": "Travelers",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 239,
-    "regional": 32,
+    "checked": 240,
+    "regional": 31,
     "internships": 9,
     "matching": 2
   },
@@ -321,7 +327,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 299,
+    "checked": 297,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -338,7 +344,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 105,
+    "checked": 107,
     "regional": 22,
     "internships": 8,
     "matching": 3
@@ -355,8 +361,8 @@
     "name": "IDEXX",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 66,
-    "regional": 12,
+    "checked": 65,
+    "regional": 11,
     "internships": 0,
     "matching": 0
   },
@@ -382,7 +388,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 332,
+    "checked": 339,
     "regional": 24,
     "internships": 12,
     "matching": 12
@@ -432,7 +438,7 @@
     "name": "Merck",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 229,
+    "checked": 231,
     "regional": 22,
     "internships": 22,
     "matching": 6
@@ -442,7 +448,7 @@
     "name": "Marvell",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 34,
+    "checked": 35,
     "regional": 10,
     "internships": 10,
     "matching": 10
@@ -572,7 +578,7 @@
     "name": "CACI",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 50,
+    "checked": 49,
     "regional": 5,
     "internships": 5,
     "matching": 3
@@ -602,7 +608,7 @@
     "name": "Anduril",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 2374,
+    "checked": 2371,
     "regional": 228,
     "internships": 10,
     "matching": 4
@@ -642,7 +648,7 @@
     "name": "Secretariat",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 71,
+    "checked": 73,
     "regional": 7,
     "internships": 2,
     "matching": 2
@@ -652,7 +658,7 @@
     "name": "Charles River Associates",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 86,
+    "checked": 85,
     "regional": 43,
     "internships": 4,
     "matching": 2
@@ -682,7 +688,7 @@
     "name": "Formlabs",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 212,
+    "checked": 211,
     "regional": 125,
     "internships": 13,
     "matching": 0
@@ -699,9 +705,9 @@
     "name": "Ginkgo Bioworks",
     "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 19,
-    "regional": 14,
-    "internships": 1,
+    "checked": 20,
+    "regional": 15,
+    "internships": 2,
     "matching": 0
   },
   {
