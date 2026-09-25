@@ -2,17 +2,17 @@
   {
     "source_id": "github:SimplifyJobs",
     "name": "SimplifyJobs",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 2079,
-    "regional": 155,
-    "internships": 155,
-    "matching": 143
+    "checked": 2118,
+    "regional": 158,
+    "internships": 158,
+    "matching": 146
   },
   {
     "source_id": "github:Vansh & Ouckah",
     "name": "Vansh & Ouckah",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 214,
     "regional": 11,
@@ -22,9 +22,9 @@
   {
     "source_id": "company:hubspot",
     "name": "HubSpot",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 136,
+    "checked": 132,
     "regional": 3,
     "internships": 0,
     "matching": 0
@@ -32,14 +32,14 @@
   {
     "source_id": "company:wayfair",
     "name": "Wayfair",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:draftkings",
     "name": "DraftKings",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 7,
     "regional": 7,
@@ -49,7 +49,7 @@
   {
     "source_id": "company:klaviyocampus",
     "name": "Klaviyo",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 17,
     "regional": 16,
@@ -59,9 +59,9 @@
   {
     "source_id": "company:toast",
     "name": "Toast",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 338,
+    "checked": 337,
     "regional": 22,
     "internships": 0,
     "matching": 0
@@ -69,9 +69,9 @@
   {
     "source_id": "company:whoop",
     "name": "WHOOP",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 161,
+    "checked": 162,
     "regional": 156,
     "internships": 0,
     "matching": 0
@@ -79,7 +79,7 @@
   {
     "source_id": "company:rapid7",
     "name": "Rapid7",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 26,
     "regional": 9,
@@ -89,14 +89,14 @@
   {
     "source_id": "company:dekaresearchdevelopment",
     "name": "DEKA",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:beta",
     "name": "Beta Technologies",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 0,
     "regional": 0,
@@ -106,7 +106,7 @@
   {
     "source_id": "company:Biogen",
     "name": "Biogen",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 212,
     "regional": 84,
@@ -116,14 +116,14 @@
   {
     "source_id": "company:akamai",
     "name": "Akamai",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.akamai.com/robots.txt"
   },
   {
     "source_id": "company:boston-dynamics",
     "name": "Boston Dynamics",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 72,
     "regional": 65,
@@ -133,16 +133,16 @@
   {
     "source_id": "company:mathworks",
     "name": "MathWorks",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.mathworks.com/robots.txt"
   },
   {
     "source_id": "company:moderna",
     "name": "Moderna",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 125,
+    "checked": 124,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -150,61 +150,61 @@
   {
     "source_id": "company:vertex-pharmaceuticals",
     "name": "Vertex Pharmaceuticals",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.vrtx.com/robots.txt"
   },
   {
     "source_id": "company:fidelity-investments",
     "name": "Fidelity Investments",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:liberty-mutual",
     "name": "Liberty Mutual",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:state-street",
     "name": "State Street",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:bose",
     "name": "Bose",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.bose.com/careers"
   },
   {
     "source_id": "company:rtx",
     "name": "RTX",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 306,
-    "regional": 47,
-    "internships": 46,
-    "matching": 25
+    "regional": 44,
+    "internships": 43,
+    "matching": 24
   },
   {
     "source_id": "company:raytheon",
     "name": "Raytheon",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "disabled",
     "error": "Monitored through the shared RTX public board; do not fetch it twice."
   },
   {
     "source_id": "company:ge-vernova",
     "name": "GE Vernova",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 1336,
+    "checked": 1318,
     "regional": 12,
     "internships": 0,
     "matching": 0
@@ -212,16 +212,16 @@
   {
     "source_id": "company:irobot",
     "name": "iRobot",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:analog-devices",
     "name": "Analog Devices",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 476,
+    "checked": 482,
     "regional": 123,
     "internships": 17,
     "matching": 0
@@ -229,55 +229,55 @@
   {
     "source_id": "company:thermo-fisher-scientific",
     "name": "Thermo Fisher Scientific",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 1384,
-    "regional": 56,
+    "checked": 1382,
+    "regional": 55,
     "internships": 7,
     "matching": 0
   },
   {
     "source_id": "company:draper",
     "name": "Draper",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:mit-lincoln-laboratory",
     "name": "MIT Lincoln Laboratory",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 200,
-    "regional": 197,
+    "checked": 201,
+    "regional": 198,
     "internships": 12,
     "matching": 7
   },
   {
     "source_id": "company:cvs-health",
     "name": "CVS Health",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:citizens",
     "name": "Citizens",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:fm",
     "name": "FM",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ConnectionError: HTTPSConnectionPool(host='www.careersatfm.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(\"HTTPSConnection(host='www.careersatfm.com', port=443): Failed to resolve 'www.careersatfm.com' ([Errno -3] Temporary failure in name resolution)\"))"
   },
   {
     "source_id": "company:hasbro",
     "name": "Hasbro",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 123,
     "regional": 32,
@@ -287,28 +287,28 @@
   {
     "source_id": "company:textron",
     "name": "Textron",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:amica",
     "name": "Amica",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "HTTPError: 404 Client Error: Not Found for url: https://www.amica.com/en/about-us/careers.html"
   },
   {
     "source_id": "company:pratt-and-whitney",
     "name": "Pratt & Whitney",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "disabled",
     "error": "Monitored through the shared RTX public board; do not fetch it twice."
   },
   {
     "source_id": "company:travelers",
     "name": "Travelers",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 239,
     "regional": 32,
@@ -318,30 +318,33 @@
   {
     "source_id": "company:synchrony",
     "name": "Synchrony",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:stanley-black-and-decker",
     "name": "Stanley Black & Decker",
-    "checked_at": "2026-09-24",
-    "status": "error",
-    "error": "KeyError: 'externalPath'"
+    "checked_at": "2026-09-25",
+    "status": "ok",
+    "checked": 298,
+    "regional": 9,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:sikorsky",
     "name": "Sikorsky",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:the-hartford",
     "name": "The Hartford",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 109,
+    "checked": 105,
     "regional": 22,
     "internships": 8,
     "matching": 3
@@ -349,14 +352,14 @@
   {
     "source_id": "company:bae-systems",
     "name": "BAE Systems",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:idexx",
     "name": "IDEXX",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 65,
     "regional": 12,
@@ -366,7 +369,7 @@
   {
     "source_id": "company:wex",
     "name": "WEX",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 56,
     "regional": 1,
@@ -376,16 +379,16 @@
   {
     "source_id": "company:tyler-technologies",
     "name": "Tyler Technologies",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "error",
     "error": "ValueError: No JobPosting JSON-LD; configure HTML selectors or a public ATS board"
   },
   {
     "source_id": "company:globalfoundries",
     "name": "GlobalFoundries",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 334,
+    "checked": 335,
     "regional": 24,
     "internships": 12,
     "matching": 12
@@ -393,7 +396,7 @@
   {
     "source_id": "company:wellington-management",
     "name": "Wellington Management",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 38,
     "regional": 37,
@@ -403,7 +406,7 @@
   {
     "source_id": "company:trimble",
     "name": "Trimble",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 15,
     "regional": 2,
@@ -413,7 +416,7 @@
   {
     "source_id": "company:tjx",
     "name": "TJX",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 36,
     "regional": 9,
@@ -423,7 +426,7 @@
   {
     "source_id": "company:s-p-global",
     "name": "S&P Global",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 12,
     "regional": 2,
@@ -433,7 +436,7 @@
   {
     "source_id": "company:merck",
     "name": "Merck",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 229,
     "regional": 22,
@@ -443,7 +446,7 @@
   {
     "source_id": "company:marvell",
     "name": "Marvell",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 34,
     "regional": 10,
@@ -453,7 +456,7 @@
   {
     "source_id": "company:manulife-financial",
     "name": "Manulife Financial",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 109,
     "regional": 18,
@@ -463,9 +466,9 @@
   {
     "source_id": "company:mks-instruments",
     "name": "MKS Instruments",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 7,
+    "checked": 6,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -473,7 +476,7 @@
   {
     "source_id": "company:lexington-medical",
     "name": "Lexington Medical",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 17,
     "regional": 14,
@@ -483,7 +486,7 @@
   {
     "source_id": "company:kensho",
     "name": "Kensho",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 2,
     "regional": 2,
@@ -493,7 +496,7 @@
   {
     "source_id": "company:insulet",
     "name": "Insulet",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 28,
     "regional": 27,
@@ -503,7 +506,7 @@
   {
     "source_id": "company:hyperlight",
     "name": "HyperLight",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 16,
     "regional": 0,
@@ -513,7 +516,7 @@
   {
     "source_id": "company:hpr-hyannis-port-research",
     "name": "HPR (Hyannis Port Research)",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 10,
     "regional": 10,
@@ -523,7 +526,7 @@
   {
     "source_id": "company:ge-aerospace",
     "name": "GE Aerospace",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 57,
     "regional": 0,
@@ -533,9 +536,9 @@
   {
     "source_id": "company:cox",
     "name": "Cox",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 29,
+    "checked": 28,
     "regional": 2,
     "internships": 2,
     "matching": 2
@@ -543,7 +546,7 @@
   {
     "source_id": "company:cigna-group",
     "name": "Cigna Group",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 25,
     "regional": 11,
@@ -553,7 +556,7 @@
   {
     "source_id": "company:castleton-commodities-international",
     "name": "Castleton Commodities International",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 1,
     "regional": 1,
@@ -563,7 +566,7 @@
   {
     "source_id": "company:capital-one",
     "name": "Capital One",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 24,
     "regional": 2,
@@ -573,7 +576,7 @@
   {
     "source_id": "company:caci",
     "name": "CACI",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 54,
     "regional": 6,
@@ -583,7 +586,7 @@
   {
     "source_id": "company:axon",
     "name": "Axon",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 3,
     "regional": 1,
@@ -593,7 +596,7 @@
   {
     "source_id": "company:arch-capital-group",
     "name": "Arch Capital Group",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 15,
     "regional": 2,
@@ -603,17 +606,17 @@
   {
     "source_id": "company:anduril",
     "name": "Anduril",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 2370,
-    "regional": 223,
+    "checked": 2377,
+    "regional": 228,
     "internships": 10,
     "matching": 4
   },
   {
     "source_id": "company:ameriprise-financial",
     "name": "Ameriprise Financial",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 24,
     "regional": 6,
@@ -623,7 +626,7 @@
   {
     "source_id": "company:adobe",
     "name": "Adobe",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 12,
     "regional": 1,
@@ -633,7 +636,7 @@
   {
     "source_id": "company:walleye-capital",
     "name": "Walleye Capital",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 5,
     "regional": 3,
@@ -643,7 +646,7 @@
   {
     "source_id": "company:secretariat",
     "name": "Secretariat",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 71,
     "regional": 7,
@@ -653,7 +656,7 @@
   {
     "source_id": "company:charles-river-associates",
     "name": "Charles River Associates",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 86,
     "regional": 43,
@@ -663,7 +666,7 @@
   {
     "source_id": "company:audax-group",
     "name": "Audax Group",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 15,
     "regional": 12,
@@ -673,7 +676,7 @@
   {
     "source_id": "company:audax-private-equity",
     "name": "Audax Private Equity",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 4,
     "regional": 4,
@@ -683,24 +686,24 @@
   {
     "source_id": "company:formlabs",
     "name": "Formlabs",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
-    "checked": 213,
-    "regional": 126,
+    "checked": 212,
+    "regional": 125,
     "internships": 13,
     "matching": 0
   },
   {
     "source_id": "company:interactive-brokers",
     "name": "Interactive Brokers",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "disabled",
     "error": "Employer migrated to a JavaScript Dayforce board. Requires a supported collector; former Greenhouse board is no longer available."
   },
   {
     "source_id": "company:ginkgo-bioworks",
     "name": "Ginkgo Bioworks",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 19,
     "regional": 14,
@@ -710,7 +713,7 @@
   {
     "source_id": "company:circuithub",
     "name": "CircuitHub",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 8,
     "regional": 6,
@@ -720,7 +723,7 @@
   {
     "source_id": "company:venti-technologies",
     "name": "Venti Technologies",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 35,
     "regional": 0,
@@ -730,7 +733,7 @@
   {
     "source_id": "company:cyvl",
     "name": "Cyvl",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 10,
     "regional": 9,
@@ -740,7 +743,7 @@
   {
     "source_id": "company:gartner",
     "name": "Gartner",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 19,
     "regional": 1,
@@ -750,7 +753,7 @@
   {
     "source_id": "company:iat-insurance-group",
     "name": "IAT Insurance Group",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 20,
     "regional": 1,
@@ -760,7 +763,7 @@
   {
     "source_id": "company:avangrid-iberdrola",
     "name": "Avangrid / Iberdrola",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 8,
     "regional": 4,
@@ -770,7 +773,7 @@
   {
     "source_id": "web:berrydunn-4021",
     "name": "BerryDunn (web posting)",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 1,
     "regional": 1,
@@ -780,7 +783,7 @@
   {
     "source_id": "web:citizens-49289",
     "name": "Citizens (web posting)",
-    "checked_at": "2026-09-24",
+    "checked_at": "2026-09-25",
     "status": "ok",
     "checked": 0,
     "regional": 0,
