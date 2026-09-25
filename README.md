@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-25 (UTC)** · Scheduled every six hours
 
-**Active internships: 214** · **Added in last 24 hours: 5** · **Direct company finds: 78**
+**Active internships: 214** · **Added in last 24 hours: 5** · **Direct company finds: 77**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -219,7 +219,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Avangrid / Iberdrola | ◇ [2027 Engineering &amp; Project Delivery Internship Program](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Engineering---Project-Delivery-Internship-Program_R-32746) | United States Of America, Connecticut, Orange; United States Of America, Maine, Portland; United States Of America, Massachusetts, Boston | 🔎 Direct find | 2026-08-28 · 28 days ago | 2026-09-14 |
 | RTX | [Engineering Services Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Engineering-Services-Intern--Summer-2027-_01872640) | US-CT-WINDSOR LOCKS-B1A | 🔎 Direct find | 2026-09-22 · 3 days ago | 2026-09-14 |
 | Secretariat | [Intern, Engineering Sciences (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4399032009) | Downtown Boston, MA | 🔎 Direct find | Unknown | 2026-09-13 |
-| Marvell | [Physical Design Engineer Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1) | Burlington, VT; Westborough, MA | 🔎 Direct find | 2026-09-04 · 21 days ago | 2026-09-13 |
+| Marvell | [Physical Design Engineer Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1) | Burlington, VT; Westborough, MA | Marvell Careers, SimplifyJobs | 2026-09-04 · 21 days ago | 2026-09-13 |
 | Marvell | [Physical Design Engineer Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1) | Burlington, VT; Westborough, MA | 🔎 Direct find | 2026-09-04 · 21 days ago | 2026-09-13 |
 | Marvell | [Design for Test Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511) | Westborough, MA | 🔎 Direct find | 2026-09-04 · 21 days ago | 2026-09-13 |
 | Marvell | [Advanced Packaging Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1) | Burlington, VT; Westborough, MA | 🔎 Direct find | 2026-09-05 · 20 days ago | 2026-09-13 |
@@ -279,25 +279,25 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 ## Source health
 
-63 sources completed · 20 coverage gaps · 3 disabled entries
+61 sources completed · 22 coverage gaps · 3 disabled entries
 
 <details>
 <summary>View all monitored sources</summary>
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 2118 | 146 |
+| SimplifyJobs | ok | 2089 | 143 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 132 | 0 |
 | Wayfair | error | — | — |
 | DraftKings | ok | 7 | 7 |
 | Klaviyo | ok | 17 | 1 |
-| Toast | ok | 337 | 0 |
-| WHOOP | ok | 162 | 0 |
+| Toast | ok | 335 | 0 |
+| WHOOP | ok | 160 | 0 |
 | Rapid7 | ok | 26 | 0 |
 | DEKA | error | — | — |
 | Beta Technologies | ok | 0 | 0 |
-| Biogen | ok | 212 | 0 |
+| Biogen | ok | 211 | 0 |
 | Akamai | error | — | — |
 | Boston Dynamics | ok | 72 | 0 |
 | MathWorks | error | — | — |
@@ -309,37 +309,37 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Bose | error | — | — |
 | RTX | ok | 306 | 24 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1318 | 0 |
+| GE Vernova | error | — | — |
 | iRobot | error | — | — |
-| Analog Devices | ok | 482 | 0 |
-| Thermo Fisher Scientific | ok | 1382 | 0 |
+| Analog Devices | ok | 485 | 0 |
+| Thermo Fisher Scientific | error | — | — |
 | Draper | error | — | — |
-| MIT Lincoln Laboratory | ok | 201 | 7 |
+| MIT Lincoln Laboratory | ok | 200 | 7 |
 | CVS Health | error | — | — |
 | Citizens | error | — | — |
 | FM | error | — | — |
-| Hasbro | ok | 123 | 0 |
+| Hasbro | ok | 124 | 0 |
 | Textron | error | — | — |
 | Amica | error | — | — |
 | Pratt &amp; Whitney | disabled | — | — |
 | Travelers | ok | 239 | 2 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 298 | 0 |
+| Stanley Black &amp; Decker | ok | 299 | 0 |
 | Sikorsky | error | — | — |
 | The Hartford | ok | 105 | 3 |
 | BAE Systems | error | — | — |
-| IDEXX | ok | 65 | 0 |
+| IDEXX | ok | 66 | 0 |
 | WEX | ok | 56 | 0 |
 | Tyler Technologies | error | — | — |
-| GlobalFoundries | ok | 335 | 12 |
+| GlobalFoundries | ok | 332 | 12 |
 | Wellington Management | ok | 38 | 0 |
 | Trimble | ok | 15 | 0 |
 | TJX | ok | 36 | 0 |
 | S&amp;P Global | ok | 12 | 2 |
 | Merck | ok | 229 | 6 |
 | Marvell | ok | 34 | 10 |
-| Manulife Financial | ok | 109 | 5 |
-| MKS Instruments | ok | 6 | 0 |
+| Manulife Financial | ok | 110 | 5 |
+| MKS Instruments | ok | 4 | 0 |
 | Lexington Medical | ok | 17 | 1 |
 | Kensho | ok | 2 | 2 |
 | Insulet | ok | 28 | 1 |
@@ -350,10 +350,10 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Cigna Group | ok | 25 | 2 |
 | Castleton Commodities International | ok | 1 | 1 |
 | Capital One | ok | 24 | 2 |
-| CACI | ok | 54 | 4 |
+| CACI | ok | 50 | 3 |
 | Axon | ok | 3 | 1 |
 | Arch Capital Group | ok | 15 | 0 |
-| Anduril | ok | 2377 | 4 |
+| Anduril | ok | 2374 | 4 |
 | Ameriprise Financial | ok | 24 | 1 |
 | Adobe | ok | 12 | 1 |
 | Walleye Capital | ok | 5 | 2 |
