@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 2125,
-    "regional": 158,
-    "internships": 158,
-    "matching": 145
+    "checked": 2078,
+    "regional": 153,
+    "internships": 153,
+    "matching": 141
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -108,7 +108,7 @@
     "name": "Biogen",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 219,
+    "checked": 218,
     "regional": 86,
     "internships": 1,
     "matching": 0
@@ -187,7 +187,7 @@
     "name": "RTX",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 273,
+    "checked": 270,
     "regional": 31,
     "internships": 30,
     "matching": 15
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 1324,
+    "checked": 1322,
     "regional": 12,
     "internships": 0,
     "matching": 0
@@ -231,7 +231,7 @@
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 1382,
+    "checked": 1381,
     "regional": 54,
     "internships": 7,
     "matching": 0
@@ -327,7 +327,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 292,
+    "checked": 291,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -344,7 +344,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 107,
+    "checked": 108,
     "regional": 22,
     "internships": 8,
     "matching": 3
@@ -388,7 +388,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 340,
+    "checked": 339,
     "regional": 23,
     "internships": 12,
     "matching": 12

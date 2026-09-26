@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-26 (UTC)** · Scheduled every six hours
 
-**Active internships: 212** · **Added in last 24 hours: 2** · **Direct company finds: 77**
+**Active internships: 210** · **Added in last 24 hours: 2** · **Direct company finds: 75**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **85 of 212 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **83 of 210 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -55,8 +55,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | DraftKings | [Data Science Intern (Summer 2027)](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958) | Boston, MA | DraftKings Careers, SimplifyJobs | 2026-09-08 · 18 days ago | 2026-09-13 |
 | DraftKings | ◇ [Data Science Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) | Boston, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | Citizens Financial Group | ◇ [Data Science Intern - Multiple Teams](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) | Boston, MA; Johnston, RI | SimplifyJobs | Unknown | 2026-09-13 |
-| Capital One | [Current PhD - Data Science Internship - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) | Cambridge, MA | 🔎 Direct find | 2026-07-20 · 68 days ago | 2026-09-13 |
-| Capital One | [Current Master&#x27;s - Data Science Internship - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) | Cambridge, MA | 🔎 Direct find | 2026-07-20 · 68 days ago | 2026-09-13 |
 | BNY | ◇ [Engineering Intern - Data Science](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322) | Manchester, UK | SimplifyJobs | Unknown | 2026-09-13 |
 
 ## Statistics / Analytics
@@ -284,7 +282,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 2125 | 145 |
+| SimplifyJobs | ok | 2078 | 141 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 133 | 0 |
 | Wayfair | error | — | — |
@@ -295,7 +293,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Rapid7 | ok | 23 | 0 |
 | DEKA | error | — | — |
 | Beta Technologies | ok | 0 | 0 |
-| Biogen | ok | 219 | 0 |
+| Biogen | ok | 218 | 0 |
 | Akamai | error | — | — |
 | Boston Dynamics | ok | 76 | 0 |
 | MathWorks | error | — | — |
@@ -305,12 +303,12 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Liberty Mutual | error | — | — |
 | State Street | error | — | — |
 | Bose | error | — | — |
-| RTX | ok | 273 | 15 |
+| RTX | ok | 270 | 15 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1324 | 0 |
+| GE Vernova | ok | 1322 | 0 |
 | iRobot | error | — | — |
 | Analog Devices | ok | 488 | 0 |
-| Thermo Fisher Scientific | ok | 1382 | 0 |
+| Thermo Fisher Scientific | ok | 1381 | 0 |
 | Draper | error | — | — |
 | MIT Lincoln Laboratory | ok | 201 | 8 |
 | CVS Health | error | — | — |
@@ -322,14 +320,14 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Pratt &amp; Whitney | disabled | — | — |
 | Travelers | ok | 243 | 2 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 292 | 0 |
+| Stanley Black &amp; Decker | ok | 291 | 0 |
 | Sikorsky | error | — | — |
-| The Hartford | ok | 107 | 3 |
+| The Hartford | ok | 108 | 3 |
 | BAE Systems | error | — | — |
 | IDEXX | ok | 67 | 0 |
 | WEX | ok | 57 | 0 |
 | Tyler Technologies | error | — | — |
-| GlobalFoundries | ok | 340 | 12 |
+| GlobalFoundries | ok | 339 | 12 |
 | Wellington Management | ok | 38 | 0 |
 | Trimble | ok | 15 | 0 |
 | TJX | ok | 36 | 0 |
