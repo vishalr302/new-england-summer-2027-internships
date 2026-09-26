@@ -54,7 +54,7 @@
     "checked": 17,
     "regional": 16,
     "internships": 14,
-    "matching": 1
+    "matching": 2
   },
   {
     "source_id": "company:toast",
@@ -231,7 +231,7 @@
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 1381,
+    "checked": 1382,
     "regional": 54,
     "internships": 7,
     "matching": 0
@@ -248,8 +248,8 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 201,
-    "regional": 198,
+    "checked": 200,
+    "regional": 197,
     "internships": 13,
     "matching": 8
   },
@@ -344,7 +344,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 108,
+    "checked": 107,
     "regional": 22,
     "internships": 8,
     "matching": 3
@@ -448,7 +448,7 @@
     "name": "Marvell",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 35,
+    "checked": 36,
     "regional": 10,
     "internships": 10,
     "matching": 10
@@ -608,7 +608,7 @@
     "name": "Anduril",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 2374,
+    "checked": 2373,
     "regional": 234,
     "internships": 10,
     "matching": 4
