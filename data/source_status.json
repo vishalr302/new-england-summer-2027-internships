@@ -4,7 +4,7 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 2078,
+    "checked": 2092,
     "regional": 153,
     "internships": 153,
     "matching": 141
@@ -221,7 +221,7 @@
     "name": "Analog Devices",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 488,
+    "checked": 490,
     "regional": 127,
     "internships": 18,
     "matching": 0
@@ -388,7 +388,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 339,
+    "checked": 338,
     "regional": 23,
     "internships": 12,
     "matching": 12
@@ -398,7 +398,7 @@
     "name": "Wellington Management",
     "checked_at": "2026-09-26",
     "status": "ok",
-    "checked": 38,
+    "checked": 37,
     "regional": 37,
     "internships": 34,
     "matching": 0
