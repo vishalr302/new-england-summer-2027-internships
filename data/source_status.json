@@ -71,8 +71,8 @@
     "name": "WHOOP",
     "checked_at": "2026-09-27",
     "status": "ok",
-    "checked": 159,
-    "regional": 154,
+    "checked": 157,
+    "regional": 152,
     "internships": 0,
     "matching": 0
   },
@@ -344,7 +344,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-27",
     "status": "ok",
-    "checked": 107,
+    "checked": 108,
     "regional": 22,
     "internships": 8,
     "matching": 3
@@ -388,7 +388,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-09-27",
     "status": "ok",
-    "checked": 338,
+    "checked": 336,
     "regional": 23,
     "internships": 12,
     "matching": 12

@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-27 (UTC)** · Scheduled every six hours
 
-**Active internships: 200** · **Added in last 24 hours: 1** · **Direct company finds: 69**
+**Active internships: 200** · **Added in last 24 hours: 0** · **Direct company finds: 69**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -22,7 +22,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
-| Klaviyo | 🆕 [AI Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003) | Boston, MA | 🔎 Direct find | Unknown | 2026-09-26 |
+| Klaviyo | [AI Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003) | Boston, MA | 🔎 Direct find | Unknown | 2026-09-26 |
 | Secretariat | [Intern, Damages &amp; Valuations (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4419648009) | Downtown Boston, MA | 🔎 Direct find | Unknown | 2026-09-24 |
 | AQR Capital Management | ◇ [Machine Learning Research Associate Intern 🎓](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | Greenwich, CT | SimplifyJobs | Unknown | 2026-09-23 |
 | Philips | ◇ [AI Engineer Intern - Enterprise AI &amp; Workflow Automation](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---AI-Engineer--Enterprise-AI---Workflow-Automation---Plymouth--MN---Summer-2027_591991) | Bedford, MA | SimplifyJobs | Unknown | 2026-09-22 |
@@ -279,7 +279,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | DraftKings | ok | 8 | 7 |
 | Klaviyo | ok | 17 | 2 |
 | Toast | ok | 345 | 0 |
-| WHOOP | ok | 159 | 0 |
+| WHOOP | ok | 157 | 0 |
 | Rapid7 | ok | 23 | 0 |
 | DEKA | error | — | — |
 | Beta Technologies | ok | 0 | 0 |
@@ -312,12 +312,12 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Synchrony | error | — | — |
 | Stanley Black &amp; Decker | ok | 291 | 0 |
 | Sikorsky | error | — | — |
-| The Hartford | ok | 107 | 3 |
+| The Hartford | ok | 108 | 3 |
 | BAE Systems | error | — | — |
 | IDEXX | ok | 67 | 0 |
 | WEX | ok | 57 | 0 |
 | Tyler Technologies | error | — | — |
-| GlobalFoundries | ok | 338 | 12 |
+| GlobalFoundries | ok | 336 | 12 |
 | Wellington Management | ok | 6 | 0 |
 | Trimble | ok | 15 | 0 |
 | TJX | ok | 35 | 0 |
