@@ -273,7 +273,7 @@
     "first_seen": "2026-09-24",
     "first_seen_at": "2026-09-24T05:03:15.450263+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false,
     "date_posted": null
   },
@@ -337,7 +337,7 @@
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T21:35:56.467885+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false
   },
   {
@@ -366,7 +366,7 @@
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T04:53:55.281549+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false
   },
   {
@@ -521,7 +521,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false,
     "date_posted": null
   },
@@ -555,7 +555,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T17:03:59.888715+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false,
     "date_posted": "2026-09-22"
   },
@@ -618,7 +618,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T17:03:59.888715+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false
   },
   {
@@ -1175,7 +1175,7 @@
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T04:45:37.976463+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 15,
+    "missing_runs": 16,
     "active": false
   },
   {
@@ -1235,7 +1235,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T21:00:02.043771+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false
   },
   {
@@ -1265,7 +1265,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T04:53:58.899861+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 19,
+    "missing_runs": 20,
     "active": false,
     "date_posted": null
   },
@@ -1297,7 +1297,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T16:33:12.492970+00:00",
     "last_seen": "2026-09-21",
-    "missing_runs": 22,
+    "missing_runs": 23,
     "active": false
   },
   {
@@ -1447,7 +1447,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 14,
+    "missing_runs": 15,
     "active": false
   },
   {
@@ -1512,7 +1512,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false,
     "date_posted": "2026-09-17"
   },
@@ -1542,7 +1542,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T11:52:43.542737+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 34,
+    "missing_runs": 35,
     "active": false
   },
   {
@@ -1607,7 +1607,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T21:30:18.667675+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 18,
+    "missing_runs": 19,
     "active": false
   },
   {
@@ -1797,7 +1797,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T17:08:02.592969+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false,
     "date_posted": "2026-09-16"
   },
@@ -1829,7 +1829,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T17:08:02.592969+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 16,
+    "missing_runs": 17,
     "active": false,
     "date_posted": null
   },
@@ -1863,7 +1863,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T11:49:07.698333+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false,
     "date_posted": "2026-09-16"
   },
@@ -1896,7 +1896,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T21:25:52.810195+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false
   },
   {
@@ -2000,7 +2000,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "11d",
+    "age": "12d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "General Technology",
@@ -2052,7 +2052,7 @@
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T17:08:25.780250+00:00",
     "last_seen": "2026-09-21",
-    "missing_runs": 17,
+    "missing_runs": 18,
     "active": false
   },
   {
@@ -2081,7 +2081,7 @@
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T17:08:25.780250+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 15,
+    "missing_runs": 16,
     "active": false
   },
   {
@@ -2142,7 +2142,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 32,
+    "missing_runs": 33,
     "active": false
   },
   {
@@ -2231,7 +2231,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false
   },
   {
@@ -2260,7 +2260,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false
   },
   {
@@ -2289,7 +2289,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false
   },
   {
@@ -2318,7 +2318,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T05:08:51.342152+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false
   },
   {
@@ -2348,7 +2348,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 44,
+    "missing_runs": 45,
     "active": false,
     "date_posted": null
   },
@@ -2691,7 +2691,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 47,
+    "missing_runs": 48,
     "active": false,
     "date_posted": null
   },
@@ -2840,7 +2840,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false
   },
   {
@@ -3078,7 +3078,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 51,
+    "missing_runs": 52,
     "active": false
   },
   {
@@ -3105,7 +3105,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 51,
+    "missing_runs": 52,
     "active": false
   },
   {
@@ -3132,7 +3132,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 51,
+    "missing_runs": 52,
     "active": false
   },
   {
@@ -3223,7 +3223,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 37,
+    "missing_runs": 38,
     "active": false
   },
   {
@@ -3302,7 +3302,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "25d",
+    "age": "26d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -3356,7 +3356,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 35,
+    "missing_runs": 36,
     "active": false,
     "date_posted": "2026-09-04"
   },
@@ -3386,7 +3386,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 36,
+    "missing_runs": 37,
     "active": false
   },
   {
@@ -3572,7 +3572,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 45,
+    "missing_runs": 46,
     "active": false
   },
   {
@@ -3599,7 +3599,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 45,
+    "missing_runs": 46,
     "active": false
   },
   {
@@ -3657,7 +3657,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 11,
+    "missing_runs": 12,
     "active": false
   },
   {
@@ -3684,7 +3684,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 45,
+    "missing_runs": 46,
     "active": false
   },
   {
@@ -3740,7 +3740,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 45,
+    "missing_runs": 46,
     "active": false
   },
   {
@@ -3831,7 +3831,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-14",
-    "missing_runs": 43,
+    "missing_runs": 44,
     "active": false
   },
   {
@@ -3858,7 +3858,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 45,
+    "missing_runs": 46,
     "active": false
   },
   {
@@ -3891,7 +3891,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:34:45.097133+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 10,
+    "missing_runs": 11,
     "active": false
   },
   {
@@ -3918,7 +3918,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 45,
+    "missing_runs": 46,
     "active": false
   },
   {
@@ -3981,7 +3981,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false,
     "date_posted": null
   },
@@ -4012,7 +4012,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false,
     "date_posted": null
   },
@@ -4043,7 +4043,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false,
     "date_posted": null
   },
@@ -4072,7 +4072,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 51,
+    "missing_runs": 52,
     "active": false,
     "date_posted": null
   },
@@ -4290,7 +4290,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 17,
+    "missing_runs": 18,
     "active": false
   },
   {
@@ -4386,7 +4386,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false
   },
   {
@@ -5042,7 +5042,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 53,
+    "missing_runs": 54,
     "active": false,
     "date_posted": null
   },
@@ -5070,7 +5070,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 51,
+    "missing_runs": 52,
     "active": false
   },
   {
@@ -5097,7 +5097,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 51,
+    "missing_runs": 52,
     "active": false
   },
   {
@@ -5188,7 +5188,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false,
     "date_posted": null
   },
@@ -6399,7 +6399,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 30,
+    "missing_runs": 31,
     "active": false
   },
   {
@@ -6749,7 +6749,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false
   },
   {
@@ -6780,7 +6780,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 6,
+    "missing_runs": 7,
     "active": false
   },
   {
@@ -6874,7 +6874,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 49,
+    "missing_runs": 50,
     "active": false
   },
   {
@@ -6935,7 +6935,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 51,
+    "missing_runs": 52,
     "active": false,
     "date_posted": null
   },
@@ -7093,7 +7093,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 9,
+    "missing_runs": 10,
     "active": false,
     "date_posted": null
   },
@@ -7498,7 +7498,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 28,
+    "missing_runs": 29,
     "active": false,
     "date_posted": null
   },

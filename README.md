@@ -271,7 +271,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 2087 | 141 |
+| SimplifyJobs | ok | 2061 | 141 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 133 | 0 |
 | Wayfair | error | — | — |
@@ -292,7 +292,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Liberty Mutual | error | — | — |
 | State Street | error | — | — |
 | Bose | error | — | — |
-| RTX | ok | 270 | 15 |
+| RTX | ok | 271 | 15 |
 | Raytheon | disabled | — | — |
 | GE Vernova | ok | 1320 | 0 |
 | iRobot | error | — | — |
@@ -324,7 +324,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Merck | ok | 229 | 6 |
 | Marvell | ok | 36 | 10 |
 | Manulife Financial | ok | 107 | 5 |
-| MKS Instruments | ok | 4 | 0 |
+| MKS Instruments | ok | 3 | 0 |
 | Lexington Medical | ok | 17 | 1 |
 | Kensho | ok | 2 | 2 |
 | Insulet | ok | 28 | 1 |
