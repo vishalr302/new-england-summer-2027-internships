@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-27",
     "status": "ok",
-    "checked": 2061,
-    "regional": 153,
-    "internships": 153,
-    "matching": 141
+    "checked": 2086,
+    "regional": 154,
+    "internships": 154,
+    "matching": 142
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-27",
     "status": "ok",
-    "checked": 1320,
+    "checked": 1319,
     "regional": 11,
     "internships": 0,
     "matching": 0
