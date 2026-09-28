@@ -30,6 +30,156 @@
     "active": true
   },
   {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Summer Research Program Microelectronics Intern 2027, Advanced Imager Technology (Group 08-87)",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Microelectronics-Intern-2027%2C-Advanced-Imager-Technology-%28Group-08-87%29-MA-02420/1434255100",
+    "date_posted": null,
+    "source": "generic",
+    "source_name": "MIT Lincoln Laboratory Careers",
+    "is_simplify": false,
+    "season_confidence": "medium",
+    "category": "Scientific Computing / Research",
+    "tags": [
+      "Scientific Computing / Research",
+      "General Technology"
+    ],
+    "source_id": "company:mit-lincoln-laboratory",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "MIT Lincoln Laboratory Careers"
+    ],
+    "source_ids": [
+      "company:mit-lincoln-laboratory"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-28",
+    "first_seen_at": "2026-09-28T14:11:20.824060+00:00",
+    "last_seen": "2026-09-28",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Summer Research Program Intern 2027, Systems & Architectures (Group 03-31)",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Systems-&-Architectures-%28Group-03-31%29-MA-02420/1434252800",
+    "date_posted": null,
+    "source": "generic",
+    "source_name": "MIT Lincoln Laboratory Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Scientific Computing / Research",
+    "tags": [
+      "Scientific Computing / Research",
+      "General Technology"
+    ],
+    "source_id": "company:mit-lincoln-laboratory",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "MIT Lincoln Laboratory Careers"
+    ],
+    "source_ids": [
+      "company:mit-lincoln-laboratory"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-28",
+    "first_seen_at": "2026-09-28T14:11:20.824060+00:00",
+    "last_seen": "2026-09-28",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Summer Research Program Intern 2027, Mechanical Engineering (Group 07-71)",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Mechanical-Engineering-%28Group-07-71%29-MA-02420/1434255400",
+    "date_posted": null,
+    "source": "generic",
+    "source_name": "MIT Lincoln Laboratory Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Scientific Computing / Research",
+    "tags": [
+      "Scientific Computing / Research",
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:mit-lincoln-laboratory",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "MIT Lincoln Laboratory Careers"
+    ],
+    "source_ids": [
+      "company:mit-lincoln-laboratory"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-28",
+    "first_seen_at": "2026-09-28T14:11:20.824060+00:00",
+    "last_seen": "2026-09-28",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Summer Research Program Intern 2027, Air Traffic Control Systems (Group 04-43)",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Air-Traffic-Control-Systems-%28Group-04-43%29-MA-02420/1434254800",
+    "date_posted": null,
+    "source": "generic",
+    "source_name": "MIT Lincoln Laboratory Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Scientific Computing / Research",
+    "tags": [
+      "Scientific Computing / Research",
+      "General Technology"
+    ],
+    "source_id": "company:mit-lincoln-laboratory",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "MIT Lincoln Laboratory Careers"
+    ],
+    "source_ids": [
+      "company:mit-lincoln-laboratory"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-28",
+    "first_seen_at": "2026-09-28T14:11:20.824060+00:00",
+    "last_seen": "2026-09-28",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Summer Research Program Intern 2027, Advanced Undersea Systems and Technology (Group 03-37)",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Undersea-Systems-and-Technology-%28Group-03-37%29-MA-02420/1434253400",
+    "date_posted": null,
+    "source": "generic",
+    "source_name": "MIT Lincoln Laboratory Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Scientific Computing / Research",
+    "tags": [
+      "Scientific Computing / Research",
+      "General Technology"
+    ],
+    "source_id": "company:mit-lincoln-laboratory",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "MIT Lincoln Laboratory Careers"
+    ],
+    "source_ids": [
+      "company:mit-lincoln-laboratory"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-28",
+    "first_seen_at": "2026-09-28T14:11:20.824060+00:00",
+    "last_seen": "2026-09-28",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
     "company": "Philips",
     "title": "Electrical Engineer Intern",
     "location": "Cambridge, MA",
@@ -303,21 +453,21 @@
     "first_seen": "2026-09-24",
     "first_seen_at": "2026-09-24T05:03:15.450263+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 16,
+    "missing_runs": 17,
     "active": false,
     "date_posted": null
   },
   {
     "company": "RTX",
-    "title": "Summer 2027 Software Engineering Intern (Onsite)",
-    "location": "US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G",
+    "title": "Software Engineer Intern",
+    "location": "East Hartford, CT",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645",
     "source": "workday",
     "source_name": "RTX Careers",
     "season": "summer-2027",
     "age": "6d",
-    "is_simplify": false,
-    "season_confidence": "high",
+    "is_simplify": true,
+    "season_confidence": "medium",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
@@ -334,12 +484,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
-    "date_posted": "2026-09-22",
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T04:53:55.281549+00:00",
     "last_seen": "2026-09-28",
     "missing_runs": 0,
-    "active": true
+    "active": true,
+    "date_posted": "2026-09-22"
   },
   {
     "company": "RTX",
@@ -551,7 +701,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-27",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -624,6 +774,39 @@
   },
   {
     "company": "RTX",
+    "title": "Methods Engineering Intern - Aftermarket & Sustainment Engineering",
+    "location": "East Hartford, CT",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01874535",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "season": "summer-2027",
+    "age": "6d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "matched",
+    "sources": [
+      "RTX Careers",
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "company:rtx",
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-22",
+    "first_seen_at": "2026-09-22T21:28:24.678147+00:00",
+    "last_seen": "2026-09-28",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": "2026-09-22"
+  },
+  {
+    "company": "RTX",
     "title": "Mechanical Engineering Intern (Summer 2027) (Onsite)",
     "location": "US-CT-EAST HARTFORD-L ~ 400 Main St ~ BLDG L",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-L--400-Main-St--BLDG-L/Mechanical-Engineering-Intern--Summer-2027---Onsite-_01872900",
@@ -681,39 +864,6 @@
     "active": true
   },
   {
-    "company": "RTX",
-    "title": "Aftermarket & Sustainment Engineering Methods Engineering Intern (Summer 2027)(Onsite)",
-    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01874535",
-    "source": "workday",
-    "source_name": "RTX Careers",
-    "season": "summer-2027",
-    "age": "6d",
-    "is_simplify": false,
-    "season_confidence": "high",
-    "category": "Hardware / Engineering",
-    "tags": [
-      "Hardware / Engineering"
-    ],
-    "source_id": "company:rtx",
-    "simplify_comparison": "matched",
-    "sources": [
-      "RTX Careers",
-      "SimplifyJobs"
-    ],
-    "source_ids": [
-      "company:rtx",
-      "github:SimplifyJobs"
-    ],
-    "in_simplify": true,
-    "date_posted": "2026-09-22",
-    "first_seen": "2026-09-22",
-    "first_seen_at": "2026-09-22T21:28:24.678147+00:00",
-    "last_seen": "2026-09-28",
-    "missing_runs": 0,
-    "active": true
-  },
-  {
     "company": "Philips",
     "title": "AI Engineer Intern - Enterprise AI & Workflow Automation",
     "location": "Colorado Springs, CO; Plymouth, MN; Bedford, MA; San Diego, CA",
@@ -741,7 +891,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-28",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true,
     "date_posted": null
   },
@@ -773,7 +923,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-27",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -805,7 +955,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-28",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true,
     "date_posted": null
   },
@@ -837,7 +987,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-27",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -869,7 +1019,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-27",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -901,7 +1051,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-27",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -932,7 +1082,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-28",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true,
     "date_posted": null
   },
@@ -1205,7 +1355,7 @@
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T04:45:37.976463+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 19,
+    "missing_runs": 20,
     "active": false
   },
   {
@@ -1295,7 +1445,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T04:53:58.899861+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 23,
+    "missing_runs": 24,
     "active": false,
     "date_posted": null
   },
@@ -1327,7 +1477,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T16:33:12.492970+00:00",
     "last_seen": "2026-09-21",
-    "missing_runs": 26,
+    "missing_runs": 27,
     "active": false
   },
   {
@@ -1477,7 +1627,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 18,
+    "missing_runs": 19,
     "active": false
   },
   {
@@ -1637,7 +1787,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T21:30:18.667675+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 22,
+    "missing_runs": 23,
     "active": false
   },
   {
@@ -1859,7 +2009,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T17:08:02.592969+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 20,
+    "missing_runs": 21,
     "active": false,
     "date_posted": null
   },
@@ -2030,7 +2180,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "General Technology",
@@ -2378,7 +2528,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 48,
+    "missing_runs": 49,
     "active": false,
     "date_posted": null
   },
@@ -2721,7 +2871,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 51,
+    "missing_runs": 52,
     "active": false,
     "date_posted": null
   },
@@ -2870,7 +3020,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false
   },
   {
@@ -3108,7 +3258,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 55,
+    "missing_runs": 56,
     "active": false
   },
   {
@@ -3135,7 +3285,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 55,
+    "missing_runs": 56,
     "active": false
   },
   {
@@ -3162,7 +3312,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 55,
+    "missing_runs": 56,
     "active": false
   },
   {
@@ -3253,7 +3403,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 41,
+    "missing_runs": 42,
     "active": false
   },
   {
@@ -3332,7 +3482,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "26d",
+    "age": "27d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -3386,7 +3536,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 39,
+    "missing_runs": 40,
     "active": false,
     "date_posted": "2026-09-04"
   },
@@ -3416,7 +3566,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 40,
+    "missing_runs": 41,
     "active": false
   },
   {
@@ -4011,7 +4161,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false,
     "date_posted": null
   },
@@ -4042,7 +4192,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false,
     "date_posted": null
   },
@@ -4073,7 +4223,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 8,
+    "missing_runs": 9,
     "active": false,
     "date_posted": null
   },
@@ -4102,7 +4252,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 55,
+    "missing_runs": 56,
     "active": false,
     "date_posted": null
   },
@@ -4320,7 +4470,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 21,
+    "missing_runs": 22,
     "active": false
   },
   {
@@ -4416,7 +4566,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 32,
+    "missing_runs": 33,
     "active": false
   },
   {
@@ -5072,7 +5222,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 57,
+    "missing_runs": 58,
     "active": false,
     "date_posted": null
   },
@@ -5100,7 +5250,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 55,
+    "missing_runs": 56,
     "active": false
   },
   {
@@ -5127,7 +5277,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 55,
+    "missing_runs": 56,
     "active": false
   },
   {
@@ -5218,7 +5368,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 17,
+    "missing_runs": 18,
     "active": false,
     "date_posted": null
   },
@@ -5548,7 +5698,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-28",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true,
     "date_posted": null
   },
@@ -5580,7 +5730,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-28",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true,
     "date_posted": null
   },
@@ -6429,7 +6579,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 34,
+    "missing_runs": 35,
     "active": false
   },
   {
@@ -6779,7 +6929,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 10,
+    "missing_runs": 11,
     "active": false
   },
   {
@@ -6810,7 +6960,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 10,
+    "missing_runs": 11,
     "active": false
   },
   {
@@ -6904,7 +7054,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 53,
+    "missing_runs": 54,
     "active": false
   },
   {
@@ -6965,7 +7115,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 55,
+    "missing_runs": 56,
     "active": false,
     "date_posted": null
   },
@@ -7123,7 +7273,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 13,
+    "missing_runs": 14,
     "active": false,
     "date_posted": null
   },
@@ -7528,7 +7678,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 32,
+    "missing_runs": 33,
     "active": false,
     "date_posted": null
   },
