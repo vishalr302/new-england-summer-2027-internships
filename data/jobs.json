@@ -1,6 +1,187 @@
 [
   {
     "company": "RTX",
+    "title": "Software Engineering  Intern (Summer 2027)",
+    "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Software Engineering",
+    "tags": [
+      "Software Engineering",
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "matched",
+    "sources": [
+      "RTX Careers",
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "company:rtx",
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "date_posted": "2026-09-29",
+    "first_seen": "2026-09-29",
+    "first_seen_at": "2026-09-29T22:24:18.212243+00:00",
+    "last_seen": "2026-09-29",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Mechanical Engineering Internship (Summer 2027)",
+    "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Mechanical-Engineering-Internship--Summer-2027-_01878666",
+    "date_posted": "2026-09-29",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-29",
+    "first_seen_at": "2026-09-29T22:24:18.212243+00:00",
+    "last_seen": "2026-09-29",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Electrical Design Intern (Summer 2027)",
+    "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Intern--Summer-2027-_01876761",
+    "date_posted": "2026-09-29",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-29",
+    "first_seen_at": "2026-09-29T22:24:18.212243+00:00",
+    "last_seen": "2026-09-29",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "RTX",
+    "title": "Electrical Design Engineer Intern (Summer 2027)",
+    "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254",
+    "date_posted": "2026-09-29",
+    "source": "workday",
+    "source_name": "RTX Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:rtx",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "RTX Careers"
+    ],
+    "source_ids": [
+      "company:rtx"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-29",
+    "first_seen_at": "2026-09-29T22:24:18.212243+00:00",
+    "last_seen": "2026-09-29",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Optical Engineering Intern - Optical Specialist (Summer 2027) - Group 78",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Optical-Engineering-Intern-Optical-Specialist-%28Summer-2027%29-Group-78-MA-02420/1435096800",
+    "date_posted": null,
+    "source": "generic",
+    "source_name": "MIT Lincoln Laboratory Careers",
+    "is_simplify": false,
+    "season_confidence": "high",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "company:mit-lincoln-laboratory",
+    "simplify_comparison": "no_exact_match",
+    "sources": [
+      "MIT Lincoln Laboratory Careers"
+    ],
+    "source_ids": [
+      "company:mit-lincoln-laboratory"
+    ],
+    "in_simplify": false,
+    "first_seen": "2026-09-29",
+    "first_seen_at": "2026-09-29T22:24:18.212243+00:00",
+    "last_seen": "2026-09-29",
+    "missing_runs": 0,
+    "active": true
+  },
+  {
+    "company": "Draper",
+    "title": "Requirements Engineering Intern - Digital Engineering",
+    "location": "Cambridge, MA; Lowell, MA; Huntsville, AL",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1",
+    "source": "github",
+    "source_name": "SimplifyJobs",
+    "season": "summer-2027",
+    "age": "0d",
+    "is_simplify": true,
+    "season_confidence": "medium",
+    "category": "Hardware / Engineering",
+    "tags": [
+      "Hardware / Engineering"
+    ],
+    "source_id": "github:SimplifyJobs",
+    "simplify_comparison": "matched",
+    "sources": [
+      "SimplifyJobs"
+    ],
+    "source_ids": [
+      "github:SimplifyJobs"
+    ],
+    "in_simplify": true,
+    "first_seen": "2026-09-29",
+    "first_seen_at": "2026-09-29T22:24:18.212243+00:00",
+    "last_seen": "2026-09-29",
+    "missing_runs": 0,
+    "active": true,
+    "date_posted": null
+  },
+  {
+    "company": "RTX",
     "title": "2027 Summer Intern, Systems Engineering (Onsite)",
     "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Summer-Intern--Systems-Engineering--Onsite-_01872108",
@@ -543,7 +724,7 @@
     "first_seen": "2026-09-24",
     "first_seen_at": "2026-09-24T05:03:15.450263+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 20,
+    "missing_runs": 21,
     "active": false,
     "date_posted": null
   },
@@ -552,9 +733,10 @@
     "title": "Summer 2027 Software Engineering Intern (Onsite)",
     "location": "US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645",
-    "date_posted": "2026-09-22",
     "source": "workday",
     "source_name": "RTX Careers",
+    "season": "summer-2027",
+    "age": "7d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
@@ -563,7 +745,7 @@
       "Hardware / Engineering"
     ],
     "source_id": "company:rtx",
-    "simplify_comparison": "no_exact_match",
+    "simplify_comparison": "matched",
     "sources": [
       "RTX Careers",
       "SimplifyJobs"
@@ -572,7 +754,8 @@
       "company:rtx",
       "github:SimplifyJobs"
     ],
-    "in_simplify": false,
+    "in_simplify": true,
+    "date_posted": "2026-09-22",
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T04:53:55.281549+00:00",
     "last_seen": "2026-09-29",
@@ -605,7 +788,7 @@
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T21:35:56.467885+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false
   },
   {
@@ -634,7 +817,7 @@
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T04:53:55.281549+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false
   },
   {
@@ -695,7 +878,7 @@
     "first_seen": "2026-09-23",
     "first_seen_at": "2026-09-23T04:53:55.281549+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -789,7 +972,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-27",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false,
     "date_posted": null
   },
@@ -823,7 +1006,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T17:03:59.888715+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 11,
+    "missing_runs": 12,
     "active": false,
     "date_posted": "2026-09-22"
   },
@@ -886,7 +1069,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T17:03:59.888715+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false
   },
   {
@@ -979,7 +1162,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-28",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false,
     "date_posted": null
   },
@@ -1075,7 +1258,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 1,
+    "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
@@ -1107,7 +1290,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-27",
-    "missing_runs": 5,
+    "missing_runs": 6,
     "active": false,
     "date_posted": null
   },
@@ -1139,7 +1322,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 1,
+    "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
@@ -1170,7 +1353,7 @@
     "first_seen": "2026-09-22",
     "first_seen_at": "2026-09-22T05:09:16.320026+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 1,
+    "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
@@ -1200,7 +1383,7 @@
     "first_seen": "2026-09-21",
     "first_seen_at": "2026-09-21T22:03:28.230929+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true
   },
   {
@@ -1289,7 +1472,7 @@
     "first_seen": "2026-09-21",
     "first_seen_at": "2026-09-21T22:03:28.230929+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 1,
+    "missing_runs": 0,
     "active": true,
     "date_posted": null
   },
@@ -1394,7 +1577,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "10d",
+    "age": "11d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -1443,7 +1626,7 @@
     "first_seen": "2026-09-19",
     "first_seen_at": "2026-09-19T04:45:37.976463+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 23,
+    "missing_runs": 24,
     "active": false
   },
   {
@@ -1503,7 +1686,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T21:00:02.043771+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 15,
+    "missing_runs": 16,
     "active": false
   },
   {
@@ -1533,7 +1716,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T04:53:58.899861+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 27,
+    "missing_runs": 28,
     "active": false,
     "date_posted": null
   },
@@ -1565,7 +1748,7 @@
     "first_seen": "2026-09-18",
     "first_seen_at": "2026-09-18T16:33:12.492970+00:00",
     "last_seen": "2026-09-21",
-    "missing_runs": 30,
+    "missing_runs": 31,
     "active": false
   },
   {
@@ -1715,7 +1898,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T17:08:22.510629+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 22,
+    "missing_runs": 23,
     "active": false
   },
   {
@@ -1808,7 +1991,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T11:52:43.542737+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 41,
+    "missing_runs": 42,
     "active": false
   },
   {
@@ -1873,7 +2056,7 @@
     "first_seen": "2026-09-17",
     "first_seen_at": "2026-09-17T21:30:18.667675+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 26,
+    "missing_runs": 27,
     "active": false
   },
   {
@@ -2063,7 +2246,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T17:08:02.592969+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false,
     "date_posted": "2026-09-16"
   },
@@ -2095,7 +2278,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T17:08:02.592969+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 24,
+    "missing_runs": 25,
     "active": false,
     "date_posted": null
   },
@@ -2129,7 +2312,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T11:49:07.698333+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 19,
+    "missing_runs": 20,
     "active": false,
     "date_posted": "2026-09-16"
   },
@@ -2162,7 +2345,7 @@
     "first_seen": "2026-09-16",
     "first_seen_at": "2026-09-16T21:25:52.810195+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 20,
+    "missing_runs": 21,
     "active": false
   },
   {
@@ -2202,7 +2385,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "12d",
+    "age": "13d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2318,7 +2501,7 @@
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T17:08:25.780250+00:00",
     "last_seen": "2026-09-21",
-    "missing_runs": 24,
+    "missing_runs": 25,
     "active": false
   },
   {
@@ -2347,7 +2530,7 @@
     "first_seen": "2026-09-15",
     "first_seen_at": "2026-09-15T17:08:25.780250+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 22,
+    "missing_runs": 23,
     "active": false
   },
   {
@@ -2358,7 +2541,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2497,7 +2680,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false
   },
   {
@@ -2526,7 +2709,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T21:55:01.389982+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false
   },
   {
@@ -2563,7 +2746,7 @@
     "title": "Engineering Services Intern (Summer 2027)",
     "location": "US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Engineering-Services-Intern--Summer-2027-_01872640",
-    "date_posted": "2026-09-22",
+    "date_posted": "2026-09-29",
     "source": "workday",
     "source_name": "RTX Careers",
     "is_simplify": false,
@@ -2583,9 +2766,9 @@
     "in_simplify": false,
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T05:08:51.342152+00:00",
-    "last_seen": "2026-09-25",
-    "missing_runs": 12,
-    "active": false
+    "last_seen": "2026-09-29",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "RTX",
@@ -2614,7 +2797,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 52,
+    "missing_runs": 53,
     "active": false,
     "date_posted": null
   },
@@ -2626,7 +2809,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -2658,7 +2841,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "General Technology",
@@ -2719,7 +2902,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "high",
     "category": "Hardware / Engineering",
@@ -2750,7 +2933,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -2781,7 +2964,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -2812,7 +2995,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -2843,7 +3026,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -2875,7 +3058,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -2906,7 +3089,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -2957,7 +3140,7 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-15",
-    "missing_runs": 55,
+    "missing_runs": 56,
     "active": false,
     "date_posted": null
   },
@@ -2969,7 +3152,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "14d",
+    "age": "15d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -3106,15 +3289,15 @@
     "first_seen": "2026-09-14",
     "first_seen_at": "2026-09-14T19:20:07.525326+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 16,
+    "missing_runs": 17,
     "active": false
   },
   {
     "company": "Avangrid / Iberdrola",
     "title": "2027 Technology, Cyber & Data Internship Program",
-    "location": "United States Of America, Connecticut, Orange; United States Of America, Maine, Augusta; United States Of America, Maine, Portland; United States Of America, Oregon, Portland; United States Of America, New York, Rochester; United States Of America, Massachusetts, Boston",
+    "location": "United States Of America, Connecticut, Orange; United States Of America, Oregon, Portland; United States Of America, New York, Rochester; United States Of America, Massachusetts, Boston",
     "url": "https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747",
-    "date_posted": "2026-08-28",
+    "date_posted": "2026-09-29",
     "source": "workday",
     "source_name": "Avangrid / Iberdrola Careers",
     "is_simplify": false,
@@ -3142,9 +3325,9 @@
   {
     "company": "Avangrid / Iberdrola",
     "title": "2027 Engineering & Project Delivery Internship Program",
-    "location": "United States Of America, Connecticut, Orange; United States Of America, Maine, Portland; United States Of America, New York, Binghamton; United States Of America, Oregon, Portland; United States Of America, New York, Rochester; United States Of America, Massachusetts, Boston",
+    "location": "United States Of America, Connecticut, Orange; United States Of America, New York, Binghamton; United States Of America, Oregon, Portland; United States Of America, New York, Rochester; United States Of America, Massachusetts, Boston",
     "url": "https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Engineering---Project-Delivery-Internship-Program_R-32746",
-    "date_posted": "2026-08-28",
+    "date_posted": "2026-09-29",
     "source": "workday",
     "source_name": "Avangrid / Iberdrola Careers",
     "is_simplify": false,
@@ -3344,7 +3527,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 59,
+    "missing_runs": 60,
     "active": false
   },
   {
@@ -3371,7 +3554,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 59,
+    "missing_runs": 60,
     "active": false
   },
   {
@@ -3398,7 +3581,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 59,
+    "missing_runs": 60,
     "active": false
   },
   {
@@ -3489,7 +3672,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 43,
+    "missing_runs": 44,
     "active": false
   },
   {
@@ -3622,7 +3805,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-18",
-    "missing_runs": 43,
+    "missing_runs": 44,
     "active": false,
     "date_posted": "2026-09-04"
   },
@@ -3652,7 +3835,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-17",
-    "missing_runs": 44,
+    "missing_runs": 45,
     "active": false
   },
   {
@@ -3838,7 +4021,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 52,
+    "missing_runs": 53,
     "active": false
   },
   {
@@ -3865,7 +4048,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 52,
+    "missing_runs": 53,
     "active": false
   },
   {
@@ -3950,7 +4133,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 52,
+    "missing_runs": 53,
     "active": false
   },
   {
@@ -4006,7 +4189,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 52,
+    "missing_runs": 53,
     "active": false
   },
   {
@@ -4097,7 +4280,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-14",
-    "missing_runs": 50,
+    "missing_runs": 51,
     "active": false
   },
   {
@@ -4124,7 +4307,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 52,
+    "missing_runs": 53,
     "active": false
   },
   {
@@ -4132,7 +4315,7 @@
     "title": "Commercial Engines Business Intern (Summer 2027)",
     "location": "US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Business-Intern--Summer-2027-_01873413",
-    "date_posted": "2026-09-20",
+    "date_posted": "2026-09-29",
     "source": "workday",
     "source_name": "RTX Careers",
     "is_simplify": false,
@@ -4156,9 +4339,9 @@
     "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:34:45.097133+00:00",
-    "last_seen": "2026-09-23",
-    "missing_runs": 17,
-    "active": false
+    "last_seen": "2026-09-29",
+    "missing_runs": 0,
+    "active": true
   },
   {
     "company": "RTX",
@@ -4184,7 +4367,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T06:04:25.446048+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 52,
+    "missing_runs": 53,
     "active": false
   },
   {
@@ -4247,7 +4430,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false,
     "date_posted": null
   },
@@ -4278,7 +4461,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false,
     "date_posted": null
   },
@@ -4309,7 +4492,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-26",
-    "missing_runs": 12,
+    "missing_runs": 13,
     "active": false,
     "date_posted": null
   },
@@ -4338,7 +4521,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 59,
+    "missing_runs": 60,
     "active": false,
     "date_posted": null
   },
@@ -4556,7 +4739,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-22",
-    "missing_runs": 25,
+    "missing_runs": 26,
     "active": false
   },
   {
@@ -4652,7 +4835,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 36,
+    "missing_runs": 37,
     "active": false
   },
   {
@@ -4743,7 +4926,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 1,
+    "missing_runs": 0,
     "active": true
   },
   {
@@ -4770,12 +4953,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
+    "date_posted": null,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-29",
     "missing_runs": 0,
-    "active": true,
-    "date_posted": null
+    "active": true
   },
   {
     "company": "Marvell",
@@ -4867,7 +5050,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 1,
+    "missing_runs": 0,
     "active": true
   },
   {
@@ -5036,10 +5219,9 @@
     "title": "Advanced Packaging Intern, MS - Summer 2027",
     "location": "Santa Clara, CA; Chandler, AZ; Austin, TX; Burlington, VT; Westborough, MA; Westlake Village, CA",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1",
+    "date_posted": "2026-09-05",
     "source": "workday",
     "source_name": "Marvell Careers",
-    "season": "summer-2027",
-    "age": "24d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Hardware / Engineering",
@@ -5047,7 +5229,7 @@
       "Hardware / Engineering"
     ],
     "source_id": "company:marvell",
-    "simplify_comparison": "matched",
+    "simplify_comparison": "no_exact_match",
     "sources": [
       "Marvell Careers",
       "SimplifyJobs"
@@ -5056,8 +5238,7 @@
       "company:marvell",
       "github:SimplifyJobs"
     ],
-    "in_simplify": true,
-    "date_posted": "2026-09-05",
+    "in_simplify": false,
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-29",
@@ -5125,7 +5306,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 1,
+    "missing_runs": 0,
     "active": true
   },
   {
@@ -5312,7 +5493,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 61,
+    "missing_runs": 62,
     "active": false,
     "date_posted": null
   },
@@ -5340,7 +5521,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 59,
+    "missing_runs": 60,
     "active": false
   },
   {
@@ -5367,7 +5548,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T17:40:21.182765+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 59,
+    "missing_runs": 60,
     "active": false
   },
   {
@@ -5458,7 +5639,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-23",
-    "missing_runs": 21,
+    "missing_runs": 22,
     "active": false,
     "date_posted": null
   },
@@ -5470,7 +5651,7 @@
     "source": "greenhouse",
     "source_name": "Klaviyo Careers",
     "season": "summer-2027",
-    "age": "16d",
+    "age": "17d",
     "is_simplify": false,
     "season_confidence": "high",
     "category": "Software Engineering",
@@ -5591,7 +5772,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 1,
+    "missing_runs": 2,
     "active": true,
     "date_posted": null
   },
@@ -5788,7 +5969,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-28",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false,
     "date_posted": null
   },
@@ -5820,7 +6001,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-28",
-    "missing_runs": 4,
+    "missing_runs": 5,
     "active": false,
     "date_posted": null
   },
@@ -6429,7 +6610,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "17d",
+    "age": "18d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -6461,7 +6642,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "17d",
+    "age": "18d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Data Science",
@@ -6492,7 +6673,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "17d",
+    "age": "18d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -6523,7 +6704,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "17d",
+    "age": "18d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -6554,7 +6735,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "17d",
+    "age": "18d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -6588,7 +6769,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "17d",
+    "age": "18d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -6619,7 +6800,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "17d",
+    "age": "18d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Statistics / Analytics",
@@ -6669,7 +6850,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 38,
+    "missing_runs": 39,
     "active": false
   },
   {
@@ -7019,7 +7200,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 14,
+    "missing_runs": 15,
     "active": false
   },
   {
@@ -7050,7 +7231,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-25",
-    "missing_runs": 14,
+    "missing_runs": 15,
     "active": false
   },
   {
@@ -7085,21 +7266,21 @@
   },
   {
     "company": "CACI",
-    "title": "Software Engineering Co-op - Spring & Summer 2027",
-    "location": "Danbury, CT, US",
+    "title": "Software Engineer Co-op - Spring & Summer 2027",
+    "location": "Danbury, CT",
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
-    "source": "workday",
-    "source_name": "CACI Careers",
+    "source": "github",
+    "source_name": "SimplifyJobs",
     "season": "summer-2027",
     "age": "29d",
-    "is_simplify": false,
+    "is_simplify": true,
     "season_confidence": "high",
     "category": "Software Engineering",
     "tags": [
       "Software Engineering",
       "Hardware / Engineering"
     ],
-    "source_id": "company:caci",
+    "source_id": "github:SimplifyJobs",
     "simplify_comparison": "matched",
     "sources": [
       "CACI Careers",
@@ -7110,12 +7291,12 @@
       "github:SimplifyJobs"
     ],
     "in_simplify": true,
-    "date_posted": "2026-08-31",
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-29",
     "missing_runs": 0,
-    "active": true
+    "active": true,
+    "date_posted": "2026-08-31"
   },
   {
     "company": "CACI",
@@ -7144,7 +7325,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T18:16:47.257952+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 57,
+    "missing_runs": 58,
     "active": false
   },
   {
@@ -7177,7 +7358,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-29",
-    "missing_runs": 0,
+    "missing_runs": 1,
     "active": true,
     "date_posted": "2026-09-10"
   },
@@ -7206,7 +7387,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-13",
-    "missing_runs": 59,
+    "missing_runs": 60,
     "active": false,
     "date_posted": null
   },
@@ -7364,16 +7545,16 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-24",
-    "missing_runs": 17,
+    "missing_runs": 18,
     "active": false,
     "date_posted": null
   },
   {
     "company": "Avangrid / Iberdrola",
     "title": "2027 Electrical Engineering Internship Program",
-    "location": "United States Of America, Connecticut, Orange; United States Of America, Maine, Portland; United States Of America, New York, Binghamton; United States Of America, Oregon, Portland; United States Of America, Maine, Augusta; United States Of America, New York, Rochester; United States Of America, Massachusetts, Boston",
+    "location": "United States Of America, Connecticut, Orange; United States Of America, New York, Binghamton; United States Of America, Oregon, Portland; United States Of America, New York, Rochester; United States Of America, Massachusetts, Boston",
     "url": "https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Electrical-Engineering-Internship-Program_R-32708",
-    "date_posted": "2026-08-28",
+    "date_posted": "2026-09-29",
     "source": "workday",
     "source_name": "Avangrid / Iberdrola Careers",
     "is_simplify": false,
@@ -7436,7 +7617,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "20d",
+    "age": "21d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Hardware / Engineering",
@@ -7769,7 +7950,7 @@
     "first_seen": "2026-09-13",
     "first_seen_at": "2026-09-13T05:51:29.436977+00:00",
     "last_seen": "2026-09-19",
-    "missing_runs": 36,
+    "missing_runs": 37,
     "active": false,
     "date_posted": null
   },
@@ -8217,7 +8398,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "27d",
+    "age": "28d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
@@ -8249,7 +8430,7 @@
     "source": "github",
     "source_name": "SimplifyJobs",
     "season": "summer-2027",
-    "age": "27d",
+    "age": "28d",
     "is_simplify": true,
     "season_confidence": "medium",
     "category": "Software Engineering",
