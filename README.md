@@ -86,7 +86,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Citizens Financial Group | ◇ [Business Insights Intern - Multiple Teams 🎓](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283) | Boston, MA; Johnston, RI | SimplifyJobs | Unknown | 2026-09-13 |
 | Cigna Group | ◇ [Data &amp; Analytics Engineering Intern - Technology Development Program](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533) | Bloomfield, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | Cigna Group | [Analytics Leadership Development Program (ALDP) Summer Internship](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | Cigna Group Careers, SimplifyJobs | 2026-09-08 · 21 days ago | 2026-09-13 |
-| CACI | [Configuration Control/Data Management Co-op - Spring &amp; Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440) | Danbury, CT, US | CACI Careers, SimplifyJobs | 2026-09-10 · 19 days ago | 2026-09-13 |
+| CACI | ◇ [Configuration Control/Data Management Co-op - Engineering Department](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440) | Danbury, CT | CACI Careers, SimplifyJobs | 2026-09-10 · 19 days ago | 2026-09-13 |
 | Arch Capital Group | ◇ [Data and Analytics Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845) | Farmington, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | AQR Capital Management | ◇ [Quantitative Prediction Markets Research Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Greenwich, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Data Analyst Intern/Co-op 🎓](https://careers.amd.com/jobs/91183?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
@@ -96,8 +96,8 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Company | Role | Location | Source | Posted / age | First tracked |
 | --- | --- | --- | --- | --- | --- |
 | Boston Scientific | ◇ [Software Development Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813567960) | Waltham, MA | SimplifyJobs | Unknown | 2026-09-25 |
-| Boston Scientific | ◇ [Software Development Engineer Co-op](https://bostonscientific.eightfold.ai/careers/job/563602813567963) | Waltham, MA | SimplifyJobs | Unknown | 2026-09-25 |
-| RTX | [Summer 2027 Software Engineering Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645) | US-CT-EAST HARTFORD-G | RTX Careers, SimplifyJobs | 2026-09-22 · 7 days ago | 2026-09-23 |
+| Boston Scientific | ◇ [Software Development Engineer Co-op](https://bostonscientific.eightfold.ai/careers/job/563602813674232) | Waltham, MA | SimplifyJobs | Unknown | 2026-09-25 |
+| RTX | [Summer 2027 Software Engineering Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645) | US-CT-EAST HARTFORD-G | 🔎 Direct find | 2026-09-22 · 7 days ago | 2026-09-23 |
 | RTX | [Repair Structures Intern (Summer 2027) (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Repair-Structures-Intern--Summer-2027---Onsite-_01876147) | US-CT-EAST HARTFORD-ETC | 🔎 Direct find | 2026-09-22 · 7 days ago | 2026-09-22 |
 | MIT Lincoln Laboratory | [Software and Electronics Engineering Intern (Summer 2027) - Group 76](https://careers.ll.mit.edu/job/Lexington-Software-and-Electronics-Engineering-Intern-%28Summer-2027%29-Group-76-MA-02420/1431440000) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-21 |
 | Fidelity Investments | ◇ [Undergraduate Internship - Software](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524) | Boston, MA | SimplifyJobs | Unknown | 2026-09-21 |
@@ -215,7 +215,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Marvell | [Physical Design Engineer Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1) | Burlington, VT; Westborough, MA | 🔎 Direct find | 2026-09-04 · 25 days ago | 2026-09-13 |
 | Marvell | [Physical Design Engineer Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1) | Burlington, VT; Westborough, MA | 🔎 Direct find | 2026-09-04 · 25 days ago | 2026-09-13 |
 | Marvell | [Design for Test Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511) | Westborough, MA | 🔎 Direct find | 2026-09-04 · 25 days ago | 2026-09-13 |
-| Marvell | [Advanced Packaging Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1) | Burlington, VT; Westborough, MA | 🔎 Direct find | 2026-09-05 · 24 days ago | 2026-09-13 |
+| Marvell | [Advanced Packaging Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1) | Burlington, VT; Westborough, MA | Marvell Careers, SimplifyJobs | 2026-09-05 · 24 days ago | 2026-09-13 |
 | Lexington Medical | [Mechanical Engineering Intern](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400185008) | Bedford, MA | 🔎 Direct find | Unknown | 2026-09-13 |
 | Avangrid / Iberdrola | ◇ [2027 Electrical Engineering Internship Program](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Electrical-Engineering-Internship-Program_R-32708) | United States Of America, Connecticut, Orange; United States Of America, Maine, Portland; United States Of America, Maine, Augusta; United States Of America, Massachusetts, Boston | 🔎 Direct find | 2026-08-28 · 32 days ago | 2026-09-13 |
 | Anduril | [2027 Mechanical Engineer Intern](https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) | Boston, Massachusetts, United States | 🔎 Direct find | Unknown | 2026-09-13 |
@@ -273,25 +273,25 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 ## Source health
 
-62 sources completed · 21 coverage gaps · 3 disabled entries
+61 sources completed · 22 coverage gaps · 3 disabled entries
 
 <details>
 <summary>View all monitored sources</summary>
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 2019 | 137 |
+| SimplifyJobs | ok | 1946 | 124 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 131 | 0 |
 | Wayfair | error | — | — |
 | DraftKings | ok | 8 | 7 |
 | Klaviyo | ok | 17 | 2 |
-| Toast | ok | 340 | 0 |
+| Toast | ok | 337 | 0 |
 | WHOOP | ok | 153 | 0 |
-| Rapid7 | ok | 23 | 0 |
+| Rapid7 | ok | 24 | 0 |
 | DEKA | error | — | — |
 | Beta Technologies | ok | 0 | 0 |
-| Biogen | ok | 222 | 0 |
+| Biogen | ok | 221 | 0 |
 | Akamai | error | — | — |
 | Boston Dynamics | ok | 76 | 0 |
 | MathWorks | error | — | — |
@@ -301,36 +301,36 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Liberty Mutual | error | — | — |
 | State Street | error | — | — |
 | Bose | error | — | — |
-| RTX | ok | 345 | 20 |
+| RTX | ok | 351 | 20 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1302 | 0 |
+| GE Vernova | error | — | — |
 | iRobot | error | — | — |
 | Analog Devices | ok | 490 | 0 |
-| Thermo Fisher Scientific | error | — | — |
+| Thermo Fisher Scientific | ok | 1371 | 0 |
 | Draper | error | — | — |
-| MIT Lincoln Laboratory | ok | 200 | 13 |
+| MIT Lincoln Laboratory | ok | 199 | 13 |
 | CVS Health | error | — | — |
 | Citizens | error | — | — |
 | FM | error | — | — |
-| Hasbro | ok | 123 | 0 |
+| Hasbro | ok | 124 | 0 |
 | Textron | error | — | — |
 | Amica | error | — | — |
 | Pratt &amp; Whitney | disabled | — | — |
-| Travelers | ok | 244 | 2 |
+| Travelers | ok | 241 | 2 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 287 | 0 |
+| Stanley Black &amp; Decker | error | — | — |
 | Sikorsky | error | — | — |
-| The Hartford | ok | 104 | 3 |
+| The Hartford | ok | 105 | 3 |
 | BAE Systems | error | — | — |
-| IDEXX | ok | 66 | 0 |
+| IDEXX | ok | 68 | 0 |
 | WEX | ok | 51 | 0 |
 | Tyler Technologies | error | — | — |
-| GlobalFoundries | ok | 364 | 13 |
-| Wellington Management | ok | 41 | 0 |
+| GlobalFoundries | ok | 363 | 13 |
+| Wellington Management | ok | 42 | 0 |
 | Trimble | ok | 15 | 0 |
 | TJX | ok | 35 | 0 |
 | S&amp;P Global | ok | 12 | 2 |
-| Merck | ok | 232 | 7 |
+| Merck | ok | 235 | 7 |
 | Marvell | ok | 38 | 11 |
 | Manulife Financial | ok | 108 | 5 |
 | MKS Instruments | ok | 3 | 0 |
@@ -341,13 +341,13 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | HPR (Hyannis Port Research) | ok | 10 | 2 |
 | GE Aerospace | ok | 54 | 0 |
 | Cox | ok | 28 | 2 |
-| Cigna Group | ok | 24 | 2 |
+| Cigna Group | ok | 25 | 2 |
 | Castleton Commodities International | ok | 2 | 1 |
 | Capital One | ok | 21 | 0 |
-| CACI | ok | 48 | 3 |
+| CACI | ok | 47 | 2 |
 | Axon | ok | 2 | 1 |
 | Arch Capital Group | ok | 15 | 0 |
-| Anduril | ok | 2380 | 4 |
+| Anduril | ok | 2381 | 4 |
 | Ameriprise Financial | ok | 21 | 1 |
 | Adobe | ok | 12 | 1 |
 | Walleye Capital | ok | 5 | 2 |

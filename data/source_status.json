@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 2019,
-    "regional": 150,
-    "internships": 150,
-    "matching": 137
+    "checked": 1946,
+    "regional": 135,
+    "internships": 135,
+    "matching": 124
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -61,7 +61,7 @@
     "name": "Toast",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 340,
+    "checked": 337,
     "regional": 25,
     "internships": 0,
     "matching": 0
@@ -81,7 +81,7 @@
     "name": "Rapid7",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 23,
+    "checked": 24,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -108,7 +108,7 @@
     "name": "Biogen",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 222,
+    "checked": 221,
     "regional": 90,
     "internships": 5,
     "matching": 0
@@ -187,7 +187,7 @@
     "name": "RTX",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 345,
+    "checked": 351,
     "regional": 39,
     "internships": 38,
     "matching": 20
@@ -203,11 +203,8 @@
     "source_id": "company:ge-vernova",
     "name": "GE Vernova",
     "checked_at": "2026-09-29",
-    "status": "ok",
-    "checked": 1302,
-    "regional": 11,
-    "internships": 0,
-    "matching": 0
+    "status": "error",
+    "error": "KeyError: 'title'"
   },
   {
     "source_id": "company:irobot",
@@ -230,8 +227,11 @@
     "source_id": "company:thermo-fisher-scientific",
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-09-29",
-    "status": "error",
-    "error": "KeyError: 'externalPath'"
+    "status": "ok",
+    "checked": 1371,
+    "regional": 55,
+    "internships": 7,
+    "matching": 0
   },
   {
     "source_id": "company:draper",
@@ -245,8 +245,8 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 200,
-    "regional": 197,
+    "checked": 199,
+    "regional": 196,
     "internships": 18,
     "matching": 13
   },
@@ -276,7 +276,7 @@
     "name": "Hasbro",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 123,
+    "checked": 124,
     "regional": 32,
     "internships": 0,
     "matching": 0
@@ -307,8 +307,8 @@
     "name": "Travelers",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 244,
-    "regional": 31,
+    "checked": 241,
+    "regional": 29,
     "internships": 10,
     "matching": 2
   },
@@ -323,11 +323,8 @@
     "source_id": "company:stanley-black-and-decker",
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-29",
-    "status": "ok",
-    "checked": 287,
-    "regional": 10,
-    "internships": 0,
-    "matching": 0
+    "status": "error",
+    "error": "ValueError: Workday repeated a page; refusing incomplete results"
   },
   {
     "source_id": "company:sikorsky",
@@ -341,7 +338,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 104,
+    "checked": 105,
     "regional": 22,
     "internships": 8,
     "matching": 3
@@ -358,7 +355,7 @@
     "name": "IDEXX",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 66,
+    "checked": 68,
     "regional": 11,
     "internships": 0,
     "matching": 0
@@ -385,7 +382,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 364,
+    "checked": 363,
     "regional": 25,
     "internships": 14,
     "matching": 13
@@ -395,7 +392,7 @@
     "name": "Wellington Management",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 41,
+    "checked": 42,
     "regional": 37,
     "internships": 34,
     "matching": 0
@@ -435,7 +432,7 @@
     "name": "Merck",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 232,
+    "checked": 235,
     "regional": 23,
     "internships": 23,
     "matching": 7
@@ -545,7 +542,7 @@
     "name": "Cigna Group",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 24,
+    "checked": 25,
     "regional": 11,
     "internships": 11,
     "matching": 2
@@ -575,10 +572,10 @@
     "name": "CACI",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 48,
-    "regional": 5,
-    "internships": 5,
-    "matching": 3
+    "checked": 47,
+    "regional": 4,
+    "internships": 4,
+    "matching": 2
   },
   {
     "source_id": "company:axon",
@@ -605,8 +602,8 @@
     "name": "Anduril",
     "checked_at": "2026-09-29",
     "status": "ok",
-    "checked": 2380,
-    "regional": 237,
+    "checked": 2381,
+    "regional": 235,
     "internships": 10,
     "matching": 4
   },
@@ -686,7 +683,7 @@
     "checked_at": "2026-09-29",
     "status": "ok",
     "checked": 209,
-    "regional": 121,
+    "regional": 122,
     "internships": 12,
     "matching": 0
   },
