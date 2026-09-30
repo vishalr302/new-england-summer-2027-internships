@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 1990,
-    "regional": 145,
-    "internships": 145,
-    "matching": 133
+    "checked": 2000,
+    "regional": 143,
+    "internships": 143,
+    "matching": 131
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -24,7 +24,7 @@
     "name": "HubSpot",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 129,
+    "checked": 128,
     "regional": 5,
     "internships": 0,
     "matching": 0
@@ -62,7 +62,7 @@
     "checked_at": "2026-09-30",
     "status": "ok",
     "checked": 339,
-    "regional": 25,
+    "regional": 24,
     "internships": 0,
     "matching": 0
   },
@@ -142,7 +142,7 @@
     "name": "Moderna",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 137,
+    "checked": 136,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -187,7 +187,7 @@
     "name": "RTX",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 366,
+    "checked": 363,
     "regional": 47,
     "internships": 46,
     "matching": 22
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 1261,
+    "checked": 1247,
     "regional": 13,
     "internships": 1,
     "matching": 0
@@ -248,8 +248,8 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 204,
-    "regional": 201,
+    "checked": 205,
+    "regional": 202,
     "internships": 20,
     "matching": 14
   },
@@ -310,9 +310,9 @@
     "name": "Travelers",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 244,
-    "regional": 28,
-    "internships": 9,
+    "checked": 243,
+    "regional": 27,
+    "internships": 8,
     "matching": 2
   },
   {
@@ -327,7 +327,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 287,
+    "checked": 284,
     "regional": 10,
     "internships": 0,
     "matching": 0
@@ -344,7 +344,7 @@
     "name": "The Hartford",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 103,
+    "checked": 105,
     "regional": 20,
     "internships": 6,
     "matching": 1
@@ -371,7 +371,7 @@
     "name": "WEX",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 50,
+    "checked": 51,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -448,7 +448,7 @@
     "name": "Marvell",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 41,
+    "checked": 38,
     "regional": 11,
     "internships": 11,
     "matching": 11
@@ -458,7 +458,7 @@
     "name": "Manulife Financial",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 109,
+    "checked": 110,
     "regional": 18,
     "internships": 13,
     "matching": 5
@@ -608,8 +608,8 @@
     "name": "Anduril",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 2396,
-    "regional": 238,
+    "checked": 2397,
+    "regional": 239,
     "internships": 10,
     "matching": 4
   },
@@ -648,7 +648,7 @@
     "name": "Secretariat",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 77,
+    "checked": 76,
     "regional": 8,
     "internships": 2,
     "matching": 2
@@ -688,7 +688,7 @@
     "name": "Formlabs",
     "checked_at": "2026-09-30",
     "status": "ok",
-    "checked": 219,
+    "checked": 220,
     "regional": 131,
     "internships": 12,
     "matching": 0

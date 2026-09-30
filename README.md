@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-09-30 (UTC)** · Scheduled every six hours
 
-**Active internships: 214** · **Added in last 24 hours: 6** · **Direct company finds: 87**
+**Active internships: 212** · **Added in last 24 hours: 6** · **Direct company finds: 86**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **88 of 214 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **86 of 212 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -87,7 +87,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Citizens Financial Group | ◇ [Business Insights Intern - Multiple Teams 🎓](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283) | Boston, MA; Johnston, RI | SimplifyJobs | Unknown | 2026-09-13 |
 | Cigna Group | ◇ [Data &amp; Analytics Engineering Intern - Technology Development Program](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533) | Bloomfield, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | Cigna Group | [Analytics Leadership Development Program (ALDP) Summer Internship](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | Cigna Group Careers, SimplifyJobs | 2026-09-08 · 22 days ago | 2026-09-13 |
-| CACI | ◇ [Configuration Control/Data Management Co-op - Engineering Department](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440) | Danbury, CT | CACI Careers, SimplifyJobs | 2026-09-10 · 20 days ago | 2026-09-13 |
 | Arch Capital Group | ◇ [Data and Analytics Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845) | Farmington, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | AQR Capital Management | ◇ [Quantitative Prediction Markets Research Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Greenwich, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Data Analyst Intern/Co-op 🎓](https://careers.amd.com/jobs/91183?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
@@ -200,7 +199,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | MIT Lincoln Laboratory | [Optical Engineering Intern - Optical Engineer (Summer 2027) - Group 78](https://careers.ll.mit.edu/job/Lexington-Optical-Engineering-Intern-Optical-Engineer-%28Summer-2027%29-Group-78-MA-02420/1433573800) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-24 |
 | RTX | [Aftermarket &amp; Sustainment Engineering Repair Engineering Intern (Summer 2027) (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Repair-Engineering-Intern--Summer-2027---Onsite-_01874527) | US-CT-EAST HARTFORD-ETC | 🔎 Direct find | 2026-09-22 · 8 days ago | 2026-09-22 |
 | RTX | [Aftermarket &amp; Sustainment Engineering Methods Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01874535) | US-CT-EAST HARTFORD-ETC | RTX Careers, SimplifyJobs | 2026-09-22 · 8 days ago | 2026-09-22 |
-| RTX | [Semiconductor Foundry Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Semiconductor-Foundry-Intern--Summer-2027-_01875840) | US-MA-ANDOVER-AR2 | 🔎 Direct find | 2026-09-21 · 9 days ago | 2026-09-21 |
 | RTX | [DO Process Engineering Internship - Summer 2027 (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/DO-Process-Engineering-Internship---Summer-2027--Onsite-_01872686) | US-CT-MIDDLETOWN-220A | 🔎 Direct find | 2026-09-21 · 9 days ago | 2026-09-21 |
 | Corning | ◇ [Imaging Sciences Engineer Intern](https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900?ats=successfactors) | Keene, NH | SimplifyJobs | Unknown | 2026-09-19 |
 | LSEG | ◇ [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1) | Boston, MA | SimplifyJobs | Unknown | 2026-09-18 |
@@ -286,9 +284,9 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 1990 | 133 |
+| SimplifyJobs | ok | 2000 | 131 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
-| HubSpot | ok | 129 | 0 |
+| HubSpot | ok | 128 | 0 |
 | Wayfair | error | — | — |
 | DraftKings | ok | 8 | 7 |
 | Klaviyo | ok | 17 | 2 |
@@ -301,20 +299,20 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Akamai | error | — | — |
 | Boston Dynamics | ok | 78 | 0 |
 | MathWorks | error | — | — |
-| Moderna | ok | 137 | 0 |
+| Moderna | ok | 136 | 0 |
 | Vertex Pharmaceuticals | error | — | — |
 | Fidelity Investments | error | — | — |
 | Liberty Mutual | error | — | — |
 | State Street | error | — | — |
 | Bose | error | — | — |
-| RTX | ok | 366 | 22 |
+| RTX | ok | 363 | 22 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1261 | 0 |
+| GE Vernova | ok | 1247 | 0 |
 | iRobot | error | — | — |
 | Analog Devices | ok | 492 | 0 |
 | Thermo Fisher Scientific | ok | 1398 | 0 |
 | Draper | error | — | — |
-| MIT Lincoln Laboratory | ok | 204 | 14 |
+| MIT Lincoln Laboratory | ok | 205 | 14 |
 | CVS Health | error | — | — |
 | Citizens | error | — | — |
 | FM | error | — | — |
@@ -322,14 +320,14 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Textron | error | — | — |
 | Amica | error | — | — |
 | Pratt &amp; Whitney | disabled | — | — |
-| Travelers | ok | 244 | 2 |
+| Travelers | ok | 243 | 2 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 287 | 0 |
+| Stanley Black &amp; Decker | ok | 284 | 0 |
 | Sikorsky | error | — | — |
-| The Hartford | ok | 103 | 1 |
+| The Hartford | ok | 105 | 1 |
 | BAE Systems | error | — | — |
 | IDEXX | ok | 66 | 0 |
-| WEX | ok | 50 | 0 |
+| WEX | ok | 51 | 0 |
 | Tyler Technologies | error | — | — |
 | GlobalFoundries | ok | 356 | 13 |
 | Wellington Management | ok | 42 | 0 |
@@ -337,8 +335,8 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | TJX | ok | 35 | 0 |
 | S&amp;P Global | ok | 12 | 2 |
 | Merck | ok | 233 | 7 |
-| Marvell | ok | 41 | 11 |
-| Manulife Financial | ok | 109 | 5 |
+| Marvell | ok | 38 | 11 |
+| Manulife Financial | ok | 110 | 5 |
 | MKS Instruments | ok | 3 | 0 |
 | Lexington Medical | ok | 18 | 1 |
 | Kensho | ok | 2 | 2 |
@@ -353,15 +351,15 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | CACI | ok | 45 | 1 |
 | Axon | ok | 2 | 1 |
 | Arch Capital Group | ok | 15 | 0 |
-| Anduril | ok | 2396 | 4 |
+| Anduril | ok | 2397 | 4 |
 | Ameriprise Financial | ok | 18 | 0 |
 | Adobe | ok | 11 | 1 |
 | Walleye Capital | ok | 5 | 2 |
-| Secretariat | ok | 77 | 2 |
+| Secretariat | ok | 76 | 2 |
 | Charles River Associates | ok | 86 | 2 |
 | Audax Group | ok | 15 | 0 |
 | Audax Private Equity | ok | 4 | 0 |
-| Formlabs | ok | 219 | 0 |
+| Formlabs | ok | 220 | 0 |
 | Interactive Brokers | disabled | — | — |
 | Ginkgo Bioworks | ok | 20 | 0 |
 | CircuitHub | ok | 8 | 0 |
