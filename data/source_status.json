@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 2014,
-    "regional": 143,
-    "internships": 143,
-    "matching": 131
+    "checked": 1930,
+    "regional": 138,
+    "internships": 138,
+    "matching": 126
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -142,7 +142,7 @@
     "name": "Moderna",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 145,
+    "checked": 143,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -187,7 +187,7 @@
     "name": "RTX",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 380,
+    "checked": 376,
     "regional": 51,
     "internships": 50,
     "matching": 25
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 1222,
+    "checked": 1224,
     "regional": 13,
     "internships": 2,
     "matching": 0
@@ -231,7 +231,7 @@
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 1406,
+    "checked": 1407,
     "regional": 60,
     "internships": 6,
     "matching": 0
@@ -248,7 +248,7 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 206,
+    "checked": 205,
     "regional": 203,
     "internships": 19,
     "matching": 14
@@ -279,8 +279,8 @@
     "name": "Hasbro",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 124,
-    "regional": 29,
+    "checked": 125,
+    "regional": 30,
     "internships": 1,
     "matching": 0
   },
@@ -310,7 +310,7 @@
     "name": "Travelers",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 250,
+    "checked": 249,
     "regional": 28,
     "internships": 11,
     "matching": 3
@@ -344,8 +344,8 @@
     "name": "The Hartford",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 109,
-    "regional": 21,
+    "checked": 110,
+    "regional": 22,
     "internships": 8,
     "matching": 2
   },
@@ -362,7 +362,7 @@
     "checked_at": "2026-10-02",
     "status": "ok",
     "checked": 75,
-    "regional": 15,
+    "regional": 14,
     "internships": 0,
     "matching": 0
   },
@@ -388,7 +388,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 365,
+    "checked": 366,
     "regional": 24,
     "internships": 14,
     "matching": 13
@@ -458,7 +458,7 @@
     "name": "Manulife Financial",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 112,
+    "checked": 113,
     "regional": 18,
     "internships": 13,
     "matching": 5
@@ -578,7 +578,7 @@
     "name": "CACI",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 40,
+    "checked": 44,
     "regional": 1,
     "internships": 1,
     "matching": 1
@@ -608,7 +608,7 @@
     "name": "Anduril",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 2418,
+    "checked": 2419,
     "regional": 242,
     "internships": 10,
     "matching": 4
@@ -689,7 +689,7 @@
     "checked_at": "2026-10-02",
     "status": "ok",
     "checked": 228,
-    "regional": 138,
+    "regional": 139,
     "internships": 12,
     "matching": 0
   },
