@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 1930,
-    "regional": 138,
-    "internships": 138,
-    "matching": 126
+    "checked": 1911,
+    "regional": 135,
+    "internships": 135,
+    "matching": 124
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -24,7 +24,7 @@
     "name": "HubSpot",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 125,
+    "checked": 132,
     "regional": 5,
     "internships": 0,
     "matching": 0
@@ -61,8 +61,8 @@
     "name": "Toast",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 330,
-    "regional": 19,
+    "checked": 329,
+    "regional": 20,
     "internships": 0,
     "matching": 0
   },
@@ -108,9 +108,9 @@
     "name": "Biogen",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 221,
-    "regional": 87,
-    "internships": 6,
+    "checked": 227,
+    "regional": 92,
+    "internships": 8,
     "matching": 0
   },
   {
@@ -125,7 +125,7 @@
     "name": "Boston Dynamics",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 73,
+    "checked": 70,
     "regional": 67,
     "internships": 0,
     "matching": 0
@@ -142,7 +142,7 @@
     "name": "Moderna",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 143,
+    "checked": 142,
     "regional": 0,
     "internships": 0,
     "matching": 0
@@ -187,8 +187,8 @@
     "name": "RTX",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 376,
-    "regional": 51,
+    "checked": 374,
+    "regional": 50,
     "internships": 50,
     "matching": 25
   },
@@ -204,8 +204,8 @@
     "name": "GE Vernova",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 1224,
-    "regional": 13,
+    "checked": 1244,
+    "regional": 14,
     "internships": 2,
     "matching": 0
   },
@@ -221,8 +221,8 @@
     "name": "Analog Devices",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 484,
-    "regional": 120,
+    "checked": 487,
+    "regional": 123,
     "internships": 18,
     "matching": 0
   },
@@ -231,7 +231,7 @@
     "name": "Thermo Fisher Scientific",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 1407,
+    "checked": 1433,
     "regional": 60,
     "internships": 6,
     "matching": 0
@@ -248,7 +248,7 @@
     "name": "MIT Lincoln Laboratory",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 205,
+    "checked": 206,
     "regional": 203,
     "internships": 19,
     "matching": 14
@@ -279,8 +279,8 @@
     "name": "Hasbro",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 125,
-    "regional": 30,
+    "checked": 123,
+    "regional": 29,
     "internships": 1,
     "matching": 0
   },
@@ -310,9 +310,9 @@
     "name": "Travelers",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 249,
-    "regional": 28,
-    "internships": 11,
+    "checked": 253,
+    "regional": 33,
+    "internships": 15,
     "matching": 3
   },
   {
@@ -327,7 +327,7 @@
     "name": "Stanley Black & Decker",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 288,
+    "checked": 286,
     "regional": 9,
     "internships": 0,
     "matching": 0
@@ -344,10 +344,10 @@
     "name": "The Hartford",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 110,
-    "regional": 22,
-    "internships": 8,
-    "matching": 2
+    "checked": 113,
+    "regional": 24,
+    "internships": 10,
+    "matching": 4
   },
   {
     "source_id": "company:bae-systems",
@@ -361,7 +361,7 @@
     "name": "IDEXX",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 75,
+    "checked": 77,
     "regional": 14,
     "internships": 0,
     "matching": 0
@@ -371,7 +371,7 @@
     "name": "WEX",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 49,
+    "checked": 51,
     "regional": 2,
     "internships": 0,
     "matching": 0
@@ -388,7 +388,7 @@
     "name": "GlobalFoundries",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 366,
+    "checked": 370,
     "regional": 24,
     "internships": 14,
     "matching": 13
@@ -408,7 +408,7 @@
     "name": "Trimble",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 15,
+    "checked": 16,
     "regional": 2,
     "internships": 2,
     "matching": 0
@@ -418,9 +418,9 @@
     "name": "TJX",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 31,
-    "regional": 5,
-    "internships": 4,
+    "checked": 34,
+    "regional": 7,
+    "internships": 6,
     "matching": 0
   },
   {
@@ -438,7 +438,7 @@
     "name": "Merck",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 246,
+    "checked": 247,
     "regional": 25,
     "internships": 22,
     "matching": 7
@@ -458,7 +458,7 @@
     "name": "Manulife Financial",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 113,
+    "checked": 116,
     "regional": 18,
     "internships": 13,
     "matching": 5
@@ -478,8 +478,8 @@
     "name": "Lexington Medical",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 15,
-    "regional": 12,
+    "checked": 16,
+    "regional": 13,
     "internships": 3,
     "matching": 1
   },
@@ -548,9 +548,9 @@
     "name": "Cigna Group",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 26,
-    "regional": 11,
-    "internships": 11,
+    "checked": 21,
+    "regional": 10,
+    "internships": 10,
     "matching": 2
   },
   {
@@ -578,7 +578,7 @@
     "name": "CACI",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 44,
+    "checked": 51,
     "regional": 1,
     "internships": 1,
     "matching": 1
@@ -598,7 +598,7 @@
     "name": "Arch Capital Group",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 16,
+    "checked": 22,
     "regional": 1,
     "internships": 1,
     "matching": 0
@@ -608,10 +608,10 @@
     "name": "Anduril",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 2419,
-    "regional": 242,
-    "internships": 10,
-    "matching": 4
+    "checked": 2425,
+    "regional": 241,
+    "internships": 11,
+    "matching": 5
   },
   {
     "source_id": "company:ameriprise-financial",
@@ -658,7 +658,7 @@
     "name": "Charles River Associates",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 88,
+    "checked": 89,
     "regional": 44,
     "internships": 4,
     "matching": 2
@@ -668,8 +668,8 @@
     "name": "Audax Group",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 15,
-    "regional": 12,
+    "checked": 14,
+    "regional": 11,
     "internships": 6,
     "matching": 0
   },
@@ -678,8 +678,8 @@
     "name": "Audax Private Equity",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 3,
-    "regional": 3,
+    "checked": 2,
+    "regional": 2,
     "internships": 1,
     "matching": 0
   },
@@ -688,9 +688,9 @@
     "name": "Formlabs",
     "checked_at": "2026-10-02",
     "status": "ok",
-    "checked": 228,
-    "regional": 139,
-    "internships": 12,
+    "checked": 232,
+    "regional": 141,
+    "internships": 11,
     "matching": 0
   },
   {
