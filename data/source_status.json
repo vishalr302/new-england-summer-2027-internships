@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 1225,
+    "checked": 1223,
     "regional": 14,
     "internships": 2,
     "matching": 0
@@ -326,8 +326,11 @@
     "source_id": "company:stanley-black-and-decker",
     "name": "Stanley Black & Decker",
     "checked_at": "2026-10-03",
-    "status": "error",
-    "error": "KeyError: 'externalPath'"
+    "status": "ok",
+    "checked": 284,
+    "regional": 9,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:sikorsky",
@@ -605,7 +608,7 @@
     "name": "Anduril",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 2435,
+    "checked": 2431,
     "regional": 241,
     "internships": 11,
     "matching": 5
@@ -742,10 +745,10 @@
     "name": "Gartner",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 19,
-    "regional": 1,
-    "internships": 1,
-    "matching": 1
+    "checked": 18,
+    "regional": 0,
+    "internships": 0,
+    "matching": 0
   },
   {
     "source_id": "company:iat-insurance-group",

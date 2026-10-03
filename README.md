@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-10-03 (UTC)** · Scheduled every six hours
 
-**Active internships: 205** · **Added in last 24 hours: 2** · **Direct company finds: 90**
+**Active internships: 202** · **Added in last 24 hours: 2** · **Direct company finds: 90**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **86 of 205 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **86 of 202 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -86,7 +86,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Cigna Group | ◇ [Data &amp; Analytics Engineering Intern - Technology Development Program](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533) | Bloomfield, CT | SimplifyJobs | Unknown | 2026-09-13 |
 | Cigna Group | [Analytics Leadership Development Program (ALDP) Summer Internship](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | Cigna Group Careers, SimplifyJobs | 2026-09-08 · 25 days ago | 2026-09-13 |
 | AQR Capital Management | ◇ [Quantitative Prediction Markets Research Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) | Greenwich, CT | SimplifyJobs | Unknown | 2026-09-13 |
-| AMD | ◇ [Data Analyst Intern/Co-op 🎓](https://careers.amd.com/jobs/91183?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 
 ## Software Engineering
 
@@ -197,7 +196,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | MIT Lincoln Laboratory | [Optical Engineering Intern - Optical Specialist (Summer 2027) - Group 78](https://careers.ll.mit.edu/job/Lexington-Optical-Engineering-Intern-Optical-Specialist-%28Summer-2027%29-Group-78-MA-02420/1435096800) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-29 |
 | Draper | ◇ [Requirements Engineering Intern - Digital Engineering](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1) | Cambridge, MA; Lowell, MA | SimplifyJobs | Unknown | 2026-09-29 |
 | RTX | [2027 Summer Intern, Systems Engineering (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Summer-Intern--Systems-Engineering--Onsite-_01872108) | US-CT-EAST HARTFORD-ETC | 🔎 Direct find | 2026-09-30 · 3 days ago | 2026-09-28 |
-| Philips | ◇ [Electrical Engineer Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605) | Cambridge, MA | SimplifyJobs | Unknown | 2026-09-26 |
 | MIT Lincoln Laboratory | [Optical Engineering Intern - Optical Engineer (Summer 2027) - Group 78](https://careers.ll.mit.edu/job/Lexington-Optical-Engineering-Intern-Optical-Engineer-%28Summer-2027%29-Group-78-MA-02420/1433573800) | Lexington, MA, US | 🔎 Direct find | Unknown | 2026-09-24 |
 | RTX | [DO Process Engineering Internship - Summer 2027 (Onsite)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/DO-Process-Engineering-Internship---Summer-2027--Onsite-_01872686) | US-CT-MIDDLETOWN-220A | 🔎 Direct find | 2026-09-21 · 12 days ago | 2026-09-21 |
 | Corning | ◇ [Imaging Sciences Engineer Intern](https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900?ats=successfactors) | Keene, NH | SimplifyJobs | Unknown | 2026-09-19 |
@@ -249,7 +247,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Apple | ◇ [GPU Intern - Multiple Teams](https://jobs.apple.com/en-us/details/200682357) | Cambridge, UK | SimplifyJobs | Unknown | 2026-09-13 |
 | Apple | ◇ [GPU Intern](https://jobs.apple.com/en-us/details/200679650) | Cambridge, UK | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Product Development Engineering Intern/Co-op](https://careers.amd.com/jobs/91230?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
-| AMD | ◇ [Hardware Engineering Intern/Co-op - Undergrad](https://careers.amd.com/jobs/91173?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Hardware Design Verification Engineering Intern/Co-op](https://careers.amd.com/jobs/90820?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Firmware Engineer Intern/Co-op 🎓](https://careers.amd.com/jobs/90805?icims=1) | Boxborough, MA | SimplifyJobs | Unknown | 2026-09-13 |
 | AMD | ◇ [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90801?icims=1) | Massachusetts | SimplifyJobs | Unknown | 2026-09-13 |
@@ -270,7 +267,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 ## Source health
 
-62 sources completed · 21 coverage gaps · 3 disabled entries
+63 sources completed · 20 coverage gaps · 3 disabled entries
 
 <details>
 <summary>View all monitored sources</summary>
@@ -300,7 +297,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Bose | error | — | — |
 | RTX | ok | 338 | 23 |
 | Raytheon | disabled | — | — |
-| GE Vernova | ok | 1225 | 0 |
+| GE Vernova | ok | 1223 | 0 |
 | iRobot | error | — | — |
 | Analog Devices | ok | 487 | 0 |
 | Thermo Fisher Scientific | ok | 1432 | 0 |
@@ -315,7 +312,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Pratt &amp; Whitney | disabled | — | — |
 | Travelers | ok | 253 | 3 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | error | — | — |
+| Stanley Black &amp; Decker | ok | 284 | 0 |
 | Sikorsky | error | — | — |
 | The Hartford | ok | 114 | 4 |
 | BAE Systems | error | — | — |
@@ -344,7 +341,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | CACI | ok | 51 | 1 |
 | Axon | ok | 3 | 0 |
 | Arch Capital Group | ok | 22 | 0 |
-| Anduril | ok | 2435 | 5 |
+| Anduril | ok | 2431 | 5 |
 | Ameriprise Financial | ok | 12 | 0 |
 | Adobe | ok | 13 | 2 |
 | Walleye Capital | ok | 6 | 2 |
@@ -358,7 +355,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | CircuitHub | ok | 8 | 0 |
 | Venti Technologies | ok | 35 | 0 |
 | Cyvl | ok | 16 | 3 |
-| Gartner | ok | 19 | 1 |
+| Gartner | ok | 18 | 0 |
 | IAT Insurance Group | ok | 23 | 1 |
 | Avangrid / Iberdrola | ok | 8 | 3 |
 | BerryDunn (web posting) | ok | 1 | 1 |
