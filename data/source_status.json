@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 1951,
-    "regional": 138,
-    "internships": 138,
-    "matching": 126
+    "checked": 1912,
+    "regional": 134,
+    "internships": 134,
+    "matching": 122
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -187,7 +187,7 @@
     "name": "RTX",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 344,
+    "checked": 338,
     "regional": 45,
     "internships": 45,
     "matching": 23
@@ -204,7 +204,7 @@
     "name": "GE Vernova",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 1226,
+    "checked": 1225,
     "regional": 14,
     "internships": 2,
     "matching": 0
@@ -528,7 +528,7 @@
     "name": "GE Aerospace",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 50,
+    "checked": 47,
     "regional": 0,
     "internships": 0,
     "matching": 0
