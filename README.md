@@ -4,7 +4,7 @@ Automatically collected student opportunities across **Massachusetts · Rhode Is
 
 Last updated: **2026-10-03 (UTC)** · Scheduled every six hours
 
-**Active internships: 206** · **Added in last 24 hours: 2** · **Direct company finds: 91**
+**Active internships: 205** · **Added in last 24 hours: 2** · **Direct company finds: 90**
 
 [Download CSV](data/jobs.csv) · [Full JSON & history](data/jobs.json) · [Source health](data/source_status.json) · [Contribute](CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Listings are observations, not guarantees of availability. Confirm dates, eligib
 
 ## Posting dates
 
-Employer posting dates are available for **87 of 206 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
+Employer posting dates are available for **86 of 205 active listings**. The **Posted / age** column shows the employer-reported date and its age as of the last update (UTC). **First tracked** is when this tracker discovered the role.
 
 Unknown means the employer posting date is unavailable. We do not substitute the age of an entry on Simplify or another list. Employers may repost or reset dates, so these dates may not reflect the first-ever advertisement.
 
@@ -213,7 +213,6 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Dell Technologies | ◇ [Hardware Engineering Intern - Infrastructure Solutions Group](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770) | Hopkinton, MA | SimplifyJobs | Unknown | 2026-09-14 |
 | Cyvl | [Hardware Engineering Intern (Co-Op Spring/Intern Summer 2027)](https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e) | Boston, Massachusetts; Somerville, Massachusetts | 🔎 Direct find | 2026-09-14 · 19 days ago | 2026-09-14 |
 | Avangrid / Iberdrola | ◇ [2027 Engineering &amp; Project Delivery Internship Program](https://iberdrola.wd3.myworkdayjobs.com/Iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Engineering---Project-Delivery-Internship-Program_R-32746) | United States Of America, Connecticut, Orange; United States Of America, Massachusetts, Boston | 🔎 Direct find | 2026-09-29 · 4 days ago | 2026-09-14 |
-| RTX | [Engineering Services Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Engineering-Services-Intern--Summer-2027-_01872640) | US-CT-WINDSOR LOCKS-B1A | 🔎 Direct find | 2026-09-29 · 4 days ago | 2026-09-14 |
 | Secretariat | [Intern, Engineering Sciences (Summer 2027)](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4399032009) | Downtown Boston, MA | 🔎 Direct find | Unknown | 2026-09-13 |
 | Marvell | [Physical Design Engineer Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1) | Burlington, VT; Westborough, MA | 🔎 Direct find | 2026-09-04 · 29 days ago | 2026-09-13 |
 | Marvell | [Physical Design Engineer Intern, BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1) | Burlington, VT; Westborough, MA | 🔎 Direct find | 2026-09-04 · 29 days ago | 2026-09-13 |
@@ -271,14 +270,14 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 
 ## Source health
 
-63 sources completed · 20 coverage gaps · 3 disabled entries
+62 sources completed · 21 coverage gaps · 3 disabled entries
 
 <details>
 <summary>View all monitored sources</summary>
 
 | Source | Status | Checked | Matching |
 | --- | --- | --- | --- |
-| SimplifyJobs | ok | 1912 | 122 |
+| SimplifyJobs | ok | 1899 | 120 |
 | Vansh &amp; Ouckah | ok | 214 | 11 |
 | HubSpot | ok | 132 | 0 |
 | Wayfair | error | — | — |
@@ -316,7 +315,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | Pratt &amp; Whitney | disabled | — | — |
 | Travelers | ok | 253 | 3 |
 | Synchrony | error | — | — |
-| Stanley Black &amp; Decker | ok | 285 | 0 |
+| Stanley Black &amp; Decker | error | — | — |
 | Sikorsky | error | — | — |
 | The Hartford | ok | 114 | 4 |
 | BAE Systems | error | — | — |
@@ -330,7 +329,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | S&amp;P Global | ok | 13 | 2 |
 | Merck | ok | 244 | 7 |
 | Marvell | ok | 42 | 11 |
-| Manulife Financial | ok | 114 | 5 |
+| Manulife Financial | ok | 115 | 5 |
 | MKS Instruments | ok | 2 | 0 |
 | Lexington Medical | ok | 16 | 1 |
 | Kensho | ok | 2 | 2 |
@@ -345,7 +344,7 @@ Unknown means the employer posting date is unavailable. We do not substitute the
 | CACI | ok | 51 | 1 |
 | Axon | ok | 3 | 0 |
 | Arch Capital Group | ok | 22 | 0 |
-| Anduril | ok | 2434 | 5 |
+| Anduril | ok | 2435 | 5 |
 | Ameriprise Financial | ok | 12 | 0 |
 | Adobe | ok | 13 | 2 |
 | Walleye Capital | ok | 6 | 2 |

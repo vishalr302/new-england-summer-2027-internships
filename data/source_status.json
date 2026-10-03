@@ -4,10 +4,10 @@
     "name": "SimplifyJobs",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 1912,
-    "regional": 134,
-    "internships": 134,
-    "matching": 122
+    "checked": 1899,
+    "regional": 132,
+    "internships": 132,
+    "matching": 120
   },
   {
     "source_id": "github:Vansh & Ouckah",
@@ -326,11 +326,8 @@
     "source_id": "company:stanley-black-and-decker",
     "name": "Stanley Black & Decker",
     "checked_at": "2026-10-03",
-    "status": "ok",
-    "checked": 285,
-    "regional": 9,
-    "internships": 0,
-    "matching": 0
+    "status": "error",
+    "error": "KeyError: 'externalPath'"
   },
   {
     "source_id": "company:sikorsky",
@@ -458,7 +455,7 @@
     "name": "Manulife Financial",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 114,
+    "checked": 115,
     "regional": 18,
     "internships": 13,
     "matching": 5
@@ -608,7 +605,7 @@
     "name": "Anduril",
     "checked_at": "2026-10-03",
     "status": "ok",
-    "checked": 2434,
+    "checked": 2435,
     "regional": 241,
     "internships": 11,
     "matching": 5
